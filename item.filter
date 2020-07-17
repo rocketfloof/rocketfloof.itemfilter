@@ -1,31 +1,27 @@
-//test//
-//Gold//
+//███ ROCKETFLOOF ITEM FILTER ███//
 
+// ███████  Gold  ███████ //
 ItemDisplay[GOLD<4999]: // Gold 5K+
 
-//Misc.//
-
+// ███████  Misc.  ███████ //
 //ItemDisplay[key]: // 	Keys
 ItemDisplay[tsc]: Town Portal // Town Portal Scroll
 ItemDisplay[isc]: Identify // 	Identify Scroll
 //ItemDisplay[tbk]: // 	Town Portal Book
 //ItemDisplay[ibk]: // 	Identify Book
 
-//Jewelry//
-
+// ███████  Jewelry  ███████ //
 //ItemDisplay[amu]: // 	amulet
 ItemDisplay[!RARE !UNI rin]: // rings hidden except rare/unique
 //ItemDisplay[jew]: // 	Jewel
 
-//Arrows and Bolts//
-
+// ███████  Arrows and Bolts  ███████ //
 ItemDisplay[aqv]: //	Rusted Arrows
 ItemDisplay[cqv]: // 	Rusted Bolts
 ItemDisplay[aq2]: // 	Arrows
 ItemDisplay[cq2]: // 	Bolts
 
-//Gems and Skulls//
-
+// ███████  Gems  ███████ //
 ItemDisplay[gcv]: //	Chipped Amethyst
 ItemDisplay[gcy]: // 	Chipped Topaz
 ItemDisplay[gcb]: // 	Chipped Saphire
@@ -66,8 +62,7 @@ ItemDisplay[sku]: // 	Skull
 //ItemDisplay[gpw]: // 	Perfect Diamond
 //ItemDisplay[skz]: // 	Perfect Skull
 
-//Potions//
-
+// ███████  Potions  ███████ //
 ItemDisplay[hp1]: //	Minor Healing Potion
 ItemDisplay[hp2]: // 	Light Healing Potion
 ItemDisplay[hp3]: // 	Healing Potion
@@ -80,14 +75,11 @@ ItemDisplay[mp4]: // 	Greater Mana Potion
 ItemDisplay[mp5]: Super Mana // 	Super Mana Potion
 ItemDisplay[rvs]: // 	Rejuv Potion
 ItemDisplay[rvl]: Full Rejuvenation // 	Full Rejuv Potion
-
 ItemDisplay[wms]: // 	Thawing Potion
 ItemDisplay[vps]: // 	Stamina Potion
 ItemDisplay[yps]: Antidote // 	Antidote Potion
 
-
-//Throw Potions//
-
+// ███████  Throw Potions  ███████ //
 ItemDisplay[gps]: // 	Rancid Gas Potion
 ItemDisplay[ops]: // 	Oil Potion
 ItemDisplay[gpm]: // 	Choking Gas Potion
@@ -95,14 +87,12 @@ ItemDisplay[opm]: // 	Exploding Potion
 ItemDisplay[gpl]: // 	Strangling Gas Potion
 ItemDisplay[opl]: // 	Fulminating Potion
 
-//Charms//
-
+// ███████  Charms  ███████ //
 //ItemDisplay[cm1]: // 	Small Charm
 //ItemDisplay[cm2]: // 	Large Charm
 //ItemDisplay[cm3]: // 	Grand Charm
 
-//Runes//
-
+// ███████  Runes  ███████ //
 //ItemDisplay[r01]: // 	El Rune
 //ItemDisplay[r02]: // 	Eld Rune
 //ItemDisplay[r03]: // 	Tir Rune
@@ -137,12 +127,10 @@ ItemDisplay[opl]: // 	Fulminating Potion
 //ItemDisplay[r32]: // 	Cham Rune
 //ItemDisplay[r33]: // 	Zod Rune
 
-//Wirt's Leg//
-
+// ███████  Wirt's Leg  ███████ //
 //ItemDisplay[leg]: // 	Wirt's Leg
 
-//Set Items//
-
+// ███████  Set Items  ███████ //
 ItemDisplay[SET !ID rin]: //Angelic Halo and Cathan's Seal
 ItemDisplay[SET !ID rng]: //Angelic Mantle
 ItemDisplay[SET !ID sbr]: //Angelic Sickle
@@ -258,8 +246,7 @@ ItemDisplay[SET !ID uh9]: //Trang-Oul's Guise
 ItemDisplay[SET !ID xmg]: //Trang-Oul's Claws
 ItemDisplay[SET !ID utc]: //Trang-Oul's Girth
 
-//Unique Axes//
-
+// ███████  Unique Axes  ███████ //
 ItemDisplay[UNI !ID hax]: // 	The Gnasher Hand Axe
 ItemDisplay[UNI !ID axe]: // 	Deathspade Axe
 ItemDisplay[UNI !ID 2ax]: // 	Bladebone Double Axe
@@ -291,8 +278,7 @@ ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
 ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
 ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
 
-//Unique Wands//
-
+// ███████  Unique Wands  ███████ //
 //ItemDisplay[UNI !ID wnd]: // 	Torch of Iro Wand
 //ItemDisplay[UNI !ID ywn]: // 	Maelstrom Yew Wand
 //ItemDisplay[UNI !ID bwn]: // 	Gravenspine Bone Wand
@@ -306,8 +292,7 @@ ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
 //ItemDisplay[UNI !ID 7bw]: // 	Boneshade Lich Wand
 //ItemDisplay[UNI !ID 7gw]: // 	Death's Web Unearthed Wand
 
-//Unique Maces//
-
+// ███████  Unique Maces  ███████ //
 ItemDisplay[UNI !ID clb]: // 	Felloak Club
 ItemDisplay[UNI !ID spc]: // 	Stoutnail Spiked Club
 ItemDisplay[UNI !ID mac]: // 	Crushflange Mace
@@ -334,8 +319,7 @@ ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
 ItemDisplay[UNI !ID 7m7]: // 	Windhammer Ogre Maul
 ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
 
-//Unique Swords//
-
+// ███████  Unique Swords  ███████ //
 ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
 ItemDisplay[UNI !ID scm]: // 	Blood Crescent Scimitar
 ItemDisplay[UNI !ID sbr]: // 	Skewer of Krintiz Sabre
@@ -373,8 +357,7 @@ ItemDisplay[UNI !ID 7gs]: // 	FlameBellow Balrog Blade
 //ItemDisplay[UNI !ID 7b7]: // 	Doombringer Champion Sword
 //ItemDisplay[UNI !ID 7gd]: // 	The Grandfather Colossus Blade
 
-//Unique Daggers//
-
+// ███████  Unique Daggers  ███████ //
 ItemDisplay[UNI !ID dgr]: // 	Gull Dagger
 ItemDisplay[UNI !ID dir]: // 	The Diggler Dirk
 ItemDisplay[UNI !ID kri]: // 	The Jade Tan Do Kris
@@ -389,8 +372,7 @@ ItemDisplay[UNI !ID 9bl]: // 	Stormspike Stiletto
 //ItemDisplay[UNI !ID 7kr]: // 	Fleshripper Fanged Knife
 //ItemDisplay[UNI !ID 7bl]: // 	Ghostflame Legend Spike
 
-//Unique Throwing//
-
+// ███████  Unique Throwing  ███████ //
 ItemDisplay[UNI !ID 9tk]: // 	Deathbit Battle Dart
 ItemDisplay[UNI !ID 9ta]: // 	The Scalper Francisca
 
@@ -398,14 +380,12 @@ ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
 ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
 ItemDisplay[UNI !ID 7b8]: // 	Lacerator Winged Axe
 
-//Unique Javelins//
-
+// ███████  Unique Javelins  ███████ //
 ItemDisplay[UNI !ID 7s7]: // 	Demon's Arch Balrog Spear
 ItemDisplay[UNI !ID 7gl]: // 	Wraith Flight Ghost Glaive
 ItemDisplay[UNI !ID 7ts]: // 	Gargoyle's Bite Winged Harpoon
 
-//Unique Spears//
-
+// ███████  Unique Spears  ███████ //
 ItemDisplay[UNI !ID spr]: // 	The Dragon Chang Spear
 ItemDisplay[UNI !ID tri]: // 	Razortine Trident
 ItemDisplay[UNI !ID brn]: // 	Bloodthief Brandistock
@@ -422,8 +402,7 @@ ItemDisplay[UNI !ID 7sr]: // 	Arioc's Needle Hyperion Spear
 //ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
 //ItemDisplay[UNI !ID 7p7]: // 	Steel Pillar War Pike
 
-//Unique Polearms//
-
+// ███████  Unique Polearms  ███████ //
 ItemDisplay[UNI !ID bar]: // 	Dimoak's Hew Bardiche
 ItemDisplay[UNI !ID vou]: // 	Steelgoad Voulge
 ItemDisplay[UNI !ID scy]: // 	Soul Harvest Scythe
@@ -443,8 +422,7 @@ ItemDisplay[UNI !ID 7o7]: // 	Bonehew Ogre Axe
 //ItemDisplay[UNI !ID 7pa]: // 	Tomb Reaver Cryptic Axe
 //ItemDisplay[UNI !ID 7wc]: // 	Stormspire Giant Thresher
 
-//Unique Staves//
-
+// ███████  Unique Staves  ███████ //
 ItemDisplay[UNI !ID sst]: // 	Bane Ash Short Staff
 ItemDisplay[UNI !ID lst]: // 	Serpent Lord Long Staff
 ItemDisplay[UNI !ID cst]: // 	Spire of Lazarus Gnarled Staff
@@ -460,8 +438,7 @@ ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
 //ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
 //ItemDisplay[UNI !ID 6ws]: // 	Mand Song's Lesson Archon Staff
 
-//Unique Bows//
-
+// ███████  Unique Bows  ███████ //
 ItemDisplay[UNI !ID sbw]: // 	Pluckeye Short Bow
 ItemDisplay[UNI !ID hbw]: // 	Witherstring Hunter's Bow
 ItemDisplay[UNI !ID lbw]: // 	Raven Claw Long Bow
@@ -484,8 +461,7 @@ ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
 ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
 ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
 
-//Unique Crossbows//
-
+// ███████  Unique Crossbows  ███████ //
 ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
 ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
 ItemDisplay[UNI !ID hxb]: // 	Hellcast Heavy Crossbow
@@ -499,8 +475,7 @@ ItemDisplay[UNI !ID 8rx]: // 	Demon Machine Chu-Ko-Nu
 ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
 ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
 
-//Unique Scepters//
-
+// ███████  Unique Scepters  ███████ //
 ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
 ItemDisplay[UNI !ID gsc]: // 	Rusthandle Grand Scepter
 ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
@@ -513,21 +488,18 @@ ItemDisplay[UNI !ID 9ws]: // 	Hand of Blessed Light Divine Scepter
 //ItemDisplay[UNI !ID 7qs]: // 	The Redeemer Seraph Rod
 //ItemDisplay[UNI !ID 7ws]: //	Astreon's Iron Ward Caduceus
 
-//Unique Assassin Weapons//
-
+// ███████  Unique Assassin Weapons  ███████ //
 //ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
 ItemDisplay[UNI !ID 7wb]: // 	Jade Talon Wrist Sword
 ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
 ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 
-//Unique Sorc Orbs//
-
+// ███████  Unique Sorc Orbs  ███████ //
 //ItemDisplay[UNI !ID oba]: // 	The Oculus Swirling Crystal
 //ItemDisplay[UNI !ID obc]: // 	Eschuta's Temper Eldritch Orb
 //ItemDisplay[UNI !ID obf]: // 	Death's Fathom Dimensional Shard
 
-//Unique Amazon Bows//
-
+// ███████  Unique Amazon Bows  ███████ //
 ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
 ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 ItemDisplay[UNI !ID ama]: // 	Titan's Revenge Ceremonial Javelin
@@ -535,8 +507,7 @@ ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
 ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
 ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
 
-//Unique Helms//
-
+// ███████  Unique helms  ███████ //
 ItemDisplay[UNI !ID cap]: // 	Biggin's Bonnet Cap/hat
 ItemDisplay[UNI !ID skp]: // 	Tarnhelm Skull Cap
 ItemDisplay[UNI !ID hlm]: // 	Coif of Glory Helm
@@ -562,8 +533,7 @@ ItemDisplay[UNI !ID xhm]: // 	Valkyrie Wing Winged Helm
 //ItemDisplay[UNI !ID usk]: // 	Andariel's Visage Demonhead
 //ItemDisplay[UNI !ID uh9]: // 	Giant Skull Bone Visage
 
-//Unique Body Armor//
-
+// ███████  Unique Body Armor  ███████ //
 ItemDisplay[UNI !ID qui]: // 	Greyform Quilted Armor
 ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
 ItemDisplay[UNI !ID hla]: // 	The Centurion Hard Leather Armor
@@ -604,8 +574,7 @@ ItemDisplay[UNI !ID xtp]: // 	Que-Hegan's Wisdom Mage Plate
 //ItemDisplay[UNI !ID uul]: // 	Steel Carapace Shadow Plate
 //ItemDisplay[UNI !ID uar]: // 	Templar's Might OR Tyrael's Might Sacred Armor
 
-//Unique Shields//
-
+// ███████  Unique Shields  ███████ //
 ItemDisplay[UNI !ID buc]: // 	Pelta Lunata Buckler
 ItemDisplay[UNI !ID sml]: // 	Umbral Disk Small Shield
 ItemDisplay[UNI !ID lrg]: // 	Stormguild Large Shield
@@ -631,8 +600,7 @@ ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
 //ItemDisplay[UNI !ID ush]: // 	Head Hunter's Glory Troll Nest
 //ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
 
-//Unique Gloves//
-
+// ███████  Unique Gloves  ███████ //
 ItemDisplay[UNI !ID lgl]: // 	The Hand of Broc Leather Gloves
 ItemDisplay[UNI !ID vgl]: // 	Bloodfist Heavy Gloves
 ItemDisplay[UNI !ID mgl]: // 	Chance Guards Chain Gloves 
@@ -649,8 +617,7 @@ ItemDisplay[UNI !ID xhg]: // 	Hellmouth War Gauntlets
 //ItemDisplay[UNI !ID umg]: // 	Soul Drainer Vambraces
 //ItemDisplay[UNI !ID uhg]: // 	Steelrend Ogre Gauntlets
 
-//Unique Boots//
-
+// ███████  Unique Boots  ███████ //
 ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
 ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
 ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
@@ -667,8 +634,7 @@ ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
 //ItemDisplay[UNI !ID umb]: // 	Marrowwalk Boneweave Boots
 //ItemDisplay[UNI !ID uhb]: // 	Shadow DancerMyrmidon Greaves
 
-//Unique Belts//
-
+// ███████  Unique Belts  ███████ //
 ItemDisplay[UNI !ID lbl]: // 	Lenymo Sash
 ItemDisplay[UNI !ID vbl]: // 	Snakecord Light Belt
 ItemDisplay[UNI !ID mbl]: // 	Nightsmoke Belt
@@ -685,39 +651,33 @@ ItemDisplay[UNI !ID ztb]: // 	Snowclash Battle Belt
 //ItemDisplay[UNI !ID uvc]: // 	Nosferatu's Coil Vampirefang Belt
 //ItemDisplay[UNI !ID umc]: // 	Verdungo's Hearty Cord Mithril Coil
 
-//Unique Druid Pelts//
-
+// ███████  Unique Druid Pelts  ███████ //
 //ItemDisplay[UNI !ID dra]: // 	Jalal's Mane Totemic Mask
 //ItemDisplay[UNI !ID drb]: // 	Cerebus' Bite Blood Spirt
 //ItemDisplay[UNI !ID drd]: // 	Spirit Keeper Earth Spirit
 //ItemDisplay[UNI !ID dre]: // 	Ravenlore Sky Spirit
 
-//Unique Barb Helms//
-
+// ███████  Unique Barb Helms  ███████ //
 //ItemDisplay[UNI !ID baa]: // 	Arreat's Face Slayer Guard
 ItemDisplay[UNI !ID bac]: // 	Wolfhowl Fury Visor
 //ItemDisplay[UNI !ID bad]: // 	Demonhorn's Edge Destroyer Helm
 //ItemDisplay[UNI !ID bae]: // 	Halaberd's Reign Conquerer Crown
 
-//Unique Paladin Shields//
-
+// ███████  Unique Paladin Shields  ███████ //
 //ItemDisplay[UNI !ID pa9]: //	Herald Of Zakarum Gilded Shield
 ItemDisplay[UNI !ID pac]: // 	Alma Negra Sacred Rondache
 //ItemDisplay[UNI !ID pae]: // 	Dragonscale Zakarum Shield
 
-//Unique Necro Heads//
-
+// ███████  Unique Necro Heads  ███████ //
 //ItemDisplay[UNI !ID nea]: // 	Homunculus Hierophant Trophy
 //ItemDisplay[UNI !ID nee]: // 	Boneflame Succubus Skull
 //ItemDisplay[UNI !ID nef]: // 	Darkforce Spawn Bloodlord Skull
 
-//Unique Other Headgear//
-
+// ███████  Unique Other Headgear  ███████ //
 //ItemDisplay[UNI !ID ci2]: // 	Kira's Guardian Tiara
 //ItemDisplay[UNI !ID ci3]: // 	Griffon's Eye Diadem
 
-//UNIQUE&SET Eth/Socket Catchall//
-
+// ███████  Unique/Set ETH/SOCK Catchall  ███████ //
 ItemDisplay[UNI ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[SET ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[UNI ETH !ID]: ETH %NAME%
@@ -736,8 +696,7 @@ ItemDisplay[UNI]: %NAME%
 ItemDisplay[SET]: %NAME%
 
 
-//Axes//
-
+// ███████  Axes  ███████ //
 ItemDisplay[hax]: // 	Hand Axe
 ItemDisplay[axe]: // 	Axe
 ItemDisplay[2ax]: // 	Double Axe
@@ -771,8 +730,7 @@ ItemDisplay[7bt]: // 	Decapitator
 ItemDisplay[7ga]: // 	Champion Axe
 ItemDisplay[7gi]: // 	Glorious Axe
 
-//Wands//
-
+// ███████  Wands  ███████ //
 ItemDisplay[wnd]: // 	Wand
 ItemDisplay[ywn]: // 	Yew Wand
 ItemDisplay[bwn]: // 	Bone Wand
@@ -788,8 +746,7 @@ ItemDisplay[gwn]: // 	Grim Wand
 //ItemDisplay[7bw]: // 	Lich Wand
 //ItemDisplay[7gw]: // 	Unearthed Wand
 
-//Maces//
-
+// ███████  Maces  ███████ //
 ItemDisplay[clb]: // 	Club
 ItemDisplay[spc]: // 	Spiked Club
 ItemDisplay[mac]: // 	Mace
@@ -817,8 +774,7 @@ ItemDisplay[7wh]: // 	Legendary Mallet
 ItemDisplay[7m7]: // 	Ogre Maul
 ItemDisplay[7gm]: // 	Thunder Maul
 
-//Swords//
-
+// ███████  Swords  ███████ //
 ItemDisplay[ssd]: // 	Short Sword
 ItemDisplay[scm]: // 	Scimitar
 ItemDisplay[sbr]: // 	Saber
@@ -864,8 +820,7 @@ ItemDisplay[!(SOCK>3 AND ETH) 7b7]: // 	Champion Sword
 ItemDisplay[!(SOCK>3 AND ETH) 7fb]: // 	Colossal Sword
 ItemDisplay[!(SOCK>3 AND ETH) 7gd]: // 	Colossus Blade
 
-//Daggers//
-
+// ███████  Daggers  ███████ //
 ItemDisplay[dgr]: // 	Dagger
 ItemDisplay[dir]: // 	Dirk
 ItemDisplay[kri]: // 	Kriss
@@ -881,8 +836,7 @@ ItemDisplay[7di]: // 	Mithral Point
 ItemDisplay[7kr]: // 	Fanged Knife
 ItemDisplay[7bl]: // 	Legend Spike
 
-//Throwing//
-
+// ███████  Throwing  ███████ //
 ItemDisplay[tkf]: // 	Throwing Knife
 ItemDisplay[tax]: // 	Throwing Axe
 ItemDisplay[bkf]: // 	Balanced Knife
@@ -898,8 +852,7 @@ ItemDisplay[7ta]: %YELLOW%$$ %NAME% $$ // 	Flying Axe
 ItemDisplay[7bk]: %YELLOW%$$ %NAME% $$ // 	Winged Knife
 ItemDisplay[7b8]: %YELLOW%$$ %NAME% $$ // 	Winged Axe
 
-//Javelins//
-
+// ███████  Javelins  ███████ //
 ItemDisplay[jav]: // 	Javelin
 ItemDisplay[pil]: // 	Pilum
 ItemDisplay[ssp]: // 	Short Spear
@@ -918,8 +871,7 @@ ItemDisplay[7s7]: %YELLOW%$$ %NAME% $$ // 	Balrog Spear
 ItemDisplay[7gl]: %YELLOW%$$ %NAME% $$ // 	Ghost Glaive
 ItemDisplay[7ts]: %YELLOW%$$ %NAME% $$ // 	Winged Harpoon
 
-//Spears//
-
+// ███████  Spears  ███████ //
 ItemDisplay[spr]: // 	Spear
 ItemDisplay[tri]: // 	Trident
 ItemDisplay[brn]: // 	Brandistock
@@ -938,8 +890,7 @@ ItemDisplay[!(SOCK>3 AND ETH) 7br]: // 	Mancatcher
 ItemDisplay[!(SOCK>3 AND ETH) 7st]: // 	Ghost Spear
 ItemDisplay[!(SOCK>3 AND ETH) 7p7]: // 	War Pike
 
-//Polearms//
-
+// ███████  Polearms  ███████ //
 ItemDisplay[bar]: // 	Bardiche
 ItemDisplay[vou]: // 	Voulge
 ItemDisplay[scy]: // 	Scythe
@@ -961,8 +912,7 @@ ItemDisplay[!(SOCK>3 AND ETH) 7pa]: // 	Cryptic Axe
 ItemDisplay[!(SOCK>3 AND ETH) 7h7]: // 	Great Poleaxe
 ItemDisplay[!(SOCK>3 AND ETH) 7wc]: // 	Giant Thresher
 
-//Staves//
-
+// ███████  Staves  ███████ //
 ItemDisplay[sst]: // 	Short Staff
 ItemDisplay[lst]: // 	Long Staff
 ItemDisplay[cst]: // 	Gnarled Staff
@@ -981,8 +931,7 @@ ItemDisplay[wst]: // 	War Staff
 //ItemDisplay[6bs]: // 	Shillelah
 //ItemDisplay[6ws]: // 	Archon Staff
 
-//Bows//
-
+// ███████  Bows  ███████ //
 ItemDisplay[sbw]: // 	Short Bow
 ItemDisplay[hbw]: // 	Hunter's Bow
 ItemDisplay[lbw]: // 	Long Bow
@@ -1010,8 +959,7 @@ ItemDisplay[6l7]: //	Crusader Bow
 ItemDisplay[6sw]: // 	Ward Bow
 ItemDisplay[6lw]: // 	Hydra Bow
 
-//Crossbows//
-
+// ███████  Crossbows  ███████ //
 ItemDisplay[lxb]: // 	Light Crossbow
 ItemDisplay[mxb]: // 	Crossbow
 ItemDisplay[hxb]: // 	Heavy Crossbow
@@ -1027,8 +975,7 @@ ItemDisplay[6mx]: // 	Gorgon Crossbow
 ItemDisplay[6hx]: // 	Colossus Crossbow
 ItemDisplay[6rx]: // 	Demon Crossbow
 
-//Scepters//
-
+// ███████  Scepters  ███████ //
 ItemDisplay[scp]: // 	Scepter
 ItemDisplay[gsc]: // 	Grand Scepter
 ItemDisplay[wsp]: // 	War Scepter
@@ -1041,8 +988,7 @@ ItemDisplay[wsp]: // 	War Scepter
 //ItemDisplay[7qs]: // 	Seraph Rod
 //ItemDisplay[7ws]: //	Caduceus
 
-//Assassin Weapons//
-
+// ███████  Assassin Weapons  ███████ //
 ItemDisplay[ktr]: // 	Katar
 ItemDisplay[wrb]: // 	Wrist Blade
 ItemDisplay[axf]: // 	Hatchet Hands
@@ -1067,8 +1013,7 @@ ItemDisplay[7lw]: // 	Feral Claws
 ItemDisplay[7tw]: // 	Runic Talons
 ItemDisplay[7qr]: // 	Scissors Suwayyah
 
-//Sorc Orbs//
-
+// ███████  Sorc Orbs  ███████ //
 ItemDisplay[ob1]: // 	Eagle Orb
 ItemDisplay[ob2]: // 	Sacred Globe
 ItemDisplay[ob3]: // 	Smoked Sphere
@@ -1087,8 +1032,7 @@ ItemDisplay[ob5]: // 	Jared's Stone
 //ItemDisplay[obe]: // 	Vortex Orb
 //ItemDisplay[obf]: // 	Dimensional Shard
 
-//Amazon Bows//
-
+// ███████  Amazon Bows  ███████ //
 ItemDisplay[am1]: // 	Stag Bow
 ItemDisplay[am2]: // 	Reflex Bow
 ItemDisplay[am3]: // 	Maiden Spear
@@ -1107,8 +1051,7 @@ ItemDisplay[amd]: // 	Matriarchal Spear
 ItemDisplay[ame]: // 	Matriarchal Pike
 ItemDisplay[amf]: // 	MatriarchalJavelin
 
-//Helms//
-
+// ███████  Helms  ███████ //
 ItemDisplay[cap]: // 	Cap/hat
 ItemDisplay[skp]: // 	Skull Cap
 ItemDisplay[hlm]: // 	Helm
@@ -1136,8 +1079,7 @@ ItemDisplay[urn]: // 	Corona
 ItemDisplay[usk]: // 	Demonhead
 ItemDisplay[uh9]: // 	Bone Visage
 
-//Body Armor//
-
+// ███████  Body Armor  ███████ //
 ItemDisplay[qui]: // 	Quilted Armor
 ItemDisplay[lea]: // 	Leather Armor
 ItemDisplay[hla]: // 	Hard Leather Armor
@@ -1186,8 +1128,7 @@ ItemDisplay[xla]: // 	Demonhide Armor
 //ItemDisplay[uar]: // 	Sacred Armor
 //ItemDisplay[utp]: // 	Archon Plate
 
-//Shields//
-
+// ███████  Shields  ███████ //
 ItemDisplay[buc]: // 	Buckler
 ItemDisplay[sml]: // 	Small Shield
 ItemDisplay[lrg]: // 	Large Shield
@@ -1215,8 +1156,7 @@ ItemDisplay[!SOCK>1 uts]: // 	Ward
 ItemDisplay[!SOCK>1 ush]: // 	Troll Nest
 ItemDisplay[!SOCK>1 upk]: // 	Blade Barrier
 
-//Gloves//
-
+// ███████  Gloves  ███████ //
 ItemDisplay[lgl]: // 	Gloves
 ItemDisplay[vgl]: // 	Heavy Gloves
 ItemDisplay[mgl]: // 	Chain Gloves
@@ -1235,8 +1175,7 @@ ItemDisplay[!RARE umg]: // 	Vambraces
 ItemDisplay[!RARE utg]: // 	Crusader Gauntlets
 ItemDisplay[!RARE uhg]: // 	Ogre Gauntlets
 
-//Boots//
-
+// ███████  Boots  ███████ //
 ItemDisplay[lbt]: // 	Leather Boots
 ItemDisplay[vbt]: // 	Heavy Boots
 ItemDisplay[mbt]: // 	Chain Boots
@@ -1255,8 +1194,7 @@ ItemDisplay[!RARE umb]: // 	Boneweave Boots
 ItemDisplay[!RARE utb]: // 	Mirrored Boots
 ItemDisplay[!RARE uhb]: // 	Myrmidon Greaves
 
-//Belts//
-
+// ███████  Belts  ███████ //
 ItemDisplay[lbl]: // 	Sash
 ItemDisplay[vbl]: // 	Light Belt
 ItemDisplay[mbl]: // 	Belt
@@ -1275,8 +1213,7 @@ ItemDisplay[!RARE umc]: // 	Mithril Coil
 ItemDisplay[!RARE utc]: // 	Troll Belt
 ItemDisplay[!RARE uhc]: // 	Colossus Girdle
 
-//Druid Pelts//
-
+// ███████  Druid Pelts  ███████ //
 ItemDisplay[dr1]: // 	Wolf Head
 ItemDisplay[dr2]: // 	Hawk Helm
 ItemDisplay[dr3]: // 	Antlers
@@ -1295,8 +1232,7 @@ ItemDisplay[dr5]: // 	Spirit Mask
 //ItemDisplay[dre]: // 	Sky Spirit
 //ItemDisplay[drf]: // 	Dream Spirit
 
-//Barb Helms//
-
+// ███████  Barb Helms  ███████ //
 ItemDisplay[ba1]: // 	Jawbone Cap
 ItemDisplay[ba2]: // 	Fanged Helm
 ItemDisplay[ba3]: // 	Horned Helm
@@ -1315,8 +1251,7 @@ ItemDisplay[bad]: // 	Destroyer Helm
 ItemDisplay[bae]: // 	Conquerer Crown
 ItemDisplay[baf]: // 	Guardian Crown
 
-//Paladin Shields//
-
+// ███████  Paladin Shields  ███████ //
 ItemDisplay[pa1]: // 	Targe
 ItemDisplay[pa2]: // 	Rondache
 ItemDisplay[pa3]: // 	Heraldic Shield
@@ -1335,8 +1270,7 @@ ItemDisplay[!SOCK>3 pad]: // 	Ancient Shield
 ItemDisplay[!SOCK>3 pae]: // 	Zakarum Shield
 ItemDisplay[!SOCK>3 paf]: // 	Vortex Shield
 
-//Necro Heads//
-
+// ███████  Necro Shields  ███████ //
 ItemDisplay[ne1]: // 	Preserved Head
 ItemDisplay[ne2]: // 	Zombie Head
 ItemDisplay[ne3]: // 	Unraveller Head
@@ -1355,15 +1289,13 @@ ItemDisplay[ne5]: // 	Demon Head
 //ItemDisplay[nee]: // 	Succubae Skull
 //ItemDisplay[nef]: // 	Bloodlord Skull
 
-//Other Headgear//
-
+// ███████  Other Headgear  ███████ //
 ItemDisplay[!RARE ci0]: // 	Circlet
 ItemDisplay[!RARE ci1]: // 	Coronet
 ItemDisplay[!RARE ci2]: // 	Tiara
 ItemDisplay[!RARE ci3]: // 	Diadem
 
-//Catchall//
-
+// ███████  Catchall  ███████ //
 ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[ETH SOCK=0]: ETH %NAME%
 ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
