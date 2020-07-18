@@ -462,27 +462,27 @@ ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
 ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
 ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
 ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
-ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
-ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
-ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
+//ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
+//ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
+//ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
-ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
-ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
+//ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
+//ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
+//ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Crossbows  ███████ //
 ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
 ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
 ItemDisplay[UNI !ID hxb]: // 	Hellcast Heavy Crossbow
-ItemDisplay[UNI !ID rxb]: // 	Doomslinger Repeating Crossbow
+//ItemDisplay[UNI !ID rxb]: // 	Doomslinger Repeating Crossbow
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 8lx]: // 	Langer Briser Arbalest
 ItemDisplay[UNI !ID 8mx]: // 	Pus Spitter Siege Crossbow
-ItemDisplay[UNI !ID 8hx]: // 	Buriza-Do Kyanon Balista
-ItemDisplay[UNI !ID 8rx]: // 	Demon Machine Chu-Ko-Nu
+//ItemDisplay[UNI !ID 8hx]: // 	Buriza-Do Kyanon Balista
+//ItemDisplay[UNI !ID 8rx]: // 	Demon Machine Chu-Ko-Nu
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
-ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
+//ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
+//ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Scepters  ███████ //
 ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
@@ -509,10 +509,10 @@ ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //ItemDisplay[UNI !ID obf]: // 	Death's Fathom Dimensional Shard
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Amazon Bows  ███████ //
-ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
+//ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
 ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 ItemDisplay[UNI !ID ama]: // 	Titan's Revenge Ceremonial Javelin
-ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
+//ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
 ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
 ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -565,7 +565,7 @@ ItemDisplay[UNI !ID xla]: // 	Skin of the Flayed One Demonhide Armor
 ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
 ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
 ItemDisplay[UNI !ID xcl]: // 	Crow Caw Tigulated Mail
-ItemDisplay[UNI !ID xhn]: // 	Shaftstop Mesh Armor
+//ItemDisplay[UNI !ID xhn]: // 	Shaftstop Mesh Armor
 //ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
 //ItemDisplay[UNI !ID xpl]: // 	Skullder's Ire Russet Armor
 ItemDisplay[UNI !ID xlt]: // 	Guardian Angel Templar Coat
@@ -963,9 +963,9 @@ ItemDisplay[8sw]: // 	Rune Bow
 ItemDisplay[8lw]: // 	Gothic Bow
 //─────────────────────────────────────────────────
 ItemDisplay[6sb]: // 	Spider Bow
-ItemDisplay[6hb]: // 	Blade Bow
+ItemDisplay[!SOCK=4 6hb]: // 	Blade Bow
 ItemDisplay[6lb]: // 	Shadow Bow
-ItemDisplay[6cb]: // 	Great Bow
+ItemDisplay[!SOCK=4 6cb]: // 	Great Bow
 ItemDisplay[6s7]: // 	Diamond Bow
 ItemDisplay[6l7]: //	Crusader Bow
 ItemDisplay[6sw]: // 	Ward Bow
@@ -985,7 +985,7 @@ ItemDisplay[8rx]: // 	Chu-Ko-Nu
 ItemDisplay[6lx]: // 	Pellet Bow
 ItemDisplay[6mx]: // 	Gorgon Crossbow
 ItemDisplay[6hx]: // 	Colossus Crossbow
-ItemDisplay[6rx]: // 	Demon Crossbow
+ItemDisplay[!SOCK=4 6rx]: // 	Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Scepters  ███████ //
 ItemDisplay[scp]: // 	Scepter
