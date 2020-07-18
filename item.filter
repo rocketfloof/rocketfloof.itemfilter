@@ -269,7 +269,7 @@ ItemDisplay[UNI !ID gix]: // 	Humongous Giant Axe
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 9ha]: // 	Coldkill Hatchet
 ItemDisplay[UNI !ID 9ax]: // 	Butcher's Pupil Cleaver
-ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
+//ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
 ItemDisplay[UNI !ID 9mp]: // 	Pompeii's Wrath Crowbill
 ItemDisplay[UNI !ID 9wa]: // 	Guardian Naga Naga
 ItemDisplay[UNI !ID 9la]: // 	Warlord's Trust Military Axe
@@ -311,8 +311,8 @@ ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
 ItemDisplay[UNI !ID mau]: // 	Bonesnap Maul
 ItemDisplay[UNI !ID gma]: // 	Steeldriver Great Maul
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
-ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
+//ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
+//ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
 ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
 ItemDisplay[UNI !ID 9mt]: // 	Moonfall Jagged Star
 ItemDisplay[UNI !ID 9fl]: // 	Baezil's Vortex Knout
@@ -1226,11 +1226,11 @@ ItemDisplay[!RARE utc]: // 	Troll Belt
 ItemDisplay[!RARE uhc]: // 	Colossus Girdle
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Druid Pelts  ███████ //
-ItemDisplay[dr1]: // 	Wolf Head
-ItemDisplay[dr2]: // 	Hawk Helm
-ItemDisplay[dr3]: // 	Antlers
-ItemDisplay[dr4]: // 	Falcon Mask
-ItemDisplay[dr5]: // 	Spirit Mask
+ItemDisplay[!RARE dr1]: // 	Wolf Head
+ItemDisplay[!RARE dr2]: // 	Hawk Helm
+ItemDisplay[!RARE dr3]: // 	Antlers
+ItemDisplay[!RARE dr4]: // 	Falcon Mask
+ItemDisplay[!RARE dr5]: // 	Spirit Mask
 //─────────────────────────────────────────────────
 //ItemDisplay[dr6]: // 	Alpha Helm
 //ItemDisplay[dr7]: // 	Griffon Headress
@@ -1283,11 +1283,11 @@ ItemDisplay[!SOCK>3 pae]: // 	Zakarum Shield
 ItemDisplay[!SOCK>3 paf]: // 	Vortex Shield
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Necro Shields  ███████ //
-ItemDisplay[ne1]: // 	Preserved Head
-ItemDisplay[ne2]: // 	Zombie Head
-ItemDisplay[ne3]: // 	Unraveller Head
-ItemDisplay[ne4]: // 	Gargoyle Head
-ItemDisplay[ne5]: // 	Demon Head
+ItemDisplay[!RARE ne1]: // 	Preserved Head
+ItemDisplay[!RARE ne2]: // 	Zombie Head
+ItemDisplay[!RARE ne3]: // 	Unraveller Head
+ItemDisplay[!RARE ne4]: // 	Gargoyle Head
+ItemDisplay[!RARE ne5]: // 	Demon Head
 //─────────────────────────────────────────────────
 //ItemDisplay[ne6]: // 	Mummified Trophy
 //ItemDisplay[ne7]: // 	Fetish Trophy
