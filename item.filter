@@ -759,8 +759,8 @@ ItemDisplay[gwn]: // 	Grim Wand
 //ItemDisplay[7gw]: // 	Unearthed Wand
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Maces  ███████ //
-ItemDisplay[clb]: // 	Club
-ItemDisplay[spc]: // 	Spiked Club
+ItemDisplay[!RARE !MAG clb]: // 	Club
+ItemDisplay[!RARE !MAG spc]: // 	Spiked Club
 ItemDisplay[mac]: // 	Mace
 ItemDisplay[mst]: // 	Morning Star
 ItemDisplay[!SOCK=5 fla]: // 	Flail
@@ -768,8 +768,8 @@ ItemDisplay[whm]: // 	War Hammer
 ItemDisplay[mau]: // 	Maul
 ItemDisplay[gma]: // 	Great Maul
 //─────────────────────────────────────────────────
-ItemDisplay[9cl]: // 	Cudgel
-ItemDisplay[9sp]: // 	Barbed Club
+ItemDisplay[!RARE !MAG 9cl]: // 	Cudgel
+ItemDisplay[!RARE !MAG 9sp]: // 	Barbed Club
 ItemDisplay[9ma]: // 	Flanged Mace
 ItemDisplay[9mt]: // 	Jagged Star
 ItemDisplay[9fl]: // 	Knout
@@ -777,8 +777,8 @@ ItemDisplay[9wh]: // 	Battle Hammer
 ItemDisplay[9m9]: // 	War Club
 ItemDisplay[9gm]: // 	Martel de Fer
 //─────────────────────────────────────────────────
-ItemDisplay[7cl]: // 	Truncheon
-ItemDisplay[7sp]: // 	Tyrant Club
+ItemDisplay[!RARE !MAG 7cl]: // 	Truncheon
+ItemDisplay[!RARE !MAG 7sp]: // 	Tyrant Club
 ItemDisplay[7ma]: // 	Reinforced Mace
 ItemDisplay[7mt]: // 	Devil Star
 ItemDisplay[7fl]: // 	Scourge
