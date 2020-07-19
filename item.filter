@@ -311,8 +311,8 @@ ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
 ItemDisplay[UNI !ID mau]: // 	Bonesnap Maul
 ItemDisplay[UNI !ID gma]: // 	Steeldriver Great Maul
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
-//ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
+ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
+ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
 ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
 ItemDisplay[UNI !ID 9mt]: // 	Moonfall Jagged Star
 ItemDisplay[UNI !ID 9fl]: // 	Baezil's Vortex Knout
@@ -326,7 +326,7 @@ ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
 ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
 ItemDisplay[UNI !ID 7m7]: // 	Windhammer Ogre Maul
-ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
+//ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Swords  ███████ //
 ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
@@ -759,17 +759,17 @@ ItemDisplay[gwn]: // 	Grim Wand
 //ItemDisplay[7gw]: // 	Unearthed Wand
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Maces  ███████ //
-ItemDisplay[!RARE !MAG clb]: // 	Club
-ItemDisplay[!RARE !MAG spc]: // 	Spiked Club
+ItemDisplay[clb]: // 	Club
+ItemDisplay[spc]: // 	Spiked Club
 ItemDisplay[mac]: // 	Mace
 ItemDisplay[mst]: // 	Morning Star
-ItemDisplay[!SOCK=5 fla]: // 	Flail
+ItemDisplay[fla]: // 	Flail
 ItemDisplay[whm]: // 	War Hammer
 ItemDisplay[mau]: // 	Maul
 ItemDisplay[gma]: // 	Great Maul
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE !MAG 9cl]: // 	Cudgel
-ItemDisplay[!RARE !MAG 9sp]: // 	Barbed Club
+ItemDisplay[9cl]: // 	Cudgel
+ItemDisplay[9sp]: // 	Barbed Club
 ItemDisplay[9ma]: // 	Flanged Mace
 ItemDisplay[9mt]: // 	Jagged Star
 ItemDisplay[9fl]: // 	Knout
@@ -777,8 +777,8 @@ ItemDisplay[9wh]: // 	Battle Hammer
 ItemDisplay[9m9]: // 	War Club
 ItemDisplay[9gm]: // 	Martel de Fer
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE !MAG 7cl]: // 	Truncheon
-ItemDisplay[!RARE !MAG 7sp]: // 	Tyrant Club
+ItemDisplay[7cl]: // 	Truncheon
+ItemDisplay[7sp]: // 	Tyrant Club
 ItemDisplay[7ma]: // 	Reinforced Mace
 ItemDisplay[7mt]: // 	Devil Star
 ItemDisplay[7fl]: // 	Scourge
