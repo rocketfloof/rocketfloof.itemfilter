@@ -763,7 +763,7 @@ ItemDisplay[clb]: // 	Club
 ItemDisplay[spc]: // 	Spiked Club
 ItemDisplay[mac]: // 	Mace
 ItemDisplay[mst]: // 	Morning Star
-ItemDisplay[fla]: // 	Flail
+ItemDisplay[!SOCK=4 fla]: // 	Flail
 ItemDisplay[whm]: // 	War Hammer
 ItemDisplay[mau]: // 	Maul
 ItemDisplay[gma]: // 	Great Maul
