@@ -236,10 +236,10 @@ ItemDisplay[SET !ID uld]: //M'avina's Embrace
 ItemDisplay[SET !ID ci3]: //M'avina's True Sight
 ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
 ItemDisplay[SET !ID zvb]: //M'avina's Tenet
-ItemDisplay[SET !ID 7qr]: //Natalya's Mark
-ItemDisplay[SET !ID ucl]: //Natalya's Shadow
-ItemDisplay[SET !ID xh9]: //Natalya's Totem
-ItemDisplay[SET !ID xmb]: //Natalya's Soul
+//ItemDisplay[SET !ID 7qr]: //Natalya's Mark
+//ItemDisplay[SET !ID ucl]: //Natalya's Shadow
+//ItemDisplay[SET !ID xh9]: //Natalya's Totem
+//ItemDisplay[SET !ID xmb]: //Natalya's Soul
 //ItemDisplay[SET !ID oba]: //Tal Rasha's Lidless Eye
 //ItemDisplay[SET !ID uth]: //Tal Rasha's Guardianship
 //ItemDisplay[SET !ID xsk]: //Tal Rasha's Horadric Crest
@@ -451,24 +451,24 @@ ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
 ItemDisplay[UNI !ID sbw]: // 	Pluckeye Short Bow
 ItemDisplay[UNI !ID hbw]: // 	Witherstring Hunter's Bow
 ItemDisplay[UNI !ID lbw]: // 	Raven Claw Long Bow
-ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
-ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
-ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
-ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
-ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
+//ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
+//ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
+//ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
+//ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
+//ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
-ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
-ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
-ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
-ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
-ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
-ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
-ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
+//ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
+//ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
+//ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
+//ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
+//ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
+//ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
+//ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
+//ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
-ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
-ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
+//ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
+//ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
+//ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Crossbows  ███████ //
 ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
@@ -481,8 +481,8 @@ ItemDisplay[UNI !ID 8mx]: // 	Pus Spitter Siege Crossbow
 ItemDisplay[UNI !ID 8hx]: // 	Buriza-Do Kyanon Balista
 ItemDisplay[UNI !ID 8rx]: // 	Demon Machine Chu-Ko-Nu
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
-ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
+//ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
+//ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Scepters  ███████ //
 ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
@@ -512,7 +512,7 @@ ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
 ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 ItemDisplay[UNI !ID ama]: // 	Titan's Revenge Ceremonial Javelin
-ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
+//ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
 ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
 ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
