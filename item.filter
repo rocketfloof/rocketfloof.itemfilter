@@ -963,9 +963,9 @@ ItemDisplay[8sw]: // 	Rune Bow
 ItemDisplay[8lw]: // 	Gothic Bow
 //─────────────────────────────────────────────────
 ItemDisplay[6sb]: // 	Spider Bow
-ItemDisplay[6hb]: // 	Blade Bow
+ItemDisplay[!(SOCK=4 AND ETH) 6hb]: // 	Blade Bow
 ItemDisplay[6lb]: // 	Shadow Bow
-ItemDisplay[6cb]: // 	Great Bow
+ItemDisplay[!(SOCK=4 AND ETH) 6cb]: // 	Great Bow
 ItemDisplay[6s7]: // 	Diamond Bow
 ItemDisplay[6l7]: //	Crusader Bow
 ItemDisplay[6sw]: // 	Ward Bow
