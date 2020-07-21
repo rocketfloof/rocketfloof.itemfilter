@@ -712,11 +712,11 @@ ItemDisplay[SET]: %NAME%
 ItemDisplay[hax]: // 	Hand Axe
 ItemDisplay[axe]: // 	Axe
 ItemDisplay[2ax]: // 	Double Axe
-ItemDisplay[!SOCK=5 mpi]: // 	Military Pick
-ItemDisplay[!SOCK=5 wax]: // 	War Axe
+ItemDisplay[mpi]: // 	Military Pick
+ItemDisplay[wax]: // 	War Axe
 ItemDisplay[lax]: // 	Large Axe
 ItemDisplay[bax]: // 	Broad Axe
-ItemDisplay[!SOCK=5 btx]: // 	Battle Axe
+ItemDisplay[btx]: // 	Battle Axe
 ItemDisplay[gax]: // 	Great Axe
 ItemDisplay[gix]: // 	Giant Axe
 //─────────────────────────────────────────────────
@@ -1302,10 +1302,10 @@ ItemDisplay[!RARE ne5]: // 	Demon Head
 //ItemDisplay[nef]: // 	Bloodlord Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Other Headgear  ███████ //
-ItemDisplay[!RARE ci0]: // 	Circlet
-ItemDisplay[!RARE ci1]: // 	Coronet
-ItemDisplay[!RARE ci2]: // 	Tiara
-ItemDisplay[!RARE ci3]: // 	Diadem
+ItemDisplay[!(RARE OR MAG) ci0]: // 	Circlet
+ItemDisplay[!(RARE OR MAG) ci1]: // 	Coronet
+ItemDisplay[!(RARE OR MAG) ci2]: // 	Tiara
+ItemDisplay[!(RARE OR MAG) ci3]: // 	Diadem
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Catchall  ███████ //
 ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
