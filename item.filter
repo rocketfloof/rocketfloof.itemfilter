@@ -231,11 +231,11 @@ ItemDisplay[SET !ID ba5]: //Immortal King's Will
 ItemDisplay[SET !ID xhg]: //Immortal King's Forge
 ItemDisplay[SET !ID zhb]: //Immortal King's Detail
 ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
-ItemDisplay[SET !ID amc]: //M'avina's Caster
-ItemDisplay[SET !ID uld]: //M'avina's Embrace
-ItemDisplay[SET !ID ci3]: //M'avina's True Sight
-ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
-ItemDisplay[SET !ID zvb]: //M'avina's Tenet
+//ItemDisplay[SET !ID amc]: //M'avina's Caster
+//ItemDisplay[SET !ID uld]: //M'avina's Embrace
+//ItemDisplay[SET !ID ci3]: //M'avina's True Sight
+//ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
+//ItemDisplay[SET !ID zvb]: //M'avina's Tenet
 //ItemDisplay[SET !ID 7qr]: //Natalya's Mark
 //ItemDisplay[SET !ID ucl]: //Natalya's Shadow
 //ItemDisplay[SET !ID xh9]: //Natalya's Totem
@@ -390,9 +390,9 @@ ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
 ItemDisplay[UNI !ID 7b8]: // 	Lacerator Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Javelins  ███████ //
-ItemDisplay[UNI !ID 7s7]: // 	Demon's Arch Balrog Spear
-ItemDisplay[UNI !ID 7gl]: // 	Wraith Flight Ghost Glaive
-ItemDisplay[UNI !ID 7ts]: // 	Gargoyle's Bite Winged Harpoon
+//ItemDisplay[UNI !ID 7s7]: // 	Demon's Arch Balrog Spear
+//ItemDisplay[UNI !ID 7gl]: // 	Wraith Flight Ghost Glaive
+//ItemDisplay[UNI !ID 7ts]: // 	Gargoyle's Bite Winged Harpoon
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Spears  ███████ //
 ItemDisplay[UNI !ID spr]: // 	The Dragon Chang Spear
@@ -510,11 +510,11 @@ ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Amazon Bows  ███████ //
 //ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
-ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
-ItemDisplay[UNI !ID ama]: // 	Titan's Revenge Ceremonial Javelin
+//ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
+//ItemDisplay[UNI !ID ama]: // 	Titan's Revenge Ceremonial Javelin
 //ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
-ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
-ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
+//ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
+//ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique helms  ███████ //
 ItemDisplay[UNI !ID cap]: // 	Biggin's Bonnet Cap/hat
@@ -953,23 +953,23 @@ ItemDisplay[lbb]: // 	Long Battle Bow
 ItemDisplay[swb]: // 	Short War Bow
 ItemDisplay[lwb]: // 	Long War Bow
 //─────────────────────────────────────────────────
-ItemDisplay[8sb]: // 	Edge Bow
-ItemDisplay[8hb]: // 	Razor Bow
-ItemDisplay[8lb]: // 	Cedar Bow
-ItemDisplay[8cb]: // 	Double Bow
-ItemDisplay[8s8]: //	Short Siege Bow
-ItemDisplay[8l8]: // 	Long Siege Bow
-ItemDisplay[8sw]: // 	Rune Bow
-ItemDisplay[8lw]: // 	Gothic Bow
+ItemDisplay[!RARE 8sb]: // 	Edge Bow
+ItemDisplay[!RARE 8hb]: // 	Razor Bow
+ItemDisplay[!RARE 8lb]: // 	Cedar Bow
+ItemDisplay[!RARE 8cb]: // 	Double Bow
+ItemDisplay[!RARE 8s8]: //	Short Siege Bow
+ItemDisplay[!RARE 8l8]: // 	Long Siege Bow
+ItemDisplay[!RARE 8sw]: // 	Rune Bow
+ItemDisplay[!RARE 8lw]: // 	Gothic Bow
 //─────────────────────────────────────────────────
-ItemDisplay[6sb]: // 	Spider Bow
-ItemDisplay[!(SOCK=4 AND ETH) 6hb]: // 	Blade Bow
-ItemDisplay[6lb]: // 	Shadow Bow
-ItemDisplay[!(SOCK=4 AND ETH) 6cb]: // 	Great Bow
-ItemDisplay[6s7]: // 	Diamond Bow
-ItemDisplay[6l7]: //	Crusader Bow
-ItemDisplay[6sw]: // 	Ward Bow
-ItemDisplay[6lw]: // 	Hydra Bow
+ItemDisplay[!RARE 6sb]: // 	Spider Bow
+ItemDisplay[!(SOCK=4 AND ETH) !RARE 6hb]: // 	Blade Bow
+ItemDisplay[!RARE 6lb]: // 	Shadow Bow
+ItemDisplay[!(SOCK=4 AND ETH) !RARE 6cb]: // 	Great Bow
+ItemDisplay[!RARE 6s7]: // 	Diamond Bow
+ItemDisplay[!RARE 6l7]: //	Crusader Bow
+ItemDisplay[!RARE 6sw]: // 	Ward Bow
+ItemDisplay[!RARE 6lw]: // 	Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Crossbows  ███████ //
 ItemDisplay[lxb]: // 	Light Crossbow
@@ -1051,17 +1051,17 @@ ItemDisplay[am3]: // 	Maiden Spear
 ItemDisplay[am4]: // 	Maiden Pike
 ItemDisplay[am5]: // 	Maiden Javelin
 //─────────────────────────────────────────────────
-ItemDisplay[am6]: // 	Ashwood Bow
-ItemDisplay[am7]: // 	Ceremonial Bow
-ItemDisplay[am8]: // 	Ceremonial Spear
-ItemDisplay[am9]: // 	Ceremonial Pike
-ItemDisplay[ama]: // 	Ceremonial Javelin
+ItemDisplay[!RARE am6]: // 	Ashwood Bow
+ItemDisplay[!RARE am7]: // 	Ceremonial Bow
+ItemDisplay[!RARE am8]: // 	Ceremonial Spear
+ItemDisplay[!RARE am9]: // 	Ceremonial Pike
+ItemDisplay[!RARE ama]: // 	Ceremonial Javelin
 //─────────────────────────────────────────────────
-ItemDisplay[amb]: // 	Matriarchal Bow
-ItemDisplay[amc]: // 	Grand Matron Bow
-ItemDisplay[amd]: // 	Matriarchal Spear
-ItemDisplay[ame]: // 	Matriarchal Pike
-ItemDisplay[amf]: // 	MatriarchalJavelin
+ItemDisplay[!RARE amb]: // 	Matriarchal Bow
+ItemDisplay[!RARE amc]: // 	Grand Matron Bow
+ItemDisplay[!RARE amd]: // 	Matriarchal Spear
+ItemDisplay[!RARE ame]: // 	Matriarchal Pike
+ItemDisplay[!RARE amf]: // 	MatriarchalJavelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Helms  ███████ //
 ItemDisplay[cap]: // 	Cap/hat
