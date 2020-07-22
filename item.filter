@@ -451,24 +451,24 @@ ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
 ItemDisplay[UNI !ID sbw]: // 	Pluckeye Short Bow
 ItemDisplay[UNI !ID hbw]: // 	Witherstring Hunter's Bow
 ItemDisplay[UNI !ID lbw]: // 	Raven Claw Long Bow
-//ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
-//ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
-//ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
-//ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
-//ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
+ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
+ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
+ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
+ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
+ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
-//ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
-//ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
-//ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
-//ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
-//ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
-//ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
-//ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
+ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
+ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
+ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
+ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
+ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
+ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
+ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
+ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
-//ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
-//ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
+ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
+ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
+ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Crossbows  ███████ //
 ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
@@ -481,8 +481,8 @@ ItemDisplay[UNI !ID 8mx]: // 	Pus Spitter Siege Crossbow
 ItemDisplay[UNI !ID 8hx]: // 	Buriza-Do Kyanon Balista
 ItemDisplay[UNI !ID 8rx]: // 	Demon Machine Chu-Ko-Nu
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
-//ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
+ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
+ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Scepters  ███████ //
 ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
@@ -509,11 +509,11 @@ ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //ItemDisplay[UNI !ID obf]: // 	Death's Fathom Dimensional Shard
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Amazon Bows  ███████ //
-//ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
-//ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
+ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
+ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 //ItemDisplay[UNI !ID ama]: // 	Titan's Revenge Ceremonial Javelin
-//ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
-//ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
+ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
+ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
 //ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique helms  ███████ //
@@ -953,23 +953,23 @@ ItemDisplay[lbb]: // 	Long Battle Bow
 ItemDisplay[swb]: // 	Short War Bow
 ItemDisplay[lwb]: // 	Long War Bow
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE 8sb]: // 	Edge Bow
-ItemDisplay[!RARE 8hb]: // 	Razor Bow
-ItemDisplay[!RARE 8lb]: // 	Cedar Bow
-ItemDisplay[!RARE 8cb]: // 	Double Bow
-ItemDisplay[!RARE 8s8]: //	Short Siege Bow
-ItemDisplay[!RARE 8l8]: // 	Long Siege Bow
-ItemDisplay[!RARE 8sw]: // 	Rune Bow
-ItemDisplay[!RARE 8lw]: // 	Gothic Bow
+ItemDisplay[8sb]: // 	Edge Bow
+ItemDisplay[8hb]: // 	Razor Bow
+ItemDisplay[8lb]: // 	Cedar Bow
+ItemDisplay[8cb]: // 	Double Bow
+ItemDisplay[8s8]: //	Short Siege Bow
+ItemDisplay[8l8]: // 	Long Siege Bow
+ItemDisplay[8sw]: // 	Rune Bow
+ItemDisplay[8lw]: // 	Gothic Bow
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE 6sb]: // 	Spider Bow
-ItemDisplay[!(SOCK=4 AND ETH) !RARE 6hb]: // 	Blade Bow
-ItemDisplay[!RARE 6lb]: // 	Shadow Bow
-ItemDisplay[!(SOCK=4 AND ETH) !RARE 6cb]: // 	Great Bow
-ItemDisplay[!RARE 6s7]: // 	Diamond Bow
-ItemDisplay[!RARE 6l7]: //	Crusader Bow
-ItemDisplay[!RARE 6sw]: // 	Ward Bow
-ItemDisplay[!RARE 6lw]: // 	Hydra Bow
+ItemDisplay[6sb]: // 	Spider Bow
+ItemDisplay[!(SOCK=4 AND ETH) 6hb]: // 	Blade Bow
+ItemDisplay[6lb]: // 	Shadow Bow
+ItemDisplay[!(SOCK=4 AND ETH) 6cb]: // 	Great Bow
+ItemDisplay[6s7]: // 	Diamond Bow
+ItemDisplay[6l7]: //	Crusader Bow
+ItemDisplay[6sw]: // 	Ward Bow
+ItemDisplay[6lw]: // 	Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Crossbows  ███████ //
 ItemDisplay[lxb]: // 	Light Crossbow
@@ -1051,17 +1051,17 @@ ItemDisplay[am3]: // 	Maiden Spear
 ItemDisplay[am4]: // 	Maiden Pike
 ItemDisplay[am5]: // 	Maiden Javelin
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE am6]: // 	Ashwood Bow
-ItemDisplay[!RARE am7]: // 	Ceremonial Bow
-ItemDisplay[!RARE am8]: // 	Ceremonial Spear
-ItemDisplay[!RARE am9]: // 	Ceremonial Pike
-ItemDisplay[!RARE ama]: // 	Ceremonial Javelin
+ItemDisplay[am6]: // 	Ashwood Bow
+ItemDisplay[am7]: // 	Ceremonial Bow
+ItemDisplay[am8]: // 	Ceremonial Spear
+ItemDisplay[am9]: // 	Ceremonial Pike
+ItemDisplay[ama]: // 	Ceremonial Javelin
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE amb]: // 	Matriarchal Bow
-ItemDisplay[!RARE amc]: // 	Grand Matron Bow
-ItemDisplay[!RARE amd]: // 	Matriarchal Spear
-ItemDisplay[!RARE ame]: // 	Matriarchal Pike
-ItemDisplay[!RARE amf]: // 	MatriarchalJavelin
+ItemDisplay[amb]: // 	Matriarchal Bow
+ItemDisplay[amc]: // 	Grand Matron Bow
+ItemDisplay[amd]: // 	Matriarchal Spear
+ItemDisplay[ame]: // 	Matriarchal Pike
+ItemDisplay[amf]: // 	MatriarchalJavelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Helms  ███████ //
 ItemDisplay[cap]: // 	Cap/hat
