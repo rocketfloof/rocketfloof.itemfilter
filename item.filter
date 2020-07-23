@@ -68,12 +68,12 @@ ItemDisplay[sku]: // 	Skull
 ItemDisplay[hp1]: //	Minor Healing Potion
 ItemDisplay[hp2]: // 	Light Healing Potion
 ItemDisplay[hp3]: // 	Healing Potion
-//ItemDisplay[hp4]: // 	Greater Healing Potion
+ItemDisplay[hp4]: // 	Greater Healing Potion
 ItemDisplay[hp5]: Super Healing // 	Super Healing Potion
 ItemDisplay[mp1]: // 	Minor Mana Potion
 ItemDisplay[mp2]: // 	Light Mana Potion
 ItemDisplay[mp3]: // 	Mana Potion
-//ItemDisplay[mp4]: // 	Greater Mana Potion
+ItemDisplay[mp4]: // 	Greater Mana Potion
 ItemDisplay[mp5]: Super Mana // 	Super Mana Potion
 ItemDisplay[rvs]: // 	Rejuv Potion
 ItemDisplay[rvl]: Full Rejuvenation // 	Full Rejuv Potion
@@ -962,14 +962,14 @@ ItemDisplay[8l8]: // 	Long Siege Bow
 ItemDisplay[8sw]: // 	Rune Bow
 ItemDisplay[8lw]: // 	Gothic Bow
 //─────────────────────────────────────────────────
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6sb]: // 	Spider Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6hb]: // 	Blade Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6lb]: // 	Shadow Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6cb]: // 	Great Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6s7]: // 	Diamond Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6l7]: //	Crusader Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6sw]: // 	Ward Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6lw]: // 	Hydra Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6sb]: // 	Spider Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6hb]: // 	Blade Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6lb]: // 	Shadow Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6cb]: // 	Great Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6s7]: // 	Diamond Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6l7]: //	Crusader Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6sw]: // 	Ward Bow
+//ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6lw]: // 	Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Crossbows  ███████ //
 ItemDisplay[lxb]: // 	Light Crossbow
