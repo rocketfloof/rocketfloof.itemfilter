@@ -68,12 +68,12 @@ ItemDisplay[sku]: // 	Skull
 ItemDisplay[hp1]: //	Minor Healing Potion
 ItemDisplay[hp2]: // 	Light Healing Potion
 ItemDisplay[hp3]: // 	Healing Potion
-ItemDisplay[hp4]: // 	Greater Healing Potion
+//ItemDisplay[hp4]: // 	Greater Healing Potion
 ItemDisplay[hp5]: Super Healing // 	Super Healing Potion
 ItemDisplay[mp1]: // 	Minor Mana Potion
 ItemDisplay[mp2]: // 	Light Mana Potion
 ItemDisplay[mp3]: // 	Mana Potion
-ItemDisplay[mp4]: // 	Greater Mana Potion
+//ItemDisplay[mp4]: // 	Greater Mana Potion
 ItemDisplay[mp5]: Super Mana // 	Super Mana Potion
 ItemDisplay[rvs]: // 	Rejuv Potion
 ItemDisplay[rvl]: Full Rejuvenation // 	Full Rejuv Potion
