@@ -763,7 +763,7 @@ ItemDisplay[clb]: // 	Club
 ItemDisplay[spc]: // 	Spiked Club
 ItemDisplay[mac]: // 	Mace
 ItemDisplay[mst]: // 	Morning Star
-ItemDisplay[!SOCK=4 fla]: // 	Flail
+ItemDisplay[fla]: // 	Flail
 ItemDisplay[whm]: // 	War Hammer
 ItemDisplay[mau]: // 	Maul
 ItemDisplay[gma]: // 	Great Maul
@@ -791,7 +791,7 @@ ItemDisplay[ssd]: // 	Short Sword
 ItemDisplay[scm]: // 	Scimitar
 ItemDisplay[sbr]: // 	Saber
 ItemDisplay[flc]: // 	Falchion
-ItemDisplay[!SOCK=5 crs]: // 	Crystal Sword
+ItemDisplay[crs]: // 	Crystal Sword
 ItemDisplay[bsd]: // 	Broad Sword
 ItemDisplay[lsd]: // 	Long Sword
 ItemDisplay[wsd]: // 	War Sword
@@ -821,7 +821,7 @@ ItemDisplay[7ss]: // 	Falcata
 ItemDisplay[7sm]: // 	Ataghan
 ItemDisplay[7sb]: // 	Elegant Blade
 ItemDisplay[7fc]: // 	Hydra Edge
-ItemDisplay[!SOCK>4 7cr]: // 	Phase Blade
+ItemDisplay[7cr]: // 	Phase Blade
 ItemDisplay[7bs]: // 	Conquest Sword
 ItemDisplay[7ls]: // 	Cryptic Sword
 ItemDisplay[7wd]: // 	Mythical Sword
@@ -962,14 +962,14 @@ ItemDisplay[8l8]: // 	Long Siege Bow
 ItemDisplay[8sw]: // 	Rune Bow
 ItemDisplay[8lw]: // 	Gothic Bow
 //─────────────────────────────────────────────────
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6sb]: // 	Spider Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6hb]: // 	Blade Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6lb]: // 	Shadow Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6cb]: // 	Great Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6s7]: // 	Diamond Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6l7]: //	Crusader Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6sw]: // 	Ward Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 6lw]: // 	Hydra Bow
+ItemDisplay[6sb]: // 	Spider Bow
+ItemDisplay[6hb]: // 	Blade Bow
+ItemDisplay[6lb]: // 	Shadow Bow
+ItemDisplay[6cb]: // 	Great Bow
+ItemDisplay[6s7]: // 	Diamond Bow
+ItemDisplay[6l7]: //	Crusader Bow
+ItemDisplay[6sw]: // 	Ward Bow
+ItemDisplay[6lw]: // 	Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Crossbows  ███████ //
 ItemDisplay[lxb]: // 	Light Crossbow
@@ -1057,8 +1057,8 @@ ItemDisplay[am8]: // 	Ceremonial Spear
 ItemDisplay[am9]: // 	Ceremonial Pike
 ItemDisplay[ama]: // 	Ceremonial Javelin
 //─────────────────────────────────────────────────
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 amb]: // 	Matriarchal Bow
-ItemDisplay[!(SOCK=4 AND ETH) !SOCK=4 amc]: // 	Grand Matron Bow
+ItemDisplay[amb]: // 	Matriarchal Bow
+ItemDisplay[amc]: // 	Grand Matron Bow
 ItemDisplay[amd]: // 	Matriarchal Spear
 ItemDisplay[ame]: // 	Matriarchal Pike
 ItemDisplay[amf]: // 	MatriarchalJavelin
