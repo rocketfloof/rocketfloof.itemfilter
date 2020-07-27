@@ -420,16 +420,16 @@ ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
 ItemDisplay[UNI !ID wsc]: // 	The Grim Reaper War Scythe
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ETH !ID 9b7]: // The Meat Scraper Lochaber Axe
-//ItemDisplay[UNI !ID 9vo]: // 	Blackleach Blade Bill
+ItemDisplay[UNI !ID 9vo]: // 	Blackleach Blade Bill
 ItemDisplay[UNI !ID 9s8]: // 	Athena's Wrath Battle Scythe
 ItemDisplay[UNI !ID 9pa]: // 	Pierre Tombale Couant Partizan
 ItemDisplay[UNI !ID 9h9]: // 	Husoldal Evo Bec-de-Corbin
 ItemDisplay[UNI !ID 9wc]: // 	Grim's Burning Dead Grim Scythe
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7o7]: // 	Bonehew Ogre Axe
-//ItemDisplay[UNI !ID 7s8]: // 	The Reaper's Toll Thresher
-//ItemDisplay[UNI !ID 7pa]: // 	Tomb Reaver Cryptic Axe
-//ItemDisplay[UNI !ID 7wc]: // 	Stormspire Giant Thresher
+ItemDisplay[UNI !ID 7s8]: // 	The Reaper's Toll Thresher
+ItemDisplay[UNI !ID 7pa]: // 	Tomb Reaver Cryptic Axe
+ItemDisplay[UNI !ID 7wc]: // 	Stormspire Giant Thresher
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Staves  ███████ //
 ItemDisplay[UNI !ID sst]: // 	Bane Ash Short Staff
@@ -612,8 +612,8 @@ ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
 // ███████  Unique Gloves  ███████ //
 ItemDisplay[UNI !ID lgl]: // 	The Hand of Broc Leather Gloves
 ItemDisplay[UNI !ID vgl]: // 	Bloodfist Heavy Gloves
-ItemDisplay[UNI !ID mgl]: // 	Chance Guards Chain Gloves 
-ItemDisplay[UNI !ID tgl]: // 	Chance Guards Light Gauntlets
+//ItemDisplay[UNI !ID mgl]: // 	Chance Guards Chain Gloves 
+//ItemDisplay[UNI !ID tgl]: // 	Magefist Light Gauntlets
 ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xlg]: // 	Venom Grip Demonhide Gloves
