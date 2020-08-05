@@ -321,7 +321,7 @@ ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
 ItemDisplay[UNI !ID 9gm]: // 	The Gavel of Pain Martel de Fer
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
-ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
+//ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
 ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
 ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
@@ -355,15 +355,15 @@ ItemDisplay[UNI !ID 92h]: // 	Crainte Vomir Espadon
 ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
 ItemDisplay[UNI !ID 9gs]: // 	The Vile Husk Tusk Sword
 ItemDisplay[UNI !ID 9b9]: // 	Cloudcrack Gothic Sword
-//ItemDisplay[UNI !ID 9fb]: // 	Todesfaelle Flamme Zweihander
-//ItemDisplay[UNI !ID 9gd]: // 	Swordguard Executioner Sword
+ItemDisplay[UNI !ID 9fb]: // 	Todesfaelle Flamme Zweihander
+ItemDisplay[UNI !ID 9gd]: // 	Swordguard Executioner Sword
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7sm]: // 	Djinn Slayer Ataghan
 ItemDisplay[UNI !ID 7sb]: // 	Bloodmoon Elegant Blade
-ItemDisplay[UNI !ID 7cr]: // 	Lightsabre OR Azurewrath Phase Blade
+//ItemDisplay[UNI !ID 7cr]: // 	Lightsabre OR Azurewrath Phase Blade
 ItemDisplay[UNI !ID 7ls]: // 	Frostwind Cryptic Sword
 ItemDisplay[UNI !ID 7gs]: // 	FlameBellow Balrog Blade
-//ItemDisplay[UNI !ID 7b7]: // 	Doombringer Champion Sword
+ItemDisplay[UNI !ID 7b7]: // 	Doombringer Champion Sword
 //ItemDisplay[UNI !ID 7gd]: // 	The Grandfather Colossus Blade
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Daggers  ███████ //
@@ -556,17 +556,17 @@ ItemDisplay[UNI !ID plt]: // 	Boneflesh Plate Mail
 ItemDisplay[UNI !ID fld]: // 	Rockfleece Field Plate
 ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
 ItemDisplay[UNI !ID ful]: // 	Goldskin Full Plate Mail
-ItemDisplay[UNI !ID aar]: // 	Silks of the Victor Ancient Armor
+//ItemDisplay[UNI !ID aar]: // 	Silks of the Victor Ancient Armor
 ItemDisplay[UNI !ID ltp]: // 	Heavenly Garb Light Plate
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
+//ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
 ItemDisplay[UNI !ID xea]: // 	Skin of the Vipermagi Serpentskin Armor
 ItemDisplay[UNI !ID xla]: // 	Skin of the Flayed One Demonhide Armor
 ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
 ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
 ItemDisplay[UNI !ID xcl]: // 	Crow Caw Tigulated Mail
 //ItemDisplay[UNI !ID xhn]: // 	Shaftstop Mesh Armor
-//ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
+ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
 //ItemDisplay[UNI !ID xpl]: // 	Skullder's Ire Russet Armor
 ItemDisplay[UNI !ID xlt]: // 	Guardian Angel Templar Coat
 ItemDisplay[UNI !ID xld]: // 	Toothrow Sharktooth Armor
@@ -598,7 +598,7 @@ ItemDisplay[UNI !ID xml]: // 	Moser's Blessed Circle Round Shield
 ItemDisplay[UNI !ID xrg]: // 	Stormchaser Scutum
 ItemDisplay[UNI !ID xit]: // 	Tiamat's Rebuke Dragon Shield
 ItemDisplay[UNI !ID xow]: // 	Gerke's Sanctuary Pavise
-//ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
+ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
 //ItemDisplay[UNI !ID xsh]: // 	Lidless Wall Grim Shield
 ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
 //─────────────────────────────────────────────────
@@ -821,7 +821,7 @@ ItemDisplay[7ss]: // 	Falcata
 ItemDisplay[7sm]: // 	Ataghan
 ItemDisplay[7sb]: // 	Elegant Blade
 ItemDisplay[7fc]: // 	Hydra Edge
-ItemDisplay[7cr]: // 	Phase Blade
+ItemDisplay[!SOCK=6 7cr]: // 	Phase Blade
 ItemDisplay[7bs]: // 	Conquest Sword
 ItemDisplay[7ls]: // 	Cryptic Sword
 ItemDisplay[7wd]: // 	Mythical Sword
@@ -1083,13 +1083,13 @@ ItemDisplay[xsk]: // 	Death Mask
 ItemDisplay[xh9]: // 	Grim Helm
 //─────────────────────────────────────────────────
 ItemDisplay[uap]: // 	Shako
-ItemDisplay[ukp]: // 	Hydraskull
-ItemDisplay[ulm]: // 	Armet
+ItemDisplay[!SOCK=3 ukp]: // 	Hydraskull
+ItemDisplay[!SOCK=3 ulm]: // 	Armet
 ItemDisplay[uhl]: // 	Giant Conch
 ItemDisplay[uhm]: // 	Spired Helm
 ItemDisplay[urn]: // 	Corona
-ItemDisplay[usk]: // 	Demonhead
-ItemDisplay[uh9]: // 	Bone Visage
+ItemDisplay[!SOCK=3 usk]: // 	Demonhead
+ItemDisplay[!SOCK=3 uh9]: // 	Bone Visage
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Body Armor  ███████ //
 ItemDisplay[qui]: // 	Quilted Armor
@@ -1276,7 +1276,7 @@ ItemDisplay[pa8]: // 	Protector Shield
 ItemDisplay[pa9]: //	Gilded Shield
 ItemDisplay[paa]: // 	Royal Shield
 //─────────────────────────────────────────────────
-ItemDisplay[!SOCK>3 pab]: // 	Sacred Targe
+ItemDisplay[!SOCK>2 pab]: // 	Sacred Targe
 ItemDisplay[!SOCK>3 pac]: // 	Sacred Rondache
 ItemDisplay[!SOCK>3 pad]: // 	Ancient Shield
 ItemDisplay[!SOCK>3 pae]: // 	Zakarum Shield
