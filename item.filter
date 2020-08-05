@@ -245,11 +245,11 @@ ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
 //ItemDisplay[SET !ID xsk]: //Tal Rasha's Horadric Crest
 //ItemDisplay[SET !ID zmb]: //Tal Rasha's Fine-Spun Cloth
 ItemDisplay[SET !ID amu]: %NAME% [L%ILVL%] //Set Amulets show ilvl
-ItemDisplay[SET !ID xul]: //Trang-Oul's Scales
-ItemDisplay[SET !ID ne9]: //Trang-Oul's Wing
-ItemDisplay[SET !ID uh9]: //Trang-Oul's Guise
-ItemDisplay[SET !ID xmg]: //Trang-Oul's Claws
-ItemDisplay[SET !ID utc]: //Trang-Oul's Girth
+//ItemDisplay[SET !ID xul]: //Trang-Oul's Scales
+//ItemDisplay[SET !ID ne9]: //Trang-Oul's Wing
+//ItemDisplay[SET !ID uh9]: //Trang-Oul's Guise
+//ItemDisplay[SET !ID xmg]: //Trang-Oul's Claws
+//ItemDisplay[SET !ID utc]: //Trang-Oul's Girth
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ ////////////////////////////////  ▬▬▬▬▬ UNIQUE ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
