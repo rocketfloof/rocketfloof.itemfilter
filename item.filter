@@ -191,7 +191,7 @@ ItemDisplay[SET !ID vbt]: //Cow King's Hooves
 ItemDisplay[SET !ID xap]: //Cow King's Horns
 ItemDisplay[SET !ID stu]: //Cow King's Hide
 ItemDisplay[SET !ID uui]: //Dark Adherent
-ItemDisplay[SET !ID ulg]: //Laying of Hands
+//ItemDisplay[SET !ID ulg]: //Laying of Hands
 ItemDisplay[SET !ID umc]: //Credendum
 ItemDisplay[SET !ID xlb]: //Rite of Passage
 ItemDisplay[SET !ID uhm]: //Ondal's Mighty
@@ -269,7 +269,7 @@ ItemDisplay[UNI !ID gix]: // 	Humongous Giant Axe
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 9ha]: // 	Coldkill Hatchet
 ItemDisplay[UNI !ID 9ax]: // 	Butcher's Pupil Cleaver
-//ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
+ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
 ItemDisplay[UNI !ID 9mp]: // 	Pompeii's Wrath Crowbill
 ItemDisplay[UNI !ID 9wa]: // 	Guardian Naga Naga
 ItemDisplay[UNI !ID 9la]: // 	Warlord's Trust Military Axe
@@ -288,18 +288,18 @@ ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
 ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Wands  ███████ //
-//ItemDisplay[UNI !ID wnd]: // 	Torch of Iro Wand
-//ItemDisplay[UNI !ID ywn]: // 	Maelstrom Yew Wand
-//ItemDisplay[UNI !ID bwn]: // 	Gravenspine Bone Wand
-//ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
+ItemDisplay[UNI !ID wnd]: // 	Torch of Iro Wand
+ItemDisplay[UNI !ID ywn]: // 	Maelstrom Yew Wand
+ItemDisplay[UNI !ID bwn]: // 	Gravenspine Bone Wand
+ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9wn]: // 	Suicide Branch Burnt Wand
-//ItemDisplay[UNI !ID 9yw]: // 	Carin Shard Petrified Wand
-//ItemDisplay[UNI !ID 9bw]: // 	Arm of King Leoric Tomb Wand
-//ItemDisplay[UNI !ID 9gw]: // 	Blackhand Key Grave Wand
+ItemDisplay[UNI !ID 9wn]: // 	Suicide Branch Burnt Wand
+ItemDisplay[UNI !ID 9yw]: // 	Carin Shard Petrified Wand
+ItemDisplay[UNI !ID 9bw]: // 	Arm of King Leoric Tomb Wand
+ItemDisplay[UNI !ID 9gw]: // 	Blackhand Key Grave Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7bw]: // 	Boneshade Lich Wand
-//ItemDisplay[UNI !ID 7gw]: // 	Death's Web Unearthed Wand
+ItemDisplay[UNI !ID 7bw]: // 	Boneshade Lich Wand
+ItemDisplay[UNI !ID 7gw]: // 	Death's Web Unearthed Wand
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Maces  ███████ //
 ItemDisplay[UNI !ID clb]: // 	Felloak Club
@@ -326,7 +326,7 @@ ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
 ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
 ItemDisplay[UNI !ID 7m7]: // 	Windhammer Ogre Maul
-//ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
+ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Swords  ███████ //
 ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
@@ -390,9 +390,9 @@ ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
 ItemDisplay[UNI !ID 7b8]: // 	Lacerator Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Javelins  ███████ //
-//ItemDisplay[UNI !ID 7s7]: // 	Demon's Arch Balrog Spear
-//ItemDisplay[UNI !ID 7gl]: // 	Wraith Flight Ghost Glaive
-//ItemDisplay[UNI !ID 7ts]: // 	Gargoyle's Bite Winged Harpoon
+ItemDisplay[UNI !ID 7s7]: // 	Demon's Arch Balrog Spear
+ItemDisplay[UNI !ID 7gl]: // 	Wraith Flight Ghost Glaive
+ItemDisplay[UNI !ID 7ts]: // 	Gargoyle's Bite Winged Harpoon
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Spears  ███████ //
 ItemDisplay[UNI !ID spr]: // 	The Dragon Chang Spear
@@ -441,11 +441,11 @@ ItemDisplay[UNI !ID wst]: // 	The Iron Jang Bong War Staff
 ItemDisplay[UNI !ID 8ss]: // 	Razorswitch Jo Staff
 ItemDisplay[UNI !ID 8ls]: // 	Ribcracker Quarterstaff
 ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
-//ItemDisplay[UNI !ID 8bs]: // 	Warpspear Gothic Staff
-//ItemDisplay[UNI !ID 8ws]: // 	Skull Collector Rune Staff
+ItemDisplay[UNI !ID 8bs]: // 	Warpspear Gothic Staff
+ItemDisplay[UNI !ID 8ws]: // 	Skull Collector Rune Staff
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
-//ItemDisplay[UNI !ID 6ws]: // 	Mand Song's Lesson Archon Staff
+ItemDisplay[UNI !ID 6ws]: // 	Mand Song's Lesson Archon Staff
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Bows  ███████ //
 ItemDisplay[UNI !ID sbw]: // 	Pluckeye Short Bow
@@ -493,15 +493,15 @@ ItemDisplay[UNI !ID 9sc]: // 	Zakarum's Hand Rune Scepter
 ItemDisplay[UNI !ID 9qs]: // 	The Fetid Sprinkler Holy Water Sprinkler
 ItemDisplay[UNI !ID 9ws]: // 	Hand of Blessed Light Divine Scepter
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7sc]: // 	Heaven's Light Mighty Scepter
-//ItemDisplay[UNI !ID 7qs]: // 	The Redeemer Seraph Rod
-//ItemDisplay[UNI !ID 7ws]: //	Astreon's Iron Ward Caduceus
+ItemDisplay[UNI !ID 7sc]: // 	Heaven's Light Mighty Scepter
+ItemDisplay[UNI !ID 7qs]: // 	The Redeemer Seraph Rod
+ItemDisplay[UNI !ID 7ws]: //	Astreon's Iron Ward Caduceus
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Assassin Weapons  ███████ //
 //ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
-ItemDisplay[UNI !ID 7wb]: // 	Jade Talon Wrist Sword
-ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
-ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
+//ItemDisplay[UNI !ID 7wb]: // 	Jade Talon Wrist Sword
+//ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
+//ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Sorc Orbs  ███████ //
 //ItemDisplay[UNI !ID oba]: // 	The Oculus Swirling Crystal
@@ -531,8 +531,8 @@ ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
 ItemDisplay[UNI !ID xlm]: // 	Stealskull Casque
 ItemDisplay[UNI !ID xhl]: // 	Darksight Helm Basinet
 ItemDisplay[UNI !ID xhm]: // 	Valkyrie Wing Winged Helm
-//ItemDisplay[UNI !ID xrn]: // 	Crown of Thieves Grand Crown
-//ItemDisplay[UNI !ID xsk]: // 	Blackhorn's Face Death Mask
+ItemDisplay[UNI !ID xrn]: // 	Crown of Thieves Grand Crown
+ItemDisplay[UNI !ID xsk]: // 	Blackhorn's Face Death Mask
 //ItemDisplay[UNI !ID xh9]: // 	Vampire Gaze Grim Helm
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID uap]: // 	Harlequin Crest Shako
@@ -602,10 +602,10 @@ ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
 //ItemDisplay[UNI !ID xsh]: // 	Lidless Wall Grim Shield
 ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID uml]: // 	Blackoak Shield Luna
+ItemDisplay[UNI !ID uml]: // 	Blackoak Shield Luna
 //ItemDisplay[UNI !ID uit]: // 	Stormshield Monarch
 //ItemDisplay[UNI !ID uow]: // 	Medusa's Gaze Aegis
-//ItemDisplay[UNI !ID uts]: // 	Spirit Ward Ward
+ItemDisplay[UNI !ID uts]: // 	Spirit Ward Ward
 //ItemDisplay[UNI !ID ush]: // 	Head Hunter's Glory Troll Nest
 ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -678,9 +678,9 @@ ItemDisplay[UNI !ID pac]: // 	Alma Negra Sacred Rondache
 //ItemDisplay[UNI !ID pae]: // 	Dragonscale Zakarum Shield
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Necro Heads  ███████ //
-//ItemDisplay[UNI !ID nea]: // 	Homunculus Hierophant Trophy
-//ItemDisplay[UNI !ID nee]: // 	Boneflame Succubus Skull
-//ItemDisplay[UNI !ID nef]: // 	Darkforce Spawn Bloodlord Skull
+ItemDisplay[UNI !ID nea]: // 	Homunculus Hierophant Trophy
+ItemDisplay[UNI !ID nee]: // 	Boneflame Succubus Skull
+ItemDisplay[UNI !ID nef]: // 	Darkforce Spawn Bloodlord Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Other Headgear  ███████ //
 //ItemDisplay[UNI !ID ci2]: // 	Kira's Guardian Tiara
@@ -1159,14 +1159,14 @@ ItemDisplay[xts]: // 	Ancient Shield
 ItemDisplay[xsh]: // 	Grim Shield
 ItemDisplay[xpk]: // 	Barbed Shield
 //─────────────────────────────────────────────────
-ItemDisplay[!SOCK>1 uuc]: // 	Heater
-ItemDisplay[!SOCK>1 uml]: // 	Luna
-ItemDisplay[!SOCK>1 urg]: // 	Hyperion
+ItemDisplay[uuc]: // 	Heater
+ItemDisplay[uml]: // 	Luna
+ItemDisplay[urg]: // 	Hyperion
 //ItemDisplay[uit]: // 	Monarch
-ItemDisplay[!SOCK>1 uow]: // 	Aegis
-ItemDisplay[!SOCK>1 uts]: // 	Ward
-ItemDisplay[!SOCK>1 ush]: // 	Troll Nest
-ItemDisplay[!SOCK>1 upk]: // 	Blade Barrier
+ItemDisplay[uow]: // 	Aegis
+ItemDisplay[uts]: // 	Ward
+ItemDisplay[ush]: // 	Troll Nest
+ItemDisplay[upk]: // 	Blade Barrier
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gloves  ███████ //
 ItemDisplay[lgl]: // 	Gloves
