@@ -1084,13 +1084,13 @@ ItemDisplay[xsk]: // 	Death Mask
 ItemDisplay[xh9]: // 	Grim Helm
 //─────────────────────────────────────────────────
 ItemDisplay[uap]: // 	Shako
-ItemDisplay[!SOCK=3 ukp]: // 	Hydraskull
-ItemDisplay[!SOCK=3 ulm]: // 	Armet
+ItemDisplay[ukp]: // 	Hydraskull
+ItemDisplay[ulm]: // 	Armet
 ItemDisplay[uhl]: // 	Giant Conch
 ItemDisplay[uhm]: // 	Spired Helm
 ItemDisplay[urn]: // 	Corona
-ItemDisplay[!SOCK=3 usk]: // 	Demonhead
-ItemDisplay[!SOCK=3 uh9]: // 	Bone Visage
+ItemDisplay[usk]: // 	Demonhead
+ItemDisplay[uh9]: // 	Bone Visage
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Body Armor  ███████ //
 ItemDisplay[qui]: // 	Quilted Armor
