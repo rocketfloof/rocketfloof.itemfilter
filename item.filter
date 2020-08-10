@@ -1018,13 +1018,13 @@ ItemDisplay[9lw]: // 	Greater Claws
 ItemDisplay[9tw]: // 	Greater Talons
 ItemDisplay[9qr]: // 	Scissors Quhab
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE 7ar]: // 	Suwayyah
-ItemDisplay[!RARE 7wb]: // 	Wrist Sword
-ItemDisplay[!RARE 7xf]: // 	War Fist
-ItemDisplay[!RARE 7cs]: // 	Battle Cestus
-ItemDisplay[!RARE 7lw]: // 	Feral Claws
-ItemDisplay[!RARE 7tw]: // 	Runic Talons
-ItemDisplay[!RARE 7qr]: // 	Scissors Suwayyah
+ItemDisplay[!RARE !SOCK=3 7ar]: // 	Suwayyah
+ItemDisplay[!RARE !SOCK=3 7wb]: // 	Wrist Sword
+ItemDisplay[!RARE !SOCK=3 7xf]: // 	War Fist
+ItemDisplay[!RARE !SOCK=3 7cs]: // 	Battle Cestus
+ItemDisplay[!RARE !SOCK=3 7lw]: // 	Feral Claws
+ItemDisplay[!RARE !SOCK=3 7tw]: // 	Runic Talons
+ItemDisplay[!RARE !SOCK=3 7qr]: // 	Scissors Suwayyah
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Sorc Orbs  ███████ //
 ItemDisplay[ob1]: // 	Eagle Orb
