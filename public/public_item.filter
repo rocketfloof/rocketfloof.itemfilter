@@ -2,6 +2,59 @@
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ ///////////////////////////  ▬▬▬▬▬ ROCKETFLOOF ITEM FILTER ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+//║   
+//║   
+//║   
+//║   
+//║   Color:          %GREEN% %DGREEN% %GOLD% %TAN% %BLUE% %GRAY% %WHITE% %BLACK% %YELLOW% %ORANGE% %PURPLE%  %RED%
+//║   Value:          %PRICE% %ILVL% %SOCKETS% %CODE% %NAME% %CONTINUE% %RUNENAME% 
+//║   Item Tier:      NORM EXC ELT (these terms aren't really necessary in this filter)
+//║   Item Quality:   INF SUP MAG RARE SET UNI NMAG ETH RW
+//║   Other:          SOCK ID ! > < = 
+//║   
+//║   Slashes (//) at the beginning of a line mean that line is disabled. Remove the slashes to activate.
+//║   
+//║   Leave the space after the colon (:) blank to show nothing. This is how you hide items. 
+//║      ex. ItemDisplay[key]: // this line will hide keys  
+//║   
+//║   Modify the name after the colon (:) to affect the display name or add other display attributes.
+//║      ex. ItemDisplay[bst]: %PURPLE%%NAME%  // this line will display the original name but colored purple
+//║      ex. ItemDisplay[tsc]: %DGREEN% TP  // this line will display town portals as 'TP' colored dark green
+//║      ex. ItemDisplay[axe]: %NAME% %GREEN%[%SOCKETS%] // this line will show the original name followed by 
+//║                                                         brackets containing the number of sockets, all of 
+//║                                                         which are green. By default, all items in this filter 
+//║                                                         show eth and sockets, but you can use this to override
+//║                                                         with alternative styling.
+//║
+//║   Use terms within the brackets to further specify the attributes or qualities of items whose displays are to be altered.
+//║   You can use terms to hide items with specific attributes or use negation to hide all except items with an attribute.
+//║      ex. ItemDisplay[uit]: // this line hides any and all iterations of this item
+//║      ex. ItemDisplay[ETH uit]: // this line hides the item only if ethereal, but will display all other
+//║      ex. ItemDisplay[ETH NMAG uit]: // this line will hide versions of the item that are non-magic (white) or ethereal
+//║      ex. ItemDisplay[(ETH AND NMAG) uit]: // using parenthesis and the AND term will hide versions of this item if they are
+//║                                              both non-magic and eth, but they must be both to satisfy the condition
+//║      ex. ItemDisplay[!ETH uit]: // the ! denotes negation. this line will hide all of this item except for ethereal
+//║      ex. ItemDisplay[!(ETH AND SOCK>3) uit]: // this line will hide all of the item except if they are ethereal and have 4
+//║                                                 or more sockets. 
+//║      ex. ItemDisplay[!RARE !UNI rin]: // this line will hide rings unless they are rare or unique
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
+//║
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gold  ███████ //
 //ItemDisplay[GOLD<4999]: // Gold 5K+
