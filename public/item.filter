@@ -2,17 +2,39 @@
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ ///////////////////////////  ▬▬▬▬▬ ROCKETFLOOF ITEM FILTER ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-//║   
-//║   
-//║   
-//║   
+//║  IMPORTANT: If you download through the POD launcher, do not use auto updates. You can also copy the 
+//║             text into your existing filter file or create a new text document with this text and 
+//║             name it item.filter and put it in your POD folder. Then open the file with text edit and 
+//║             customize it.
+//║
+//║   Backstory: I began using various item filters as soon as I started playing POD and I found that I was 
+//║   interested in making adjustments because I found the colors and formatting distracting and I wanted it 
+//║   to have a more traditional look. I also found that many filters will have conditions to show items based
+//║   on character level which is fine for filtering out unwanted items as you progress, but not fine if you are 
+//║   using a higher level char to source items for a lower level char. One solution to this is to turn your filter
+//║   off temporarily while you search (which I still do occasionally) but ultimately I created this filter to be
+//║   a compromise between the two. Another problem I had with other filters is that they often group whole categories
+//║   or classes of items together in bulk which can make things really really really confusing really quickly if you're
+//║   trying to show, for instance, just eth 4os great or blade bows but not any other bows. There are ways to do this 
+//║   in other filters, but I found it very difficult to keep track of the changes I was making which is what prompted 
+//║   me to create this filter in the first place.
+//║  
+//║   This filter has every item listed and labeled individually such that they may be turned on or off as needed. 
+//║   As it is now, this filter is a template (with nothing being filtered) and will need to be setup manually.
+//║   For reference, here is a link to the version of this filter that I am currently using:
+//║        https://raw.githubusercontent.com/rocketfloof/rocketfloof.itemfilter/master/item.filter
+//║    This filter can also be used as a guide or reference for item filter codes.
+//║
+//║                     // ███████  COMMON CODES  ███████ // 
+//║
 //║   Color:          %GREEN% %DGREEN% %GOLD% %TAN% %BLUE% %GRAY% %WHITE% %BLACK% %YELLOW% %ORANGE% %PURPLE%  %RED%
 //║   Value:          %PRICE% %ILVL% %SOCKETS% %CODE% %NAME% %CONTINUE% %RUNENAME% 
 //║   Item Tier:      NORM EXC ELT (these terms aren't really necessary in this filter)
 //║   Item Quality:   INF SUP MAG RARE SET UNI NMAG ETH RW
 //║   Other:          SOCK ID ! > < = 
-//║   
-//║   Slashes (//) at the beginning of a line mean that line is disabled. Remove the slashes to activate.
+//║   Check the wiki for a complete list of item, quality, and attribute codes.
+//║
+//║   Slashes (//) at the beginning of a line mean that the line is disabled. Remove the slashes to activate a line.
 //║   
 //║   Leave the space after the colon (:) blank to show nothing. This is how you hide items. 
 //║      ex. ItemDisplay[key]: // this line will hide keys  
@@ -33,11 +55,15 @@
 //║      ex. ItemDisplay[ETH NMAG uit]: // this line will hide versions of the item that are non-magic (white) or ethereal
 //║      ex. ItemDisplay[(ETH AND NMAG) uit]: // using parenthesis and the AND term will hide versions of this item if they are
 //║                                              both non-magic and eth, but they must be both to satisfy the condition
-//║      ex. ItemDisplay[!ETH uit]: // the ! denotes negation. this line will hide all of this item except for ethereal
+//║      ex. ItemDisplay[!(ETH AND NMAG) uit]: // adding a ! to the same line inverts it such that it will hide all versions of 
+//║                                               this item but not if they are ethereal and also non-magic
+//║      ex. ItemDisplay[!ETH uit]: // this line will hide all of this item except for ethereal
 //║      ex. ItemDisplay[!(ETH AND SOCK>3) uit]: // this line will hide all of the item except if they are ethereal and have 4
 //║                                                 or more sockets. 
 //║      ex. ItemDisplay[!RARE !UNI rin]: // this line will hide rings unless they are rare or unique
 //║
+//║   There are limitations to what can be done with the syntax used in these filters, so I recommend using items that you have in-game 
+//║   when experimenting so that you can verify that the changes you make actually work the way you want them to.
 //║
 //║
 //║
@@ -52,9 +78,10 @@
 //║
 //║
 //║
-//║
-//║
-//║
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+//╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+//║ //////////////////////////////////  ▬▬▬▬▬ MISC ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
+//╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gold  ███████ //
 //ItemDisplay[GOLD<4999]: // Gold 5K+
