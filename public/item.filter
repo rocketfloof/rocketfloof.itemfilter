@@ -4,8 +4,8 @@
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //║  IMPORTANT: If you download through the POD launcher, do not use auto updates. You can also copy the 
 //║             text into your existing filter file or create a new text document with this text and 
-//║             name it item.filter and put it in your POD folder. Then open the file with text edit and 
-//║             customize it.
+//║             name it item.filter (encode as utf-8 BOM) and put it in your POD folder. Then open the 
+//║             file with text edit and customize it.
 //║
 //║   Backstory: I began using various item filters as soon as I started playing POD and I found that I was 
 //║   interested in making adjustments because I found the colors and formatting distracting and I wanted it 
