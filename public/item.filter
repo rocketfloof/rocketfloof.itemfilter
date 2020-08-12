@@ -15,9 +15,9 @@
 //║   off temporarily while you search (which I still do occasionally) but ultimately I created this filter to be
 //║   a compromise between the two. Another problem I had with other filters is that they often group whole categories
 //║   or classes of items together in bulk which can make things really really really confusing really quickly if you're
-//║   trying to show, for instance, just eth 4os great or blade bows but not any other bows. There are ways to do this 
-//║   in other filters, but I found it very difficult to keep track of the changes I was making which is what prompted 
-//║   me to create this filter in the first place.
+//║   trying to show, for instance, certain unique items or just eth 4os great or blade bows but not any other bows. 
+//║   There are ways to do this in other filters, but I found it very difficult to keep track of the changes I was 
+//║   making which is what prompted me to create this filter in the first place.
 //║  
 //║   This filter has every item listed and labeled individually such that they may be turned on or off as needed. 
 //║   As it is now, this filter is a template (with nothing being filtered) and will need to be setup manually.
@@ -25,7 +25,7 @@
 //║        https://raw.githubusercontent.com/rocketfloof/rocketfloof.itemfilter/master/item.filter
 //║    This filter can also be used as a guide or reference for item filter codes.
 //║
-//║                     // ███████  COMMON CODES  ███████ // 
+//║                     // ███████  TUTORIAL  ███████ // 
 //║
 //║   Color:          %GREEN% %DGREEN% %GOLD% %TAN% %BLUE% %GRAY% %WHITE% %BLACK% %YELLOW% %ORANGE% %PURPLE%  %RED%
 //║   Value:          %PRICE% %ILVL% %SOCKETS% %CODE% %NAME% %CONTINUE% %RUNENAME% 
@@ -40,8 +40,8 @@
 //║      ex. ItemDisplay[key]: // this line will hide keys  
 //║   
 //║   Modify the name after the colon (:) to affect the display name or add other display attributes.
-//║      ex. ItemDisplay[bst]: %PURPLE%%NAME%  // this line will display the original name but colored purple
-//║      ex. ItemDisplay[tsc]: %DGREEN% TP  // this line will display town portals as 'TP' colored dark green
+//║      ex. ItemDisplay[bst]: %PURPLE%%NAME%  // this line will display the original name but colored purple.
+//║      ex. ItemDisplay[tsc]: %DGREEN% TP  // this line will display town portals as 'TP' colored dark green.
 //║      ex. ItemDisplay[axe]: %NAME% %GREEN%[%SOCKETS%] // this line will show the original name followed by 
 //║                                                         brackets containing the number of sockets, all of 
 //║                                                         which are green. By default, all items in this filter 
@@ -50,32 +50,20 @@
 //║
 //║   Use terms within the brackets to further specify the attributes or qualities of items whose displays are to be altered.
 //║   You can use terms to hide items with specific attributes or use negation to hide all except items with an attribute.
-//║      ex. ItemDisplay[uit]: // this line hides any and all iterations of this item
-//║      ex. ItemDisplay[ETH uit]: // this line hides the item only if ethereal, but will display all other
-//║      ex. ItemDisplay[ETH NMAG uit]: // this line will hide versions of the item that are non-magic (white) or ethereal
+//║      ex. ItemDisplay[uit]: // this line hides any and all iterations of this item.
+//║      ex. ItemDisplay[ETH uit]: // this line hides the item only if ethereal, but will display all other.
+//║      ex. ItemDisplay[ETH NMAG uit]: // this line will hide versions of the item that are non-magic (white) or ethereal.
 //║      ex. ItemDisplay[(ETH AND NMAG) uit]: // using parenthesis and the AND term will hide versions of this item if they are
-//║                                              both non-magic and eth, but they must be both to satisfy the condition
+//║                                              both non-magic and eth, but they must be both to satisfy the condition.
 //║      ex. ItemDisplay[!(ETH AND NMAG) uit]: // adding a ! to the same line inverts it such that it will hide all versions of 
-//║                                               this item but not if they are ethereal and also non-magic
-//║      ex. ItemDisplay[!ETH uit]: // this line will hide all of this item except for ethereal
-//║      ex. ItemDisplay[!(ETH AND SOCK>3) uit]: // this line will hide all of the item except if they are ethereal and have 4
-//║                                                 or more sockets. 
-//║      ex. ItemDisplay[!RARE !UNI rin]: // this line will hide rings unless they are rare or unique
+//║                                               this item but not if they are ethereal and also non-magic.
+//║      ex. ItemDisplay[!ETH uit]: // this line will hide all of this item except for ethereal.
+//║      ex. ItemDisplay[!(ETH AND SOCK>3) uit]: // this line will hide all of the item except if they are ethereal and have 
+//║                                                 greater than 3 sockets (4+).
+//║      ex. ItemDisplay[!RARE !UNI rin]: // this line will hide rings unless they are rare or unique.
 //║
 //║   There are limitations to what can be done with the syntax used in these filters, so I recommend using items that you have in-game 
 //║   when experimenting so that you can verify that the changes you make actually work the way you want them to.
-//║
-//║
-//║
-//║
-//║
-//║
-//║
-//║
-//║
-//║
-//║
-//║
 //║
 //║
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -84,7 +72,7 @@
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gold  ███████ //
-//ItemDisplay[GOLD<4999]: // Gold 5K+
+//ItemDisplay[GOLD<4999]: // Gold 5K+ 
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Misc.  ███████ //
 //ItemDisplay[key]: // Key
@@ -217,6 +205,7 @@
 //║ //////////////////////////////////  ▬▬▬▬▬ SET ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
+// (The !ID code means don't include if item is identified)
 //ItemDisplay[SET !ID rin]: // Angelic Halo and Cathan's Seal
 //ItemDisplay[SET !ID rng]: // Angelic Mantle
 //ItemDisplay[SET !ID sbr]: // Angelic Sickle
