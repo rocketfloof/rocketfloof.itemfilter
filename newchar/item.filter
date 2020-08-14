@@ -1,1 +1,223 @@
+﻿//
+//╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+//║ ///////////////////////////  ▬▬▬▬▬ ROCKETFLOOF ITEM FILTER ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
+//╚═══════════════════════════════════════════════════════════════════════════════════════════════╝  
+//║   Color:          %GREEN% %DGREEN% %GOLD% %TAN% %BLUE% %GRAY% %WHITE% %BLACK% %YELLOW% %ORANGE% %PURPLE%  %RED%
+//║   Value:          %PRICE% %ILVL% %SOCKETS% %CODE% %NAME% %CONTINUE% %RUNENAME% 
+//║   Item Tier:      NORM EXC ELT (these terms aren't really necessary in this filter)
+//║   Item Quality:   INF SUP MAG RARE SET UNI NMAG ETH RW
+//║   Other:          SOCK ID ! > < =   
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Gold  ███████ //
+ItemDisplay[GOLD<30 CLVL>9]: 
+ItemDisplay[GOLD<50 CLVL>13]: 
+ItemDisplay[GOLD<80 CLVL>16]: 
+ItemDisplay[GOLD<100 CLVL>19]:
+ItemDisplay[GOLD<200 CLVL>24]:
+ItemDisplay[GOLD<500 CLVL>29]:
+ItemDisplay[GOLD<1000 CLVL>39]:
+ItemDisplay[GOLD<2000 CLVL>49]:
+ItemDisplay[GOLD<3000 CLVL>59]:
+ItemDisplay[GOLD<5000 CLVL>69]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Misc.  ███████ //
+//ItemDisplay[key]: // Key
+ItemDisplay[tsc]: Town Portal // Town Portal Scroll
+//ItemDisplay[tbk]: // Town Portal Tome
+ItemDisplay[isc]: Identify // Identify Scroll
+//ItemDisplay[ibk]: // Identify Tome
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Jewelry  ███████ //
+//ItemDisplay[amu]: // amulet
+//ItemDisplay[rin]: // rings
+//ItemDisplay[jew]: // Jewel
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Arrows and Bolts  ███████ //
+//ItemDisplay[aqv]: //	Rusted Arrows
+//ItemDisplay[cqv]: // 	Rusted Bolts
+//ItemDisplay[aq2]: // 	Arrows
+//ItemDisplay[cq2]: // 	Bolts
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Gems  ███████ //
+ItemDisplay[gcv CLVL>19]: //	Chipped Amethyst
+ItemDisplay[gcy CLVL>19]: // 	Chipped Topaz
+ItemDisplay[gcb CLVL>19]: // 	Chipped Sapphire
+ItemDisplay[gcg CLVL>19]: // 	Chipped Emerald
+ItemDisplay[gcr CLVL>19]: // 	Chipped Ruby
+ItemDisplay[gcw CLVL>19]: //	Chipped Diamond
+ItemDisplay[skc CLVL>19]: // 	Chipped Skull
+//─────────────────────────────────────────────────
+ItemDisplay[gfv CLVL>19]: // 	Flawed Amethyst
+ItemDisplay[gfy CLVL>19]: // 	Flawed Topaz
+ItemDisplay[gfb CLVL>19]: // 	Flawed Sapphire
+ItemDisplay[gfg CLVL>19]: // 	Flawed Emerald
+ItemDisplay[gfr CLVL>19]: // 	Flawed Ruby
+ItemDisplay[gfw CLVL>19]: // 	Flawed Diamond
+ItemDisplay[skf CLVL>19]: // 	Flawed Skull
+//─────────────────────────────────────────────────
+ItemDisplay[gsv CLVL>29]: // 	Amethyst
+ItemDisplay[gsy CLVL>29]: // 	Topaz
+ItemDisplay[gsb CLVL>29]: // 	Sapphire
+ItemDisplay[gsg CLVL>29]: // 	Emerald
+ItemDisplay[gsr CLVL>29]: // 	Ruby
+ItemDisplay[gsw CLVL>29]: // 	Diamond
+ItemDisplay[sku CLVL>29]: // 	Skull
+//─────────────────────────────────────────────────
+//ItemDisplay[gzv]: // 	Flawless Amethyst
+//ItemDisplay[gly]: // 	Flawless Topaz
+//ItemDisplay[glb]: // 	Flawless Sapphire
+//ItemDisplay[glg]: // 	Flawless Emerald
+//ItemDisplay[glr]: // 	Flawless Ruby
+//ItemDisplay[glw]: // 	Flawless Diamond
+//ItemDisplay[skl]: // 	Flawless Skull
+//─────────────────────────────────────────────────
+//ItemDisplay[gpv]: // 	Perfect Amethyst
+//ItemDisplay[gpy]: // 	Perfect Topaz
+//ItemDisplay[gpb]: // 	Perfect Sapphire
+//ItemDisplay[gpg]: // 	Perfect Emerald
+//ItemDisplay[gpr]: // 	Perfect Ruby
+//ItemDisplay[gpw]: // 	Perfect Diamond
+//ItemDisplay[skz]: // 	Perfect Skull
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Potions  ███████ //
+ItemDisplay[hp1 CLVL>14]: //	Minor Healing Potion
+ItemDisplay[hp2 CLVL>24]: // 	Light Healing Potion
+//ItemDisplay[hp3]: // 	Healing Potion
+ItemDisplay[hp4]: Greater Healing // 	Greater Healing Potion
+ItemDisplay[hp5]: Super Healing // 	Super Healing Potion
+ItemDisplay[mp1 CLVL>14]: // 	Minor Mana Potion
+ItemDisplay[mp2 CLVL>24]: // 	Light Mana Potion
+//ItemDisplay[mp3]: // 	Mana Potion
+ItemDisplay[mp4]: Greater Mana // 	Greater Mana Potion
+ItemDisplay[mp5]: Super Mana // 	Super Mana Potion
+ItemDisplay[rvs]: Rejuvenation // 	Rejuv Potion
+ItemDisplay[rvl]: Full Rejuvenation // 	Full Rejuv Potion
+ItemDisplay[wms]: // 	Thawing Potion
+ItemDisplay[vps]: // 	Stamina Potion
+//ItemDisplay[yps]: // 	Antidote Potion
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Throw Potions  ███████ //
+ItemDisplay[gps CLVL>7]: // 	Rancid Gas Potion
+ItemDisplay[ops CLVL>7]: // 	Oil Potion
+ItemDisplay[gpm CLVL>7]: // 	Choking Gas Potion
+ItemDisplay[opm CLVL>7]: // 	Exploding Potion
+ItemDisplay[gpl CLVL>7]: // 	Strangling Gas Potion
+ItemDisplay[opl CLVL>7]: // 	Fulminating Potion
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Wirt's Leg  ███████ //
+//ItemDisplay[leg]: // 	Wirt's Leg
 
+ItemDisplay[SET OR UNI]: %NAME%
+
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Unique/Set ETH/SOCK Catchall  ███████ //
+ItemDisplay[UNI ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[SET ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[UNI ETH !ID]: ETH %NAME%
+ItemDisplay[SET ETH !ID]: ETH %NAME%
+ItemDisplay[UNI SOCK>0 !ID]: %NAME% [%SOCKETS%]
+ItemDisplay[SET SOCK>0 !ID]: %NAME% [%SOCKETS%]	
+ItemDisplay[UNI !ID]: %NAME%
+ItemDisplay[SET !ID]: %NAME%
+ItemDisplay[UNI ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[SET ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[UNI ETH]: ETH %NAME%
+ItemDisplay[SET ETH]: ETH %NAME%
+ItemDisplay[UNI SOCK>0]: %NAME% [%SOCKETS%]
+ItemDisplay[SET SOCK>0]: %NAME% [%SOCKETS%]
+ItemDisplay[UNI]: %NAME%
+ItemDisplay[SET]: %NAME%
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+//╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+//║ ////////////////////////////////  ▬▬▬▬▬ REGULAR ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
+//╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Axes  ███████ //
+ItemDisplay[WP1 CLVL>9]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Maces  ███████ //
+ItemDisplay[fla !SOCK>3]: // 
+ItemDisplay[WP2 CLVL>9]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Swords  ███████ //
+ItemDisplay[crs !SOCK>3]: // 	Crystal Sword
+ItemDisplay[bsd !SOCK>3]: // 	Broad Sword
+ItemDisplay[lsd !SOCK>3]: // 	Long Sword
+ItemDisplay[WP3 CLVL>9]: // 	Short Sword
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Daggers  ███████ //
+ItemDisplay[WP4 CLVL>9]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Throwing  ███████ //
+ItemDisplay[WP5 CLVL>9]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Javelins  ███████ //
+ItemDisplay[WP6 CLVL>9]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Spears  ███████ //
+//ItemDisplay[WP7]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Polearms  ███████ //
+//ItemDisplay[WP8]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Staves  ███████ //
+//ItemDisplay[WP11]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Bows  ███████ //
+ItemDisplay[WP9 CLVL>14]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Crossbows  ███████ //
+ItemDisplay[WP10 CLVL>9]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Scepters  ███████ //
+//ItemDisplay[WP13]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Assassin Weapons  ███████ //
+ItemDisplay[CL5 NORM CLVL>9]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Sorc Orbs  ███████ // 
+//ItemDisplay[CL6]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Amazon Bows  ███████ //
+ItemDisplay[CL7 CLVL>14]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Helms  ███████ //
+ItemDisplay[EQ1 CLVL>9 !SOCK>1 !RARE]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Body Armor  ███████ //
+ItemDisplay[EQ2 NORM CLVL>9 !SOCK>1]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Shields  ███████ //
+ItemDisplay[EQ3 CLVL>9 !SOCK>1 !RARE]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Gloves  ███████ //
+ItemDisplay[EQ4 CLVL>9 !RARE]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Boots  ███████ //
+ItemDisplay[EQ5 CLVL>9 !RARE]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Belts  ███████ //
+ItemDisplay[EQ6 CLVL>9 !RARE]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Druid Pelts  ███████ //
+//ItemDisplay[CL1]: // 	
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Barb Helms  ███████ //
+//ItemDisplay[CL2]: // 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Paladin Shields  ███████ //
+ItemDisplay[CL3 NORM CLVL>9]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Necro Shields  ███████ //
+//ItemDisplay[CL4]: //
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Other Headgear  ███████ //
+ItemDisplay[ci0 !(MAG OR RARE)]: // 	Circlet
+ItemDisplay[ci1 !(MAG OR RARE)]: // 	Coronet
+ItemDisplay[ci2 !(MAG OR RARE)]: // 	Tiara
+ItemDisplay[ci3 !(MAG OR RARE)]: // 	Diadem
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Catchall  ███████ //
+ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[ETH SOCK=0]: ETH %NAME%
+ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
