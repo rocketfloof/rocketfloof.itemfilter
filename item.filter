@@ -15,7 +15,7 @@ ItemDisplay[isc]: Identify // 	Identify Scroll
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
 //ItemDisplay[amu]: // 	amulet
-ItemDisplay[!RARE !UNI rin]: // rings hidden except rare/unique
+//ItemDisplay[rin]: // rings
 //ItemDisplay[jew]: // 	Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
@@ -686,6 +686,10 @@ ItemDisplay[UNI !ID nef]: // 	Darkforce Spawn Bloodlord Skull
 // ███████  Unique Other Headgear  ███████ //
 //ItemDisplay[UNI !ID ci2]: // 	Kira's Guardian Tiara
 //ItemDisplay[UNI !ID ci3]: // 	Griffon's Eye Diadem
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Runewords  ███████ //
+ItemDisplay[RW]: %NAME% [%SOCKETS%]
+ItemDisplay[RW ETH]: ETH %NAME% [%SOCKETS%]
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique/Set ETH/SOCK Catchall  ███████ //
 ItemDisplay[UNI ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
