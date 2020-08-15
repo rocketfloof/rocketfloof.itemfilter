@@ -33,10 +33,7 @@ ItemDisplay[isc]: Identify // Identify Scroll
 //ItemDisplay[jew]: // Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
-//ItemDisplay[aqv]: //	Rusted Arrows
-//ItemDisplay[cqv]: // 	Rusted Bolts
-//ItemDisplay[aq2]: // 	Arrows
-//ItemDisplay[cq2]: // 	Bolts
+ItemDisplay[(aqv OR cqv OR aq2 OR cq2)]: 
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gems  ███████ //
 ItemDisplay[gcv CLVL>19]: //	Chipped Amethyst
@@ -80,21 +77,22 @@ ItemDisplay[sku CLVL>29]: // 	Skull
 //ItemDisplay[skz]: // 	Perfect Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Potions  ███████ //
-ItemDisplay[hp1 CLVL>14]: //	Minor Healing Potion
-ItemDisplay[hp2 CLVL>24]: // 	Light Healing Potion
-//ItemDisplay[hp3]: // 	Healing Potion
+ItemDisplay[hp1 !CLVL<14]: //	Minor Healing Potion
+ItemDisplay[hp2 !CLVL<24]: // 	Light Healing Potion
+ItemDisplay[hp3 !CLVL<39]: // 	Healing Potion
 ItemDisplay[hp4]: Greater Healing // 	Greater Healing Potion
 ItemDisplay[hp5]: Super Healing // 	Super Healing Potion
-ItemDisplay[mp1 CLVL>14]: // 	Minor Mana Potion
-ItemDisplay[mp2 CLVL>24]: // 	Light Mana Potion
-//ItemDisplay[mp3]: // 	Mana Potion
+ItemDisplay[mp1 !CLVL<14]: // 	Minor Mana Potion
+ItemDisplay[mp2 !CLVL<24]: // 	Light Mana Potion
+ItemDisplay[mp3 !CLVL<39]: // 	Mana Potion
 ItemDisplay[mp4]: Greater Mana // 	Greater Mana Potion
 ItemDisplay[mp5]: Super Mana // 	Super Mana Potion
 ItemDisplay[rvs]: Rejuvenation // 	Rejuv Potion
 ItemDisplay[rvl]: Full Rejuvenation // 	Full Rejuv Potion
 ItemDisplay[wms]: // 	Thawing Potion
-ItemDisplay[vps]: // 	Stamina Potion
-//ItemDisplay[yps]: // 	Antidote Potion
+ItemDisplay[vps]: Stamina // 	Stamina Potion
+ItemDisplay[yps]: Antidote // 	Antidote Potion
+ItemDisplay[(hp4 OR mp4 OR rvs) CLVL>79]: // Hide greater and rejuv at lvl 80
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Throw Potions  ███████ //
 ItemDisplay[gps CLVL>7]: // 	Rancid Gas Potion
@@ -105,10 +103,13 @@ ItemDisplay[gpl CLVL>7]: // 	Strangling Gas Potion
 ItemDisplay[opl CLVL>7]: // 	Fulminating Potion
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wirt's Leg  ███████ //
-//ItemDisplay[leg]: // 	Wirt's Leg
-
+ItemDisplay[leg]: %NAME% 
+ItemDisplay[leg SOCK>0]: %NAME% [%SOCKETS%]
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Unique/Set ETH/SOCK Catchall  ███████ //
 ItemDisplay[SET OR UNI]: %NAME%
-
+ItemDisplay[RW]: %NAME% [%SOCKETS%]
+ItemDisplay[RW ETH]: ETH %NAME% [%SOCKETS%] 
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique/Set ETH/SOCK Catchall  ███████ //
 ItemDisplay[UNI ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
