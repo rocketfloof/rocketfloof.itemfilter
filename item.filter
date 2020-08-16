@@ -705,7 +705,7 @@ ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*INSI
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*OBEDIENCE/DOOM*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(2ax OR mpi OR wax OR 92a) NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST/GRIEF*
+ItemDisplay[(2ax OR mpi OR wax OR 92a) NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST&GRIEF*
 ItemDisplay[gsc NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST*
 ItemDisplay[7cr NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*GRIEF*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
