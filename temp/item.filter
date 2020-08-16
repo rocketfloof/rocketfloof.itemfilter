@@ -27,29 +27,11 @@ ItemDisplay[isc]: Identify // Identify Scroll
 ItemDisplay[(aqv OR cqv OR aq2 OR cq2)]: 
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gems  ███████ //
-ItemDisplay[gcv CLVL>19]: //	Chipped Amethyst
-ItemDisplay[gcy CLVL>19]: // 	Chipped Topaz
-ItemDisplay[gcb CLVL>19]: // 	Chipped Sapphire
-ItemDisplay[gcg CLVL>19]: // 	Chipped Emerald
-ItemDisplay[gcr CLVL>19]: // 	Chipped Ruby
-ItemDisplay[gcw CLVL>19]: //	Chipped Diamond
-ItemDisplay[skc CLVL>19]: // 	Chipped Skull
+ItemDisplay[(gcv OR gcy OR gcb OR gcg OR gcr OR gcw OR skc) CLVL>19]: //	Chipped
 //─────────────────────────────────────────────────
-ItemDisplay[gfv CLVL>19]: // 	Flawed Amethyst
-ItemDisplay[gfy CLVL>19]: // 	Flawed Topaz
-ItemDisplay[gfb CLVL>19]: // 	Flawed Sapphire
-ItemDisplay[gfg CLVL>19]: // 	Flawed Emerald
-ItemDisplay[gfr CLVL>19]: // 	Flawed Ruby
-ItemDisplay[gfw CLVL>19]: // 	Flawed Diamond
-ItemDisplay[skf CLVL>19]: // 	Flawed Skull
+ItemDisplay[(gfv OR gfy OR gfb OR gfg OR gfr OR gfw OR skf) CLVL>19]: //	Flawed
 //─────────────────────────────────────────────────
-ItemDisplay[gsv CLVL>29]: // 	Amethyst
-ItemDisplay[gsy CLVL>29]: // 	Topaz
-ItemDisplay[gsb CLVL>29]: // 	Sapphire
-ItemDisplay[gsg CLVL>29]: // 	Emerald
-ItemDisplay[gsr CLVL>29]: // 	Ruby
-ItemDisplay[gsw CLVL>29]: // 	Diamond
-ItemDisplay[sku CLVL>29]: // 	Skull
+ItemDisplay[(gsv OR gsy OR gsb OR gsg OR gsr OR gsw OR sku) CLVL>29]: //	Normal
 //─────────────────────────────────────────────────
 //ItemDisplay[gzv]: // 	Flawless Amethyst
 //ItemDisplay[gly]: // 	Flawless Topaz
@@ -68,7 +50,7 @@ ItemDisplay[sku CLVL>29]: // 	Skull
 //ItemDisplay[skz]: // 	Perfect Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Potions  ███████ //
-ItemDisplay[(hp4 OR mp4 OR rvs) CLVL>74]: // Hide greater and rejuv at lvl 80
+ItemDisplay[(hp4 OR mp4 OR rvs) CLVL>74]: // Hide greater and rejuv at lvl 74
 ItemDisplay[(hp1 OR mp1) !CLVL<14]: //	Minor Healing/Mana Potion
 ItemDisplay[(hp2 OR mp2) !CLVL<24]: // 	Light Healing/Mana Potion
 ItemDisplay[(hp3 OR mp3) !CLVL<39]: // 	Healing/Mana Potion
@@ -91,13 +73,9 @@ ItemDisplay[opm CLVL>7]: // 	Exploding Potion
 ItemDisplay[gpl CLVL>7]: // 	Strangling Gas Potion
 ItemDisplay[opl CLVL>7]: // 	Fulminating Potion
 
-ItemDisplay[7tk OR 7ta OR 7bk OR 7b8 OR 9ja OR 9pi OR 9s9 OR 9gl OR 9ts OR 7ja OR 7pi OR 7s7 OR 7gl OR 7ts]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
-
-
-ItemDisplay[(WEAPON AND ARMOR) NORM !UNI !SET]:
-ItemDisplay[(WP10 OR WP4) !UNI]:
-
-// ███████  Unique/Set ETH/SOCK Catchall  ███████ //
+// ███████  Unique/Set/RW ETH/SOCK Catchall  ███████ //
+ItemDisplay[RW]: %NAME% [%SOCKETS%]
+ItemDisplay[RW ETH]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[UNI ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[SET ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[UNI ETH !ID]: ETH %NAME%
@@ -115,7 +93,10 @@ ItemDisplay[SET SOCK>0]: %NAME% [%SOCKETS%]
 ItemDisplay[UNI]: %NAME%
 ItemDisplay[SET]: %NAME%
 
-
+ItemDisplay[(7tk OR 7ta OR 7bk OR 7b8 OR 9ja OR 9pi OR 9s9 OR 9gl OR 9ts OR 7ja OR 7pi OR 7s7 OR 7gl OR 7ts) !ETH]: %YELLOW%$$ %NAME% $$
+ItemDisplay[(WEAPON AND ARMOR) NORM !CLVL<45]: // hide all norm wep and armor after char lvl 44
+ItemDisplay[(WP1 OR WP10 OR WP4) !CLVL<45]: // hide all axes, crossbows, daggers after char lvl 44
+ItemDisplay[WP3 !CLVL<45 !SOCK>3 !(ETH AND SOCK>3)]: // hide all swords after char lvl 44 unless 4+os or eth 4+os
 
 // ███████  Catchall  ███████ //
 ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
