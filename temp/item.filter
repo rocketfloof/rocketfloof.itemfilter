@@ -1,1 +1,123 @@
+﻿
+// ███████  Gold  ███████ //
+ItemDisplay[GOLD<30 CLVL>9]: 
+ItemDisplay[GOLD<50 CLVL>13]: 
+ItemDisplay[GOLD<80 CLVL>16]: 
+ItemDisplay[GOLD<100 CLVL>19]:
+ItemDisplay[GOLD<200 CLVL>24]:
+ItemDisplay[GOLD<500 CLVL>29]:
+ItemDisplay[GOLD<1000 CLVL>39]:
+ItemDisplay[GOLD<2000 CLVL>49]:
+ItemDisplay[GOLD<3000 CLVL>59]:
+ItemDisplay[GOLD<5000 CLVL>69]:
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Misc.  ███████ //
+//ItemDisplay[key]: // Key
+ItemDisplay[tsc]: Town Portal // Town Portal Scroll
+//ItemDisplay[tbk]: // Town Portal Tome
+ItemDisplay[isc]: Identify // Identify Scroll
+//ItemDisplay[ibk]: // Identify Tome
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Jewelry  ███████ //
+//ItemDisplay[amu]: // amulet
+//ItemDisplay[rin]: // rings
+//ItemDisplay[jew]: // Jewel
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Arrows and Bolts  ███████ //
+ItemDisplay[(aqv OR cqv OR aq2 OR cq2)]: 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Gems  ███████ //
+ItemDisplay[gcv CLVL>19]: //	Chipped Amethyst
+ItemDisplay[gcy CLVL>19]: // 	Chipped Topaz
+ItemDisplay[gcb CLVL>19]: // 	Chipped Sapphire
+ItemDisplay[gcg CLVL>19]: // 	Chipped Emerald
+ItemDisplay[gcr CLVL>19]: // 	Chipped Ruby
+ItemDisplay[gcw CLVL>19]: //	Chipped Diamond
+ItemDisplay[skc CLVL>19]: // 	Chipped Skull
+//─────────────────────────────────────────────────
+ItemDisplay[gfv CLVL>19]: // 	Flawed Amethyst
+ItemDisplay[gfy CLVL>19]: // 	Flawed Topaz
+ItemDisplay[gfb CLVL>19]: // 	Flawed Sapphire
+ItemDisplay[gfg CLVL>19]: // 	Flawed Emerald
+ItemDisplay[gfr CLVL>19]: // 	Flawed Ruby
+ItemDisplay[gfw CLVL>19]: // 	Flawed Diamond
+ItemDisplay[skf CLVL>19]: // 	Flawed Skull
+//─────────────────────────────────────────────────
+ItemDisplay[gsv CLVL>29]: // 	Amethyst
+ItemDisplay[gsy CLVL>29]: // 	Topaz
+ItemDisplay[gsb CLVL>29]: // 	Sapphire
+ItemDisplay[gsg CLVL>29]: // 	Emerald
+ItemDisplay[gsr CLVL>29]: // 	Ruby
+ItemDisplay[gsw CLVL>29]: // 	Diamond
+ItemDisplay[sku CLVL>29]: // 	Skull
+//─────────────────────────────────────────────────
+//ItemDisplay[gzv]: // 	Flawless Amethyst
+//ItemDisplay[gly]: // 	Flawless Topaz
+//ItemDisplay[glb]: // 	Flawless Sapphire
+//ItemDisplay[glg]: // 	Flawless Emerald
+//ItemDisplay[glr]: // 	Flawless Ruby
+//ItemDisplay[glw]: // 	Flawless Diamond
+//ItemDisplay[skl]: // 	Flawless Skull
+//─────────────────────────────────────────────────
+//ItemDisplay[gpv]: // 	Perfect Amethyst
+//ItemDisplay[gpy]: // 	Perfect Topaz
+//ItemDisplay[gpb]: // 	Perfect Sapphire
+//ItemDisplay[gpg]: // 	Perfect Emerald
+//ItemDisplay[gpr]: // 	Perfect Ruby
+//ItemDisplay[gpw]: // 	Perfect Diamond
+//ItemDisplay[skz]: // 	Perfect Skull
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Potions  ███████ //
+ItemDisplay[(hp4 OR mp4 OR rvs) CLVL>74]: // Hide greater and rejuv at lvl 80
+ItemDisplay[(hp1 OR mp1) !CLVL<14]: //	Minor Healing/Mana Potion
+ItemDisplay[(hp2 OR mp2) !CLVL<24]: // 	Light Healing/Mana Potion
+ItemDisplay[(hp3 OR mp3) !CLVL<39]: // 	Healing/Mana Potion
+ItemDisplay[hp4]: Greater Healing // 	Greater Healing Potion
+ItemDisplay[mp4]: Greater Mana // 	Greater Mana Potion
+ItemDisplay[hp5]: Super Healing // 	Super Healing Potion
+ItemDisplay[mp5]: Super Mana // 	Super Mana Potion
+ItemDisplay[rvs]: Rejuvenation // 	Rejuv Potion
+ItemDisplay[rvl]: Full Rejuvenation // 	Full Rejuv Potion
+ItemDisplay[wms]: // 	Thawing Potion
+ItemDisplay[vps]: // 	Stamina Potion
+ItemDisplay[yps]: Antidote // 	Antidote Potion
 
+//─────────────────────────────────────────────────────────────────────────────────────────────────
+// ███████  Throw Potions  ███████ //
+ItemDisplay[gps CLVL>7]: // 	Rancid Gas Potion
+ItemDisplay[ops CLVL>7]: // 	Oil Potion
+ItemDisplay[gpm CLVL>7]: // 	Choking Gas Potion
+ItemDisplay[opm CLVL>7]: // 	Exploding Potion
+ItemDisplay[gpl CLVL>7]: // 	Strangling Gas Potion
+ItemDisplay[opl CLVL>7]: // 	Fulminating Potion
+
+ItemDisplay[7tk OR 7ta OR 7bk OR 7b8 OR 9ja OR 9pi OR 9s9 OR 9gl OR 9ts OR 7ja OR 7pi OR 7s7 OR 7gl OR 7ts]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
+
+
+ItemDisplay[(WEAPON AND ARMOR) NORM !UNI !SET]:
+ItemDisplay[(WP10 OR WP4) !UNI]:
+
+// ███████  Unique/Set ETH/SOCK Catchall  ███████ //
+ItemDisplay[UNI ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[SET ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[UNI ETH !ID]: ETH %NAME%
+ItemDisplay[SET ETH !ID]: ETH %NAME%
+ItemDisplay[UNI SOCK>0 !ID]: %NAME% [%SOCKETS%]
+ItemDisplay[SET SOCK>0 !ID]: %NAME% [%SOCKETS%]	
+ItemDisplay[UNI !ID]: %NAME%
+ItemDisplay[SET !ID]: %NAME%
+ItemDisplay[UNI ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[SET ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[UNI ETH]: ETH %NAME%
+ItemDisplay[SET ETH]: ETH %NAME%
+ItemDisplay[UNI SOCK>0]: %NAME% [%SOCKETS%]
+ItemDisplay[SET SOCK>0]: %NAME% [%SOCKETS%]
+ItemDisplay[UNI]: %NAME%
+ItemDisplay[SET]: %NAME%
+
+
+
+// ███████  Catchall  ███████ //
+ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[ETH SOCK=0]: ETH %NAME%
+ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
