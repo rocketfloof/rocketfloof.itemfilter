@@ -882,10 +882,10 @@ ItemDisplay[9ta !CLVL<59]: // 	Francisca
 ItemDisplay[9bk !CLVL<59]: // 	War Dart
 ItemDisplay[9b8 !CLVL<59]: // 	Hurlbat
 //─────────────────────────────────────────────────
-ItemDisplay[!ETH 7tk]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
-ItemDisplay[!ETH 7ta]: %YELLOW%$$ %NAME% $$ // 	Flying Axe
-ItemDisplay[!ETH 7bk]: %YELLOW%$$ %NAME% $$ // 	Winged Knife
-ItemDisplay[!ETH 7b8]: %YELLOW%$$ %NAME% $$ // 	Winged Axe
+ItemDisplay[7tk]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
+ItemDisplay[7ta]: %YELLOW%$$ %NAME% $$ // 	Flying Axe
+ItemDisplay[7bk]: %YELLOW%$$ %NAME% $$ // 	Winged Knife
+ItemDisplay[7b8]: %YELLOW%$$ %NAME% $$ // 	Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Javelins  ███████ //
 ItemDisplay[jav !CLVL<19]: // 	Javelin
@@ -894,17 +894,17 @@ ItemDisplay[ssp !CLVL<19]: // 	Short Spear
 ItemDisplay[glv !CLVL<19]: // 	Glaive
 ItemDisplay[tsp !CLVL<19]: // 	Throwing Spear
 //─────────────────────────────────────────────────
-ItemDisplay[!ETH 9ja]: %YELLOW%$$ %NAME% $$ // 	War Javelin
-ItemDisplay[!ETH 9pi]: %YELLOW%$$ %NAME% $$ // 	Great Pilum
-ItemDisplay[!ETH 9s9]: %YELLOW%$$ %NAME% $$ // 	Simbilan
-ItemDisplay[!ETH 9gl]: %YELLOW%$$ %NAME% $$ // 	Spiculum
-ItemDisplay[!ETH 9ts]: %YELLOW%$$ %NAME% $$ // 	Harpoon
+ItemDisplay[9ja]: %YELLOW%$$ %NAME% $$ // 	War Javelin
+ItemDisplay[9pi]: %YELLOW%$$ %NAME% $$ // 	Great Pilum
+ItemDisplay[9s9]: %YELLOW%$$ %NAME% $$ // 	Simbilan
+ItemDisplay[9gl]: %YELLOW%$$ %NAME% $$ // 	Spiculum
+ItemDisplay[9ts]: %YELLOW%$$ %NAME% $$ // 	Harpoon
 //─────────────────────────────────────────────────
-ItemDisplay[!ETH 7ja]: %YELLOW%$$ %NAME% $$ // 	Hyperion Javelin
-ItemDisplay[!ETH 7pi]: %YELLOW%$$ %NAME% $$ // 	Stygian Pilum
-ItemDisplay[!ETH 7s7]: %YELLOW%$$ %NAME% $$ // 	Balrog Spear
-ItemDisplay[!ETH 7gl]: %YELLOW%$$ %NAME% $$ // 	Ghost Glaive
-ItemDisplay[!ETH 7ts]: %YELLOW%$$ %NAME% $$ // 	Winged Harpoon
+ItemDisplay[7ja]: %YELLOW%$$ %NAME% $$ // 	Hyperion Javelin
+ItemDisplay[7pi]: %YELLOW%$$ %NAME% $$ // 	Stygian Pilum
+ItemDisplay[7s7]: %YELLOW%$$ %NAME% $$ // 	Balrog Spear
+ItemDisplay[7gl]: %YELLOW%$$ %NAME% $$ // 	Ghost Glaive
+ItemDisplay[7ts]: %YELLOW%$$ %NAME% $$ // 	Winged Harpoon
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Spears  ███████ //
 ItemDisplay[spr !CLVL<19]: // 	Spear
