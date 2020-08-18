@@ -3,7 +3,6 @@
 //║ ///////////////////////////  ▬▬▬▬▬ ROCKETFLOOF ITEM FILTER ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[]: %NAME% %PRICE%
 // ███████  Gold  ███████ //
 ItemDisplay[GOLD<30 CLVL>9]: 
 ItemDisplay[GOLD<50 CLVL>13]: 
@@ -878,9 +877,9 @@ ItemDisplay[tax !CLVL<19]: // 	Throwing Axe
 ItemDisplay[bkf !CLVL<19]: // 	Balanced Knife
 ItemDisplay[bal !CLVL<19]: // 	Balanced Axe
 //─────────────────────────────────────────────────
-ItemDisplay[9tk !CLVL<59]: // 	Battle Dart
+ItemDisplay[9tk]: %YELLOW%$$ %NAME% $$ // 	Battle Dart
 ItemDisplay[9ta !CLVL<59]: // 	Francisca
-ItemDisplay[9bk !CLVL<59]: // 	War Dart
+ItemDisplay[9bk]: %YELLOW%$$ %NAME% $$ // 	War Dart
 ItemDisplay[9b8 !CLVL<59]: // 	Hurlbat
 //─────────────────────────────────────────────────
 ItemDisplay[7tk]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
@@ -1110,7 +1109,7 @@ ItemDisplay[uap !CLVL<59]: // 	Shako
 ItemDisplay[ukp !CLVL<59]: // 	Hydraskull
 ItemDisplay[ulm !CLVL<59]: // 	Armet
 ItemDisplay[uhl !CLVL<59]: // 	Giant Conch
-ItemDisplay[uhm !CLVL<59]: // 	Spired Helm
+ItemDisplay[uhm]: %YELLOW%$$ %NAME% $$ // 	Spired Helm
 ItemDisplay[urn !CLVL<59]: // 	Corona
 ItemDisplay[usk !CLVL<59]: // 	Demonhead
 ItemDisplay[uh9 !CLVL<59]: // 	Bone Visage
@@ -1189,7 +1188,7 @@ ItemDisplay[urg !CLVL<59]: // 	Hyperion
 //ItemDisplay[uit]: // 	Monarch
 ItemDisplay[uow !CLVL<59]: // 	Aegis
 ItemDisplay[uts !CLVL<59]: // 	Ward
-ItemDisplay[ush !CLVL<59]: // 	Troll Nest
+ItemDisplay[ush]: %YELLOW%$$ %NAME% $$ // 	Troll Nest
 ItemDisplay[upk !CLVL<59]: // 	Blade Barrier
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gloves  ███████ //
