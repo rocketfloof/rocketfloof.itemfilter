@@ -40,7 +40,7 @@ ItemDisplay[(gfv OR gfy OR gfb OR gfg OR gfr OR gfw OR skf) CLVL>19]: //	Flawed
 //─────────────────────────────────────────────────
 ItemDisplay[(gsv OR gsy OR gsb OR gsg OR gsr OR gsw OR sku) CLVL>29]: //	Normal
 //─────────────────────────────────────────────────
-ItemDisplay[(gzv OR gly OR glb OR glg OR glr OR glw OR skl)]: %YELLOW% $$ %NAME% $$ // Flawless
+ItemDisplay[(gzv OR gly OR glb OR glg OR glr OR glw OR skl)]: %YELLOW% $$%WHITE% %NAME% %YELLOW%$$ // Flawless
 //─────────────────────────────────────────────────
 //ItemDisplay[(gpv OR gpy OR gpb OR gpg OR gpr OR gpw OR skz)]: // Perfect
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -388,7 +388,7 @@ ItemDisplay[SOCK>0 leg]: Wirt's Leg [%SOCKETS%]
 //ItemDisplay[UNI !ID 9st]: // 	Hone Sundan Yari
 //ItemDisplay[UNI !ID 9p9]: // 	Spirit of Honor Lance
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID 7sr]: // 	Arioc's Needle Hyperion Spear
+//ItemDisplay[UNI !ID 7sr]: // 	Arioc's Needle Hyperion Spear
 //ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
 //ItemDisplay[UNI !ID 7p7]: // 	Steel Pillar War Pike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -709,7 +709,7 @@ ItemDisplay[(2ax OR mpi OR wax OR 92a) NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BE
 ItemDisplay[gsc NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST*
 ItemDisplay[7cr NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*GRIEF*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[CL5 NMAG !ETH ELT SOCK=3]: %NAME% [%SOCKETS%] %RED%*CHAOS*
+ItemDisplay[CL5 NMAG !ETH ELT SOCK=3 SK274>2]: %NAME% [%SOCKETS%] %RED%*CHAOS*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(xtp OR uui OR utp) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*ENIGMA*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
