@@ -766,6 +766,7 @@ ItemDisplay[7ga !CLVL<59]: // 	Champion Axe
 ItemDisplay[7gi !CLVL<59]: // 	Glorious Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wands  ███████ //
+ItemDisplay[(WP12 AND ETH) !NORM]:
 ItemDisplay[(WP12 AND NMAG) !NORM]: %NAME% [%PRICE%]
 ItemDisplay[wnd !CLVL<19]: // 	Wand
 ItemDisplay[ywn !CLVL<19]: // 	Yew Wand
@@ -951,6 +952,7 @@ ItemDisplay[7h7 !CLVL<59]: // 	Great Poleaxe
 ItemDisplay[7wc !CLVL<59]: // 	Giant Thresher
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Staves  ███████ //
+ItemDisplay[(WP11 AND ETH) !NORM]:
 ItemDisplay[(WP11 AND NMAG) !NORM]: %NAME% [%PRICE%]
 ItemDisplay[sst !CLVL<19]: // 	Short Staff
 ItemDisplay[lst !CLVL<19]: // 	Long Staff
@@ -1015,6 +1017,7 @@ ItemDisplay[6hx !CLVL<59]: // 	Colossus Crossbow
 ItemDisplay[6rx !CLVL<59]: // 	Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Scepters  ███████ //
+ItemDisplay[(WP13 AND ETH) !NORM]:
 ItemDisplay[(WP13 AND NMAG) !NORM]: %NAME% [%PRICE%]
 ItemDisplay[scp !CLVL<19]: // 	Scepter
 ItemDisplay[gsc !CLVL<19]: // 	Grand Scepter
@@ -1054,6 +1057,7 @@ ItemDisplay[!RARE 7tw !CLVL<59]: // 	Runic Talons
 ItemDisplay[!RARE 7qr !CLVL<59]: // 	Scissors Suwayyah
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Sorc Orbs  ███████ //
+ItemDisplay[(CL6 AND ETH) !NORM]:
 ItemDisplay[(CL6 AND NMAG) !NORM]: %NAME% [%PRICE%]
 ItemDisplay[ob1 !CLVL<19]: // 	Eagle Orb
 ItemDisplay[ob2 !CLVL<19]: // 	Sacred Globe
@@ -1256,6 +1260,7 @@ ItemDisplay[!RARE !CLVL<59 utc]: // 	Troll Belt
 ItemDisplay[!RARE !CLVL<59 uhc]: // 	Colossus Girdle
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Druid Pelts  ███████ //
+ItemDisplay[(CL1 AND ETH) !NORM]:
 ItemDisplay[(CL1 AND NMAG) !NORM]: %NAME% [%PRICE%]
 ItemDisplay[!RARE dr1]: // 	Wolf Head
 ItemDisplay[!RARE dr2]: // 	Hawk Helm
@@ -1314,6 +1319,7 @@ ItemDisplay[!CLVL<59 pae]: // 	Zakarum Shield
 ItemDisplay[!CLVL<59 paf]: // 	Vortex Shield
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Necro Shields  ███████ //
+ItemDisplay[(CL4 AND ETH) !NORM]:
 ItemDisplay[(CL4 AND NMAG) !NORM]: %NAME% [%PRICE%]
 ItemDisplay[!RARE !CLVL<59 ne1]: // 	Preserved Head
 ItemDisplay[!RARE !CLVL<59 ne2]: // 	Zombie Head
