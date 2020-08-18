@@ -40,7 +40,7 @@ ItemDisplay[(gfv OR gfy OR gfb OR gfg OR gfr OR gfw OR skf) CLVL>19]: //	Flawed
 //─────────────────────────────────────────────────
 ItemDisplay[(gsv OR gsy OR gsb OR gsg OR gsr OR gsw OR sku) CLVL>29]: //	Normal
 //─────────────────────────────────────────────────
-//ItemDisplay[(gzv OR gly OR glb OR glg OR glr OR glw OR skl)]: // Flawless
+//ItemDisplay[(gzv OR gly OR glb OR glg OR glr OR glw OR skl)]: %YELLOW% $$ %NAME% $$ // Flawless
 //─────────────────────────────────────────────────
 //ItemDisplay[(gpv OR gpy OR gpb OR gpg OR gpr OR gpw OR skz)]: // Perfect
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -872,6 +872,7 @@ ItemDisplay[7kr !CLVL<59]: // 	Fanged Knife
 ItemDisplay[7bl !CLVL<59]: // 	Legend Spike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Throwing  ███████ //
+ItemDisplay[WP5 AND ETH]:
 ItemDisplay[tkf !CLVL<19]: // 	Throwing Knife
 ItemDisplay[tax !CLVL<19]: // 	Throwing Axe
 ItemDisplay[bkf !CLVL<19]: // 	Balanced Knife
@@ -888,6 +889,7 @@ ItemDisplay[7bk]: %YELLOW%$$ %NAME% $$ // 	Winged Knife
 ItemDisplay[7b8]: %YELLOW%$$ %NAME% $$ // 	Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Javelins  ███████ //
+ItemDisplay[WP6 AND ETH]:
 ItemDisplay[jav !CLVL<19]: // 	Javelin
 ItemDisplay[pil !CLVL<19]: // 	Pilum
 ItemDisplay[ssp !CLVL<19]: // 	Short Spear
