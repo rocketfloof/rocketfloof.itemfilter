@@ -702,6 +702,7 @@ ItemDisplay[(amb OR amc) NMAG !ETH SOCK=4]: %NAME% [%SOCKETS%] %RED%*FAITH(ZON)*
 ItemDisplay[(6cb OR 6hb) NMAG ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*FAITH(MERC)*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*INSIGHT&INFINITY&PRIDE*
+ItemDisplay[ETH 7vo]: ETH %NAME% %RED%*INFINITY*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*OBEDIENCE&DOOM*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
