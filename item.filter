@@ -182,7 +182,7 @@ ItemDisplay[SOCK>0 leg]: Wirt's Leg [%SOCKETS%]
 //ItemDisplay[SET !ID 6cs]: //Naj's Puzzler
 //ItemDisplay[SET !ID ult]: //Naj's Light Plate
 //ItemDisplay[SET !ID ci0]: //Naj's Circlet
-//ItemDisplay[SET !ID xhm]: //Guillaume's Face
+ItemDisplay[SET !ID xhm]: %NAME% %RED%*NEED FOR ASSASSIN* //Guillaume's Face
 //ItemDisplay[SET !ID xml]: //Whitstan's Guard
 //ItemDisplay[SET !ID xvg]: //Magnus' Skin
 //ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
@@ -359,7 +359,7 @@ ItemDisplay[SOCK>0 leg]: Wirt's Leg [%SOCKETS%]
 //ItemDisplay[UNI !ID 9bl]: // 	Stormspike Stiletto
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 7dg]: // 	Wizardspike Bone Knife
-//ItemDisplay[UNI !ID 7kr]: // 	Fleshripper Fanged Knife
+ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged Knife
 //ItemDisplay[UNI !ID 7bl]: // 	Ghostflame Legend Spike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Throwing  ███████ //
@@ -480,7 +480,7 @@ ItemDisplay[SOCK>0 leg]: Wirt's Leg [%SOCKETS%]
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Assassin Weapons  ███████ //
 //ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
-//ItemDisplay[UNI !ID 7wb]: // 	Jade Talon Wrist Sword
+ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist Sword
 //ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
 //ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
