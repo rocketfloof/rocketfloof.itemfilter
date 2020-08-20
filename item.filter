@@ -73,39 +73,39 @@ ItemDisplay[opl CLVL>15]: // 	Fulminating Potion
 //ItemDisplay[cm3]: // 	Grand Charm
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Runes  ███████ //
-//ItemDisplay[r01]: // 	El Rune
-//ItemDisplay[r02]: // 	Eld Rune
-//ItemDisplay[r03]: // 	Tir Rune
-//ItemDisplay[r04]: // 	Nef Rune
-//ItemDisplay[r05]: // 	Eth Rune
-//ItemDisplay[r06]: // 	Ith Rune
-//ItemDisplay[r07]: // 	Tal Rune
-//ItemDisplay[r08]: // 	Ral Rune
-//ItemDisplay[r09]: // 	Ort Rune
-//ItemDisplay[r10]: // 	Thul Rune
-//ItemDisplay[r11]: // 	Amn Rune
-//ItemDisplay[r12]: // 	Sol Rune
-//ItemDisplay[r13]: // 	Shael Rune
-//ItemDisplay[r14]: // 	Dol Rune
-//ItemDisplay[r15]: // 	Hel Rune
-//ItemDisplay[r16]: // 	Io Rune
-//ItemDisplay[r17]: // 	Lum Rune
-//ItemDisplay[r18]: // 	Ko Rune
-//ItemDisplay[r19]: // 	Fal Rune
-//ItemDisplay[r20]: // 	Lem Rune
-//ItemDisplay[r21]: // 	Pul Rune
-//ItemDisplay[r22]: // 	Um Rune
-//ItemDisplay[r23]: // 	Mal Rune
-//ItemDisplay[r24]: // 	Ist Rune
-//ItemDisplay[r25]: // 	Gul Rune
-//ItemDisplay[r26]: // 	Vex Rune
-//ItemDisplay[r27]: // 	Ohm Rune
-//ItemDisplay[r28]: // 	Lo Rune
-//ItemDisplay[r29]: // 	Sur Rune
-//ItemDisplay[r30]: // 	Ber Rune
-//ItemDisplay[r31]: // 	Jah Rune
-//ItemDisplay[r32]: // 	Cham Rune
-//ItemDisplay[r33]: // 	Zod Rune
+ItemDisplay[r01]: %NAME% %GRAY%[1] // 	El Rune
+ItemDisplay[r02]: %NAME% %GRAY%[2] // 	Eld Rune
+ItemDisplay[r03]: %NAME% %GRAY%[3] // 	Tir Rune
+ItemDisplay[r04]: %NAME% %GRAY%[4] // 	Nef Rune
+ItemDisplay[r05]: %NAME% %GRAY%[5] // 	Eth Rune
+ItemDisplay[r06]: %NAME% %GRAY%[6] // 	Ith Rune
+ItemDisplay[r07]: %NAME% %GRAY%[7] // 	Tal Rune
+ItemDisplay[r08]: %NAME% %GRAY%[8] // 	Ral Rune
+ItemDisplay[r09]: %NAME% %GRAY%[9] // 	Ort Rune
+ItemDisplay[r10]: %NAME% %GRAY%[10] // 	Thul Rune
+ItemDisplay[r11]: %NAME% %GRAY%[11] // 	Amn Rune
+ItemDisplay[r12]: %NAME% %GRAY%[12] // 	Sol Rune
+ItemDisplay[r13]: %NAME% %GRAY%[13] // 	Shael Rune
+ItemDisplay[r14]: %NAME% %GRAY%[14] // 	Dol Rune
+ItemDisplay[r15]: %NAME% %GRAY%[15] // 	Hel Rune
+ItemDisplay[r16]: %NAME% %GRAY%[16] // 	Io Rune
+ItemDisplay[r17]: %NAME% %GRAY%[17] // 	Lum Rune
+ItemDisplay[r18]: %NAME% %GRAY%[18] // 	Ko Rune
+ItemDisplay[r19]: %NAME% %GRAY%[19] // 	Fal Rune
+ItemDisplay[r20]: %NAME% %GRAY%[20] // 	Lem Rune
+ItemDisplay[r21]: %NAME% %GRAY%[21] // 	Pul Rune
+ItemDisplay[r22]: %NAME% %GRAY%[22] // 	Um Rune
+ItemDisplay[r23]: %NAME% %GRAY%[23] // 	Mal Rune
+ItemDisplay[r24]: %NAME% %GRAY%[24] // 	Ist Rune
+ItemDisplay[r25]: %NAME% %GRAY%[25] // 	Gul Rune
+ItemDisplay[r26]: %NAME% %GRAY%[26] // 	Vex Rune
+ItemDisplay[r27]: %NAME% %GRAY%[27] // 	Ohm Rune
+ItemDisplay[r28]: %NAME% %GRAY%[28] // 	Lo Rune
+ItemDisplay[r29]: %NAME% %GRAY%[29] // 	Sur Rune
+ItemDisplay[r30]: %NAME% %GRAY%[30] // 	Ber Rune
+ItemDisplay[r31]: %NAME% %GRAY%[31] // 	Jah Rune
+ItemDisplay[r32]: %NAME% %GRAY%[32] // 	Cham Rune
+ItemDisplay[r33]: %NAME% %GRAY%[33] // 	Zod Rune
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wirt's Leg  ███████ //
 ItemDisplay[leg]: Wirt's Leg
