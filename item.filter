@@ -332,7 +332,7 @@ ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
 //ItemDisplay[UNI !ID 9gm]: // 	The Gavel of Pain Martel de Fer
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
-//ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
+ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
 //ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 //ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
 //ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
