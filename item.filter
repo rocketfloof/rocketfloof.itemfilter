@@ -117,120 +117,150 @@ ItemDisplay[SOCK>0 leg]: Wirt's Leg [%SOCKETS%]
 //║ //////////////////////////////////  ▬▬▬▬▬ SET ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
+ItemDisplay[SET !ID 9mt]: //Aldur's Rhythm
+//ItemDisplay[SET !ID uul]: //Aldur's Deception
+//ItemDisplay[SET !ID dr8]: //Aldur's Stony Gaze
+ItemDisplay[SET !ID xtb]: //Aldur's Advance
+
 //ItemDisplay[SET !ID rin]: //Angelic Halo and Cathan's Seal
 //ItemDisplay[SET !ID rng]: //Angelic Mantle
-//ItemDisplay[SET !ID sbr]: //Angelic Sickle
+ItemDisplay[SET !ID sbr]: //Angelic Sickle
+
 //ItemDisplay[SET !ID wst]: //Arcanna's Deathwand
 //ItemDisplay[SET !ID ltp]: //Arcanna's Flesh
-//ItemDisplay[SET !ID skp]: //Arcanna's Head
-//ItemDisplay[SET !ID vbl]: //Arctic Binding
+ItemDisplay[SET !ID skp]: //Arcanna's Head
+
+ItemDisplay[SET !ID vbl]: //Arctic Binding
 //ItemDisplay[SET !ID qui]: //Arctic Furs
 //ItemDisplay[SET !ID swb]: //Arctic Horn
 //ItemDisplay[SET !ID tgl]: //Arctic Mitts and Iratha's Cuff
-//ItemDisplay[SET !ID 2ax]: //Berserker's Hatchet
+
+ItemDisplay[SET !ID 2ax]: //Berserker's Hatchet
 //ItemDisplay[SET !ID spl]: //Berserker's Hauberk
 //ItemDisplay[SET !ID hlm]: //Berserker's Headgear
+
+//ItemDisplay[SET !ID 7gd]: //Bul-Kathos' Sacred Charge
+//ItemDisplay[SET !ID 7wd]: //Bul-Kathos' Tribal Guardian
+
 //ItemDisplay[SET !ID chn]: //Cathan's Mesh
 //ItemDisplay[SET !ID bst]: //Cathan's Rule
 //ItemDisplay[SET !ID msk]: //Cathan's Visage
-//ItemDisplay[SET !ID gsc]: //Civerb's Cudgel
+
+ItemDisplay[SET !ID gsc]: //Civerb's Cudgel
 //ItemDisplay[SET !ID lrg]: //Civerb's Ward
+
 //ItemDisplay[SET !ID sml]: //Cleglaw's Claw
 //ItemDisplay[SET !ID mgl]: //Cleglaw's Pincers
 //ItemDisplay[SET !ID lsd]: //Cleglaw's Tooth
+
+//ItemDisplay[SET !ID vbt]: //Cow King's Hooves
+ItemDisplay[SET !ID xap]: //Cow King's Horns
+ItemDisplay[SET !ID stu]: //Cow King's Hide
+
 //ItemDisplay[SET !ID lbl]: //Death's Guard
 //ItemDisplay[SET !ID lgl]: //Death's Hand
 //ItemDisplay[SET !ID wsd]: //Death's Touch
-//ItemDisplay[SET !ID buc]: //Hsarus' Iron Fist
-//ItemDisplay[SET !ID mbt]: //Hsarus' Iron Heel
-//ItemDisplay[SET !ID mbl]: //Hsarus' Iron Stay and Hwanin's Blessing
-//ItemDisplay[SET !ID cap]: //Infernal Cranium and Sander's Paragon
-//ItemDisplay[SET !ID tbl]: //Infernal Sign and Iratha's Cord
-//ItemDisplay[SET !ID gwn]: //Infernal Torch
-//ItemDisplay[SET !ID crn]: //Iratha's Coil and Milabrega's Diadem
-//ItemDisplay[SET !ID brs]: //Isenhart's Case
-//ItemDisplay[SET !ID fhl]: //Isenhart's Horns
-//ItemDisplay[SET !ID bsd]: //Isenhart's Lightbrand
-//ItemDisplay[SET !ID gts]: //Isenhart's Parry
-//ItemDisplay[SET !ID kit]: //Milabrega's Orb
-//ItemDisplay[SET !ID aar]: //Milabrega's Robe
-//ItemDisplay[SET !ID wsp]: //Milabrega's Rod
-//ItemDisplay[SET !ID hgl]: //Sigon's Gage
-//ItemDisplay[SET !ID tow]: //Sigon's Guard
-//ItemDisplay[SET !ID hbt]: //Sigon's Sabot
-//ItemDisplay[SET !ID gth]: //Sigon's Shelter
-//ItemDisplay[SET !ID ghm]: //Sigon's Visor
-//ItemDisplay[SET !ID hbl]: //Sigon's Wrap
-//ItemDisplay[SET !ID mpi]: //Ignore Tancred's Crowbill
-//ItemDisplay[SET !ID lbt]: //Tancred's Hobnails
-//ItemDisplay[SET !ID bhm]: //Tancred's Skull
-//ItemDisplay[SET !ID ful]: //Tancred's Spine
-//ItemDisplay[SET !ID lea]: //Vidala's Ambush
-//ItemDisplay[SET !ID lbb]: //Vidala's Barb
-//ItemDisplay[SET !ID tbt]: //Vidala's Fetlock
-//ItemDisplay[SET !ID vbt]: //Cow King's Hooves
-//ItemDisplay[SET !ID xap]: //Cow King's Horns
-//ItemDisplay[SET !ID stu]: //Cow King's Hide
-//ItemDisplay[SET !ID uui]: //Dark Adherent
-//ItemDisplay[SET !ID ulg]: //Laying of Hands
-//ItemDisplay[SET !ID umc]: //Credendum
-//ItemDisplay[SET !ID xlb]: //Rite of Passage
-//ItemDisplay[SET !ID uhm]: //Ondal's Mighty
-//ItemDisplay[SET !ID 7ma]: //Dangoon's Teaching
-//ItemDisplay[SET !ID xrs]: //Haemosu's Adamant
-//ItemDisplay[SET !ID uts]: //Taebaek's Glory
-//ItemDisplay[SET !ID 6cs]: //Naj's Puzzler
-//ItemDisplay[SET !ID ult]: //Naj's Light Plate
-//ItemDisplay[SET !ID ci0]: //Naj's Circlet
-ItemDisplay[SET !ID xhm]: %NAME% %RED%*NEED FOR ASSASSIN* //Guillaume's Face
-//ItemDisplay[SET !ID xml]: //Whitstan's Guard
-//ItemDisplay[SET !ID xvg]: //Magnus' Skin
-//ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
-//ItemDisplay[SET !ID bwn]: //Sander's Superstition
-//ItemDisplay[SET !ID vgl]: //Sander's Taboo
-//ItemDisplay[SET !ID vbt]: //Sander's Riprap
-//ItemDisplay[SET !ID 7ls]: //Sazabi's Cobalt Redeemer
-//ItemDisplay[SET !ID upl]: //Sazabi's Ghost Liberator
-//ItemDisplay[SET !ID xhl]: //Sazabi's Mental Sheath
-//ItemDisplay[SET !ID 9mt]: //Aldur's Rhythm
-//ItemDisplay[SET !ID uul]: //Aldur's Deception
-//ItemDisplay[SET !ID dr8]: //Aldur's Stony Gaze
-//ItemDisplay[SET !ID xtb]: //Aldur's Advance
-//ItemDisplay[SET !ID 7gd]: //Bul-Kathos' Sacred Charge
-//ItemDisplay[SET !ID 7wd]: //Bul-Kathos' Tribal Guardian
+
 //ItemDisplay[SET !ID 7ws]: //Griswold's Redemption
 //ItemDisplay[SET !ID xar]: //Griswold's Heart
 //ItemDisplay[SET !ID paf]: //Griswold's Honor
 //ItemDisplay[SET !ID urn]: //Griswold's Valor
-//ItemDisplay[SET !ID xrn]: //Hwanin's Splendor Grand Crown
-//ItemDisplay[SET !ID 9vo]: //Hwanin's Justice Bill
-//ItemDisplay[SET !ID xcl]: //Hwanin's Refuge Tigulated Mail
-//ItemDisplay[SET !ID mbl]: //Hwanin's Blessing belt
-//ItemDisplay[SET !ID 7m7]: //Immortal King's Stone Crusher
+
+//ItemDisplay[SET !ID buc]: //Hsarus' Iron Fist
+ItemDisplay[SET !ID mbt]: //Hsarus' Iron Heel
+//ItemDisplay[SET !ID mbl]: //Hsarus' Iron Stay and Hwanin's Blessing
+
+ItemDisplay[SET !ID xrn]: //Hwanin's Splendor Grand Crown
+ItemDisplay[SET !ID 9vo]: //Hwanin's Justice Bill
+ItemDisplay[SET !ID xcl]: //Hwanin's Refuge Tigulated Mail
+ItemDisplay[SET !ID mbl]: //Hwanin's Blessing belt
+
+ItemDisplay[SET !ID 7m7]: //Immortal King's Stone Crusher
 //ItemDisplay[SET !ID uar]: //Immortal King's Soul Cage
-//ItemDisplay[SET !ID ba5]: //Immortal King's Will
-//ItemDisplay[SET !ID xhg]: //Immortal King's Forge
+ItemDisplay[SET !ID ba5]: //Immortal King's Will
+ItemDisplay[SET !ID xhg]: //Immortal King's Forge
 //ItemDisplay[SET !ID zhb]: //Immortal King's Detail
-//ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
+ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
+
+//ItemDisplay[SET !ID cap]: //Infernal Cranium and Sander's Paragon
+//ItemDisplay[SET !ID tbl]: //Infernal Sign and Iratha's Cord
+//ItemDisplay[SET !ID gwn]: //Infernal Torch
+
+ItemDisplay[SET !ID crn]: //Iratha's Coil and Milabrega's Diadem
+
+//ItemDisplay[SET !ID brs]: //Isenhart's Case
+//ItemDisplay[SET !ID fhl]: //Isenhart's Horns
+//ItemDisplay[SET !ID bsd]: //Isenhart's Lightbrand
+ItemDisplay[SET !ID gts]: //Isenhart's Parry
+
 //ItemDisplay[SET !ID amc]: //M'avina's Caster
 //ItemDisplay[SET !ID uld]: //M'avina's Embrace
 //ItemDisplay[SET !ID ci3]: //M'avina's True Sight
 //ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
 //ItemDisplay[SET !ID zvb]: //M'avina's Tenet
+
+//ItemDisplay[SET !ID kit]: //Milabrega's Orb
+ItemDisplay[SET !ID aar]: //Milabrega's Robe
+ItemDisplay[SET !ID wsp]: //Milabrega's Rod
+
+//ItemDisplay[SET !ID 6cs]: //Naj's Puzzler
+ItemDisplay[SET !ID ult]: //Naj's Light Plate
+ItemDisplay[SET !ID ci0]: //Naj's Circlet
+
 //ItemDisplay[SET !ID 7qr]: //Natalya's Mark
 //ItemDisplay[SET !ID ucl]: //Natalya's Shadow
-//ItemDisplay[SET !ID xh9]: //Natalya's Totem
+ItemDisplay[SET !ID xh9]: //Natalya's Totem
 //ItemDisplay[SET !ID xmb]: //Natalya's Soul
+
+ItemDisplay[SET !ID bwn]: //Sander's Superstition
+//ItemDisplay[SET !ID vgl]: //Sander's Taboo
+ItemDisplay[SET !ID vbt]: //Sander's Riprap
+
+//ItemDisplay[SET !ID 7ls]: //Sazabi's Cobalt Redeemer
+ItemDisplay[SET !ID upl]: //Sazabi's Ghost Liberator
+//ItemDisplay[SET !ID xhl]: //Sazabi's Mental Sheath
+
+ItemDisplay[SET !ID hgl]: //Sigon's Gage
+ItemDisplay[SET !ID tow]: //Sigon's Guard
+ItemDisplay[SET !ID hbt]: //Sigon's Sabot
+ItemDisplay[SET !ID gth]: //Sigon's Shelter
+//ItemDisplay[SET !ID ghm]: //Sigon's Visor
+ItemDisplay[SET !ID hbl]: //Sigon's Wrap
+
 //ItemDisplay[SET !ID oba]: //Tal Rasha's Lidless Eye
 //ItemDisplay[SET !ID uth]: //Tal Rasha's Guardianship
 //ItemDisplay[SET !ID xsk]: //Tal Rasha's Horadric Crest
 //ItemDisplay[SET !ID zmb]: //Tal Rasha's Fine-Spun Cloth
 //ItemDisplay[SET !ID amu]: // Set Amulet
+
+//ItemDisplay[SET !ID mpi]: //Tancred's Crowbill
+//ItemDisplay[SET !ID lbt]: //Tancred's Hobnails
+//ItemDisplay[SET !ID bhm]: //Tancred's Skull
+//ItemDisplay[SET !ID ful]: //Tancred's Spine
+
 //ItemDisplay[SET !ID xul]: //Trang-Oul's Scales
-//ItemDisplay[SET !ID ne9]: //Trang-Oul's Wing
-//ItemDisplay[SET !ID uh9]: //Trang-Oul's Guise
-//ItemDisplay[SET !ID xmg]: //Trang-Oul's Claws
+ItemDisplay[SET !ID ne9]: //Trang-Oul's Wing
+ItemDisplay[SET !ID uh9]: //Trang-Oul's Guise
+ItemDisplay[SET !ID xmg]: //Trang-Oul's Claws
 //ItemDisplay[SET !ID utc]: //Trang-Oul's Girth
+
+//ItemDisplay[SET !ID lea]: //Vidala's Ambush
+ItemDisplay[SET !ID lbb]: //Vidala's Barb
+//ItemDisplay[SET !ID tbt]: //Vidala's Fetlock
+
+ItemDisplay[SET !ID uui]: //Dark Adherent
+//ItemDisplay[SET !ID ulg]: //Laying of Hands
+//ItemDisplay[SET !ID umc]: //Credendum
+ItemDisplay[SET !ID xlb]: //Rite of Passage
+//ItemDisplay[SET !ID uhm]: //Ondal's Mighty
+ItemDisplay[SET !ID 7ma]: //Dangoon's Teaching
+ItemDisplay[SET !ID xrs]: //Haemosu's Adamant
+//ItemDisplay[SET !ID uts]: //Taebaek's Glory
+
+ItemDisplay[SET !ID xhm]: %NAME% %RED%*NEED FOR ASSASSIN* //Guillaume's Face
+ItemDisplay[SET !ID xml]: //Whitstan's Guard
+ItemDisplay[SET !ID xvg]: //Magnus' Skin
+ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ ////////////////////////////////  ▬▬▬▬▬ UNIQUE ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
