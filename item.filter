@@ -137,7 +137,7 @@ ItemDisplay[SET !ID vbl]: //Arctic Binding
 
 ItemDisplay[SET !ID 2ax]: //Berserker's Hatchet
 //ItemDisplay[SET !ID spl]: //Berserker's Hauberk
-//ItemDisplay[SET !ID hlm]: //Berserker's Headgear
+ItemDisplay[SET !ID hlm]: //Berserker's Headgear
 
 //ItemDisplay[SET !ID 7gd]: //Bul-Kathos' Sacred Charge
 //ItemDisplay[SET !ID 7wd]: //Bul-Kathos' Tribal Guardian
@@ -188,7 +188,7 @@ ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
 
 ItemDisplay[SET !ID crn]: //Iratha's Coil and Milabrega's Diadem
 
-//ItemDisplay[SET !ID brs]: //Isenhart's Case
+ItemDisplay[SET !ID brs]: //Isenhart's Case
 //ItemDisplay[SET !ID fhl]: //Isenhart's Horns
 //ItemDisplay[SET !ID bsd]: //Isenhart's Lightbrand
 ItemDisplay[SET !ID gts]: //Isenhart's Parry
@@ -197,9 +197,9 @@ ItemDisplay[SET !ID gts]: //Isenhart's Parry
 //ItemDisplay[SET !ID uld]: //M'avina's Embrace
 //ItemDisplay[SET !ID ci3]: //M'avina's True Sight
 //ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
-//ItemDisplay[SET !ID zvb]: //M'avina's Tenet
+ItemDisplay[SET !ID zvb]: //M'avina's Tenet
 
-//ItemDisplay[SET !ID kit]: //Milabrega's Orb
+ItemDisplay[SET !ID kit]: //Milabrega's Orb
 ItemDisplay[SET !ID aar]: //Milabrega's Robe
 ItemDisplay[SET !ID wsp]: //Milabrega's Rod
 
@@ -380,7 +380,7 @@ ItemDisplay[UNI !ID 7sb]: // 	Bloodmoon Elegant Blade
 // ███████  Unique Daggers  ███████ //
 //ItemDisplay[UNI !ID dgr]: // 	Gull Dagger
 ItemDisplay[UNI !ID dir]: // 	The Diggler Dirk
-//ItemDisplay[UNI !ID kri]: // 	The Jade Tan Do Kris
+ItemDisplay[UNI !ID kri]: // 	The Jade Tan Do Kris
 ItemDisplay[UNI !ID bld]: // 	Spectral Shard Blade
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9dg]: // 	Spineripper Poignard
@@ -450,7 +450,7 @@ ItemDisplay[UNI !ID bst]: // 	The Salamander Battle Staff
 //ItemDisplay[UNI !ID wst]: // 	The Iron Jang Bong War Staff
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 8ss]: // 	Razorswitch Jo Staff
-//ItemDisplay[UNI !ID 8ls]: // 	Ribcracker Quarterstaff
+ItemDisplay[UNI !ID 8ls]: // 	Ribcracker Quarterstaff
 //ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
 //ItemDisplay[UNI !ID 8bs]: // 	Warpspear Gothic Staff
 //ItemDisplay[UNI !ID 8ws]: // 	Skull Collector Rune Staff
@@ -558,7 +558,7 @@ ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
 //ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
 //ItemDisplay[UNI !ID hla]: // 	The Centurion Hard Leather Armor
 //ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
-//ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
+ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
 ItemDisplay[UNI !ID scl]: // 	Hawkmail Scale Mail
 //ItemDisplay[UNI !ID chn]: // 	Sparking Mail Chain Mail
 //ItemDisplay[UNI !ID brs]: // 	Venom Ward Breast Plate
@@ -659,7 +659,7 @@ ItemDisplay[UNI !ID xvb]: // 	Waterwalk Sharkskin Boots
 ItemDisplay[UNI !ID vbl]: // 	Snakecord Light Belt
 //ItemDisplay[UNI !ID mbl]: // 	Nightsmoke Belt
 ItemDisplay[UNI !ID tbl]: // 	Goldwrap Heavy Belt
-//ItemDisplay[UNI !ID hbl]: // 	Bladebuckle Plated Belt
+ItemDisplay[UNI !ID hbl]: // 	Bladebuckle Plated Belt
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID zlb]: // 	String of Ears Demonhide Sash
 //ItemDisplay[UNI !ID zvb]: // 	Razortail Sharkskin Belt
