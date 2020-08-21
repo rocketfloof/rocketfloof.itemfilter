@@ -271,26 +271,26 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 //ItemDisplay[UNI !ID axe]: // 	Deathspade Axe
 //ItemDisplay[UNI !ID 2ax]: // 	Bladebone Double Axe
 //ItemDisplay[UNI !ID mpi]: // 	Skull Splitter Military Pick
-//ItemDisplay[UNI !ID wax]: // 	Rakescar War Axe
+ItemDisplay[UNI !ID wax]: // 	Rakescar War Axe
 //ItemDisplay[UNI !ID lax]: // 	Axe of Fechmar Large Axe
-//ItemDisplay[UNI !ID bax]: // 	Goreshovel Broad Axe
-//ItemDisplay[UNI !ID btx]: // 	The Chieftain Battle Axe
+ItemDisplay[UNI !ID bax]: // 	Goreshovel Broad Axe
+ItemDisplay[UNI !ID btx]: // 	The Chieftain Battle Axe
 //ItemDisplay[UNI !ID gax]: // 	Brainhew Great Axe
 //ItemDisplay[UNI !ID gix]: // 	Humongous Giant Axe
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9ha]: // 	Coldkill Hatchet
+ItemDisplay[UNI !ID 9ha]: // 	Coldkill Hatchet
 //ItemDisplay[UNI !ID 9ax]: // 	Butcher's Pupil Cleaver
-//ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
+ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
 //ItemDisplay[UNI !ID 9mp]: // 	Pompeii's Wrath Crowbill
 //ItemDisplay[UNI !ID 9wa]: // 	Guardian Naga Naga
 //ItemDisplay[UNI !ID 9la]: // 	Warlord's Trust Military Axe
 //ItemDisplay[UNI !ID 9ba]: // 	Spellsteel Bearded Axe
-//ItemDisplay[UNI !ID 9bt]: // 	Stormrider Tabar
+ItemDisplay[UNI !ID 9bt]: // 	Stormrider Tabar
 //ItemDisplay[UNI !ID 9ga]: // 	Boneslayer Blade Gothic Axe
 //ItemDisplay[UNI !ID 9gi]: // 	The Minotaur Ancient Axe
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
-//ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
+ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
 //ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
 //ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
 //ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
@@ -300,9 +300,9 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Wands  ███████ //
 //ItemDisplay[UNI !ID wnd]: // 	Torch of Iro Wand
-//ItemDisplay[UNI !ID ywn]: // 	Maelstrom Yew Wand
+ItemDisplay[UNI !ID ywn]: // 	Maelstrom Yew Wand
 //ItemDisplay[UNI !ID bwn]: // 	Gravenspine Bone Wand
-//ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
+ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9wn]: // 	Suicide Branch Burnt Wand
 //ItemDisplay[UNI !ID 9yw]: // 	Carin Shard Petrified Wand
@@ -315,23 +315,23 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 // ███████  Unique Maces  ███████ //
 //ItemDisplay[UNI !ID clb]: // 	Felloak Club
 //ItemDisplay[UNI !ID spc]: // 	Stoutnail Spiked Club
-//ItemDisplay[UNI !ID mac]: // 	Crushflange Mace
-//ItemDisplay[UNI !ID mst]: // 	Bloodrise Morning Star
+ItemDisplay[UNI !ID mac]: // 	Crushflange Mace
+ItemDisplay[UNI !ID mst]: // 	Bloodrise Morning Star
 //ItemDisplay[UNI !ID fla]: // 	The General's Tan Do Li Ga Flail
 //ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
 //ItemDisplay[UNI !ID mau]: // 	Bonesnap Maul
 //ItemDisplay[UNI !ID gma]: // 	Steeldriver Great Maul
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
-//ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
+ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
+ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
 //ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
 //ItemDisplay[UNI !ID 9mt]: // 	Moonfall Jagged Star
 //ItemDisplay[UNI !ID 9fl]: // 	Baezil's Vortex Knout
-//ItemDisplay[UNI !ID 9wh]: // 	Earthshaker Battle Hammer
-//ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
+ItemDisplay[UNI !ID 9wh]: // 	Earthshaker Battle Hammer
+ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
 //ItemDisplay[UNI !ID 9gm]: // 	The Gavel of Pain Martel de Fer
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
+ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
 //ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
 //ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 //ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
@@ -345,7 +345,7 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 //ItemDisplay[UNI !ID sbr]: // 	Skewer of Krintiz Sabre
 //ItemDisplay[UNI !ID flc]: // 	Gleamscyche Falchion
 //ItemDisplay[UNI !ID bsd]: // 	Gridwold's Edge Broad Sword
-//ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
+ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 //ItemDisplay[UNI !ID wsd]: // 	Culwen's Point War Sword
 //ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
 //ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
@@ -355,22 +355,22 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 //ItemDisplay[UNI !ID gsd]: // 	The Patriarch Great Sword
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9ss]: // 	Bloodletter Gladius
-//ItemDisplay[UNI !ID 9sm]: // 	Coldsteel Eye Cutlass
-//ItemDisplay[UNI !ID 9sb]: // 	Hexfire Shamshir
-//ItemDisplay[UNI !ID 9fc]: // 	Blade of Ali Baba Tulwar
+ItemDisplay[UNI !ID 9sm]: // 	Coldsteel Eye Cutlass
+ItemDisplay[UNI !ID 9sb]: // 	Hexfire Shamshir
+ItemDisplay[UNI !ID 9fc]: // 	Blade of Ali Baba Tulwar
 //ItemDisplay[UNI !ID 9cr]: // 	Ginther's Rift Dimensional Blade
 //ItemDisplay[UNI !ID 9bs]: // 	Headstriker Battle Sword
 //ItemDisplay[UNI !ID 9ls]: // 	Plague Bearer Rune Sword
 //ItemDisplay[UNI !ID 9wd]: // 	The Atlantean Ancient Sword
 //ItemDisplay[UNI !ID 92h]: // 	Crainte Vomir Espadon
-//ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
+ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
 //ItemDisplay[UNI !ID 9gs]: // 	The Vile Husk Tusk Sword
 //ItemDisplay[UNI !ID 9b9]: // 	Cloudcrack Gothic Sword
 //ItemDisplay[UNI !ID 9fb]: // 	Todesfaelle Flamme Zweihander
 //ItemDisplay[UNI !ID 9gd]: // 	Swordguard Executioner Sword
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 7sm]: // 	Djinn Slayer Ataghan
-//ItemDisplay[UNI !ID 7sb]: // 	Bloodmoon Elegant Blade
+ItemDisplay[UNI !ID 7sb]: // 	Bloodmoon Elegant Blade
 //ItemDisplay[UNI !ID 7cr]: // 	Lightsabre OR Azurewrath Phase Blade
 //ItemDisplay[UNI !ID 7ls]: // 	Frostwind Cryptic Sword
 //ItemDisplay[UNI !ID 7gs]: // 	FlameBellow Balrog Blade
@@ -379,12 +379,12 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Daggers  ███████ //
 //ItemDisplay[UNI !ID dgr]: // 	Gull Dagger
-//ItemDisplay[UNI !ID dir]: // 	The Diggler Dirk
+ItemDisplay[UNI !ID dir]: // 	The Diggler Dirk
 //ItemDisplay[UNI !ID kri]: // 	The Jade Tan Do Kris
-//ItemDisplay[UNI !ID bld]: // 	Spectral Shard Blade
+ItemDisplay[UNI !ID bld]: // 	Spectral Shard Blade
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9dg]: // 	Spineripper Poignard
-//ItemDisplay[UNI !ID 9di]: // 	Heart Carver Rondel
+ItemDisplay[UNI !ID 9di]: // 	Heart Carver Rondel
 //ItemDisplay[UNI !ID 9kr]: // 	Blackbog's Sharp Cinquedeas
 //ItemDisplay[UNI !ID 9bl]: // 	Stormspike Stiletto
 //─────────────────────────────────────────────────
@@ -393,10 +393,10 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 //ItemDisplay[UNI !ID 7bl]: // 	Ghostflame Legend Spike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Throwing  ███████ //
-//ItemDisplay[UNI !ID 9tk]: // 	Deathbit Battle Dart
+ItemDisplay[UNI !ID 9tk]: // 	Deathbit Battle Dart
 //ItemDisplay[UNI !ID 9ta]: // 	The Scalper Francisca
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
+ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
 //ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
 //ItemDisplay[UNI !ID 7b8]: // 	Lacerator Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -409,14 +409,14 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 //ItemDisplay[UNI !ID spr]: // 	The Dragon Chang Spear
 //ItemDisplay[UNI !ID tri]: // 	Razortine Trident
 //ItemDisplay[UNI !ID brn]: // 	Bloodthief Brandistock
-//ItemDisplay[UNI !ID spt]: // 	Lance of Yaggai Spetum
+ItemDisplay[UNI !ID spt]: // 	Lance of Yaggai Spetum
 //ItemDisplay[UNI !ID pik]: // 	The Tannr Gorerod Pike
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9sr]: // 	The Impaler War Spear
 //ItemDisplay[UNI !ID 9tr]: // 	Kelpie Snare Fuscina
 //ItemDisplay[UNI !ID 9br]: // 	Soulfeast Tine War Fork
 //ItemDisplay[UNI !ID 9st]: // 	Hone Sundan Yari
-//ItemDisplay[UNI !ID 9p9]: // 	Spirit of Honor Lance
+ItemDisplay[UNI !ID 9p9]: // 	Spirit of Honor Lance
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 7sr]: // 	Arioc's Needle Hyperion Spear
 //ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
@@ -427,7 +427,7 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 //ItemDisplay[UNI !ID vou]: // 	Steelgoad Voulge
 //ItemDisplay[UNI !ID scy]: // 	Soul Harvest Scythe
 //ItemDisplay[UNI !ID pax]: // 	The Battlebranch Poleaxe
-//ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
+ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
 //ItemDisplay[UNI !ID wsc]: // 	The Grim Reaper War Scythe
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9b7]: // The Meat Scraper Lochaber Axe
@@ -444,12 +444,12 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Staves  ███████ //
 //ItemDisplay[UNI !ID sst]: // 	Bane Ash Short Staff
-//ItemDisplay[UNI !ID lst]: // 	Serpent Lord Long Staff
+ItemDisplay[UNI !ID lst]: // 	Serpent Lord Long Staff
 //ItemDisplay[UNI !ID cst]: // 	Spire of Lazarus Gnarled Staff
-//ItemDisplay[UNI !ID bst]: // 	The Salamander Battle Staff
+ItemDisplay[UNI !ID bst]: // 	The Salamander Battle Staff
 //ItemDisplay[UNI !ID wst]: // 	The Iron Jang Bong War Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 8ss]: // 	Razorswitch Jo Staff
+ItemDisplay[UNI !ID 8ss]: // 	Razorswitch Jo Staff
 //ItemDisplay[UNI !ID 8ls]: // 	Ribcracker Quarterstaff
 //ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
 //ItemDisplay[UNI !ID 8bs]: // 	Warpspear Gothic Staff
@@ -463,14 +463,14 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 //ItemDisplay[UNI !ID hbw]: // 	Witherstring Hunter's Bow
 //ItemDisplay[UNI !ID lbw]: // 	Raven Claw Long Bow
 //ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
-//ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
+ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
 //ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
 //ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
 //ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
 //ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
-//ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
+ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
 //ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
 //ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
 //ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
@@ -483,7 +483,7 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Crossbows  ███████ //
 //ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
-//ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
+ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
 //ItemDisplay[UNI !ID hxb]: // 	Hellcast Heavy Crossbow
 //ItemDisplay[UNI !ID rxb]: // 	Doomslinger Repeating Crossbow
 //─────────────────────────────────────────────────
@@ -498,7 +498,7 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 // ███████  Unique Scepters  ███████ //
 //ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
 //ItemDisplay[UNI !ID gsc]: // 	Rusthandle Grand Scepter
-//ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
+ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9sc]: // 	Zakarum's Hand Rune Scepter
 //ItemDisplay[UNI !ID 9qs]: // 	The Fetid Sprinkler Holy Water Sprinkler
@@ -521,7 +521,7 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Amazon Bows  ███████ //
 //ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
-//ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
+ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 //ItemDisplay[UNI !ID ama]: // 	Titan's Revenge Ceremonial Javelin
 //ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
 //ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
@@ -530,15 +530,15 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 // ███████  Unique helms  ███████ //
 //ItemDisplay[UNI !ID cap]: // 	Biggin's Bonnet Cap/hat
 //ItemDisplay[UNI !ID skp]: // 	Tarnhelm Skull Cap
-//ItemDisplay[UNI !ID hlm]: // 	Coif of Glory Helm
+ItemDisplay[UNI !ID hlm]: // 	Coif of Glory Helm
 //ItemDisplay[UNI !ID fhl]: // 	Duskdeep Full Helm
 //ItemDisplay[UNI !ID ghm]: // 	Howltusk Great Helm
-//ItemDisplay[UNI !ID crn]: // 	Undead Crown Crown
-//ItemDisplay[UNI !ID msk]: // 	The Face of Horror Mask
-//ItemDisplay[UNI !ID bhm]: // 	Wormskull Bone Helm
+ItemDisplay[UNI !ID crn]: // 	Undead Crown Crown
+ItemDisplay[UNI !ID msk]: // 	The Face of Horror Mask
+ItemDisplay[UNI !ID bhm]: // 	Wormskull Bone Helm
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xap]: // 	Peasant Crown War Hat
-//ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
+ItemDisplay[UNI !ID xap]: // 	Peasant Crown War Hat
+ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
 //ItemDisplay[UNI !ID xlm]: // 	Stealskull Casque
 //ItemDisplay[UNI !ID xhl]: // 	Darksight Helm Basinet
 //ItemDisplay[UNI !ID xhm]: // 	Valkyrie Wing Winged Helm
@@ -559,13 +559,13 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 //ItemDisplay[UNI !ID hla]: // 	The Centurion Hard Leather Armor
 //ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
 //ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
-//ItemDisplay[UNI !ID scl]: // 	Hawkmail Scale Mail
+ItemDisplay[UNI !ID scl]: // 	Hawkmail Scale Mail
 //ItemDisplay[UNI !ID chn]: // 	Sparking Mail Chain Mail
 //ItemDisplay[UNI !ID brs]: // 	Venom Ward Breast Plate
-//ItemDisplay[UNI !ID spl]: // 	Iceblink Splint Mail
+ItemDisplay[UNI !ID spl]: // 	Iceblink Splint Mail
 //ItemDisplay[UNI !ID plt]: // 	Boneflesh Plate Mail
 //ItemDisplay[UNI !ID fld]: // 	Rockfleece Field Plate
-//ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
+ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
 //ItemDisplay[UNI !ID ful]: // 	Goldskin Full Plate Mail
 //ItemDisplay[UNI !ID aar]: // 	Silks of the Victor Ancient Armor
 //ItemDisplay[UNI !ID ltp]: // 	Heavenly Garb Light Plate
@@ -604,12 +604,12 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 //ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
 //ItemDisplay[UNI !ID spk]: // 	Swordback Hold Spiked Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xuc]: // 	Visceratuant Defender
+ItemDisplay[UNI !ID xuc]: // 	Visceratuant Defender
 //ItemDisplay[UNI !ID xml]: // 	Moser's Blessed Circle Round Shield
 //ItemDisplay[UNI !ID xrg]: // 	Stormchaser Scutum
 //ItemDisplay[UNI !ID xit]: // 	Tiamat's Rebuke Dragon Shield
 //ItemDisplay[UNI !ID xow]: // 	Gerke's Sanctuary Pavise
-//ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
+ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
 //ItemDisplay[UNI !ID xsh]: // 	Lidless Wall Grim Shield
 //ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
 //─────────────────────────────────────────────────
@@ -625,7 +625,7 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 //ItemDisplay[UNI !ID vgl]: // 	Bloodfist Heavy Gloves
 //ItemDisplay[UNI !ID mgl]: // 	Chance Guards Chain Gloves 
 //ItemDisplay[UNI !ID tgl]: // 	Magefist Light Gauntlets
-//ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
+ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID xlg]: // 	Venom Grip Demonhide Gloves
 //ItemDisplay[UNI !ID xvg]: // 	Gravepalm Sharkskin Gloves
@@ -639,13 +639,13 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Boots  ███████ //
 //ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
-//ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
+ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
 //ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
 //ItemDisplay[UNI !ID tbt]: // 	Goblin Toe Light Plate Boots
 //ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
-//ItemDisplay[UNI !ID xvb]: // 	Waterwalk Sharkskin Boots
+ItemDisplay[UNI !ID xvb]: // 	Waterwalk Sharkskin Boots
 //ItemDisplay[UNI !ID xmb]: // 	Silkweave Mesh Boots
 //ItemDisplay[UNI !ID xtb]: // 	War Traveler Battle Boots
 //ItemDisplay[UNI !ID xhb]: // 	Gore Rider War Boots
@@ -656,9 +656,9 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Belts  ███████ //
 //ItemDisplay[UNI !ID lbl]: // 	Lenymo Sash
-//ItemDisplay[UNI !ID vbl]: // 	Snakecord Light Belt
+ItemDisplay[UNI !ID vbl]: // 	Snakecord Light Belt
 //ItemDisplay[UNI !ID mbl]: // 	Nightsmoke Belt
-//ItemDisplay[UNI !ID tbl]: // 	Goldwrap Heavy Belt
+ItemDisplay[UNI !ID tbl]: // 	Goldwrap Heavy Belt
 //ItemDisplay[UNI !ID hbl]: // 	Bladebuckle Plated Belt
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID zlb]: // 	String of Ears Demonhide Sash
@@ -694,7 +694,7 @@ ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist S
 //ItemDisplay[UNI !ID nef]: // 	Darkforce Spawn Bloodlord Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Other Headgear  ███████ //
-//ItemDisplay[UNI !ID ci2]: // 	Kira's Guardian Tiara
+ItemDisplay[UNI !ID ci2]: // 	Kira's Guardian Tiara
 //ItemDisplay[UNI !ID ci3]: // 	Griffon's Eye Diadem
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Runewords  ███████ //
