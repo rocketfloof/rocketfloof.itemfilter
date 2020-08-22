@@ -233,7 +233,7 @@ ItemDisplay[SET !ID hbl]: //Sigon's Wrap
 //ItemDisplay[SET !ID mpi]: //Tancred's Crowbill
 //ItemDisplay[SET !ID lbt]: //Tancred's Hobnails
 //ItemDisplay[SET !ID bhm]: //Tancred's Skull
-//ItemDisplay[SET !ID ful]: //Tancred's Spine
+ItemDisplay[SET !ID ful]: //Tancred's Spine
 
 //ItemDisplay[SET !ID xul]: //Trang-Oul's Scales
 ItemDisplay[SET !ID ne9]: //Trang-Oul's Wing
@@ -266,7 +266,7 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 // ███████  Unique Axes  ███████ //
 //ItemDisplay[UNI !ID hax]: // 	The Gnasher Hand Axe
 //ItemDisplay[UNI !ID axe]: // 	Deathspade Axe
-//ItemDisplay[UNI !ID 2ax]: // 	Bladebone Double Axe
+ItemDisplay[UNI !ID 2ax]: // 	Bladebone Double Axe
 //ItemDisplay[UNI !ID mpi]: // 	Skull Splitter Military Pick
 ItemDisplay[UNI !ID wax]: // 	Rakescar War Axe
 //ItemDisplay[UNI !ID lax]: // 	Axe of Fechmar Large Axe
@@ -351,7 +351,7 @@ ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 //ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
 //ItemDisplay[UNI !ID gsd]: // 	The Patriarch Great Sword
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9ss]: // 	Bloodletter Gladius
+ItemDisplay[UNI !ID 9ss]: // 	Bloodletter Gladius
 ItemDisplay[UNI !ID 9sm]: // 	Coldsteel Eye Cutlass
 ItemDisplay[UNI !ID 9sb]: // 	Hexfire Shamshir
 ItemDisplay[UNI !ID 9fc]: // 	Blade of Ali Baba Tulwar
@@ -494,7 +494,7 @@ ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Scepters  ███████ //
 //ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
-//ItemDisplay[UNI !ID gsc]: // 	Rusthandle Grand Scepter
+ItemDisplay[UNI !ID gsc]: // 	Rusthandle Grand Scepter
 ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9sc]: // 	Zakarum's Hand Rune Scepter
@@ -595,7 +595,7 @@ ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
 //ItemDisplay[UNI !ID buc]: // 	Pelta Lunata Buckler
 //ItemDisplay[UNI !ID sml]: // 	Umbral Disk Small Shield
 //ItemDisplay[UNI !ID lrg]: // 	Stormguild Large Shield
-//ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
+ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
 //ItemDisplay[UNI !ID tow]: // 	Bverrit Keep Tower Shield
 //ItemDisplay[UNI !ID gts]: // 	The Ward Gothic Shield
 //ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
@@ -654,7 +654,7 @@ ItemDisplay[UNI !ID xvb]: // 	Waterwalk Sharkskin Boots
 // ███████  Unique Belts  ███████ //
 //ItemDisplay[UNI !ID lbl]: // 	Lenymo Sash
 ItemDisplay[UNI !ID vbl]: // 	Snakecord Light Belt
-//ItemDisplay[UNI !ID mbl]: // 	Nightsmoke Belt
+ItemDisplay[UNI !ID mbl]: // 	Nightsmoke Belt
 ItemDisplay[UNI !ID tbl]: // 	Goldwrap Heavy Belt
 ItemDisplay[UNI !ID hbl]: // 	Bladebuckle Plated Belt
 //─────────────────────────────────────────────────
@@ -733,8 +733,8 @@ ItemDisplay[ETH SOCK=0 7vo]: ETH %NAME% %RED%*INFINITY*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*OBEDIENCE&DOOM*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(2ax OR mpi OR wax OR 92a) NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST&GRIEF*
-ItemDisplay[gsc NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST*
+//ItemDisplay[(2ax OR mpi OR wax OR 92a) NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST&GRIEF*
+//ItemDisplay[gsc NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST*
 ItemDisplay[7cr NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*GRIEF*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[CL5 NMAG !ETH ELT SOCK=3 SK274>2]: %NAME% [%SOCKETS%] %RED%*CHAOS*
