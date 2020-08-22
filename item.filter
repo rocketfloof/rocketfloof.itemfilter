@@ -728,8 +728,8 @@ ItemDisplay[fla NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*HOTO*
 ItemDisplay[fla NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*CTA*
 ItemDisplay[crs NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*CTA*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(amb OR amc) NMAG !ETH SOCK=4]: %NAME% [%SOCKETS%] %RED%*FAITH(ZON)*
-ItemDisplay[(6cb OR 6hb) NMAG ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*FAITH(MERC)*
+ItemDisplay[(amb OR amc) NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*FAITH(ZON)*
+ItemDisplay[(6cb OR 6hb) NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*FAITH(MERC)*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*INSIGHT&INFINITY&PRIDE*
 ItemDisplay[ETH 7vo]: ETH %NAME% %RED%*INFINITY*
