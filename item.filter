@@ -139,7 +139,7 @@ ItemDisplay[SET !ID hlm]: //Berserker's Headgear
 //ItemDisplay[SET !ID 7gd]: //Bul-Kathos' Sacred Charge
 //ItemDisplay[SET !ID 7wd]: //Bul-Kathos' Tribal Guardian
 
-//ItemDisplay[SET !ID chn]: //Cathan's Mesh
+ItemDisplay[SET !ID chn]: //Cathan's Mesh
 //ItemDisplay[SET !ID bst]: //Cathan's Rule
 //ItemDisplay[SET !ID msk]: //Cathan's Visage
 
