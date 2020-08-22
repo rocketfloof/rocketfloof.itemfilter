@@ -108,10 +108,7 @@ ItemDisplay[r32]: %NAME% %GRAY%[32] // 	Cham Rune
 ItemDisplay[r33]: %NAME% %GRAY%[33] // 	Zod Rune
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wirt's Leg  ███████ //
-ItemDisplay[leg]: Wirt's Leg
-ItemDisplay[ETH SOCK>0 leg]: ETH Wirt's Leg [%SOCKETS%]
-ItemDisplay[ETH leg]: ETH Wirt's Leg
-ItemDisplay[SOCK>0 leg]: Wirt's Leg [%SOCKETS%]
+//ItemDisplay[leg]: Wirt's Leg
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ //////////////////////////////////  ▬▬▬▬▬ SET ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
