@@ -186,7 +186,7 @@ ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
 ItemDisplay[SET !ID crn]: //Iratha's Coil and Milabrega's Diadem
 
 ItemDisplay[SET !ID brs]: //Isenhart's Case
-//ItemDisplay[SET !ID fhl]: //Isenhart's Horns
+ItemDisplay[SET !ID fhl]: //Isenhart's Horns
 //ItemDisplay[SET !ID bsd]: //Isenhart's Lightbrand
 ItemDisplay[SET !ID gts]: //Isenhart's Parry
 
@@ -330,7 +330,7 @@ ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
 ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
-//ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
+ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 //ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
 //ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
 //ItemDisplay[UNI !ID 7m7]: // 	Windhammer Ogre Maul
@@ -391,7 +391,7 @@ ItemDisplay[UNI !ID 7kr]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Fleshripper Fanged
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Throwing  ███████ //
 ItemDisplay[UNI !ID 9tk]: // 	Deathbit Battle Dart
-//ItemDisplay[UNI !ID 9ta]: // 	The Scalper Francisca
+ItemDisplay[UNI !ID 9ta]: // 	The Scalper Francisca
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
 //ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
