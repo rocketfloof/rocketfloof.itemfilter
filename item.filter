@@ -452,7 +452,7 @@ ItemDisplay[UNI !ID 8ls]: // 	Ribcracker Quarterstaff
 //ItemDisplay[UNI !ID 8bs]: // 	Warpspear Gothic Staff
 //ItemDisplay[UNI !ID 8ws]: // 	Skull Collector Rune Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
+ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
 //ItemDisplay[UNI !ID 6ws]: // 	Mand Song's Lesson Archon Staff
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Bows  ███████ //
