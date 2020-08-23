@@ -243,7 +243,7 @@ ItemDisplay[SET !ID xmg]: //Trang-Oul's Claws
 
 //ItemDisplay[SET !ID lea]: //Vidala's Ambush
 ItemDisplay[SET !ID lbb]: //Vidala's Barb
-//ItemDisplay[SET !ID tbt]: //Vidala's Fetlock
+ItemDisplay[SET !ID tbt]: //Vidala's Fetlock
 
 ItemDisplay[SET !ID uui]: //Dark Adherent
 //ItemDisplay[SET !ID ulg]: //Laying of Hands
@@ -348,7 +348,7 @@ ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
 //ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
 //ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
-//ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
+ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
 //ItemDisplay[UNI !ID gsd]: // 	The Patriarch Great Sword
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 9ss]: // 	Bloodletter Gladius
@@ -462,7 +462,7 @@ ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
 ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
 ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
 //ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
-//ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
+ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
 //ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
@@ -509,7 +509,7 @@ ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
 //ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
 ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist Sword
 //ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
-//ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
+ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Sorc Orbs  ███████ //
 //ItemDisplay[UNI !ID oba]: // 	The Oculus Swirling Crystal
@@ -598,7 +598,7 @@ ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
 ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
 ItemDisplay[UNI !ID tow]: // 	Bverrit Keep Tower Shield
 //ItemDisplay[UNI !ID gts]: // 	The Ward Gothic Shield
-//ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
+ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
 //ItemDisplay[UNI !ID spk]: // 	Swordback Hold Spiked Shield
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xuc]: // 	Visceratuant Defender
