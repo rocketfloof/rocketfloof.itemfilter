@@ -442,7 +442,7 @@ ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
 // ███████  Unique Staves  ███████ //
 //ItemDisplay[UNI !ID sst]: // 	Bane Ash Short Staff
 ItemDisplay[UNI !ID lst]: // 	Serpent Lord Long Staff
-//ItemDisplay[UNI !ID cst]: // 	Spire of Lazarus Gnarled Staff
+ItemDisplay[UNI !ID cst]: // 	Spire of Lazarus Gnarled Staff
 ItemDisplay[UNI !ID bst]: // 	The Salamander Battle Staff
 //ItemDisplay[UNI !ID wst]: // 	The Iron Jang Bong War Staff
 //─────────────────────────────────────────────────
