@@ -210,7 +210,7 @@ ItemDisplay[SET !ID xh9]: //Natalya's Totem
 //ItemDisplay[SET !ID xmb]: //Natalya's Soul
 
 ItemDisplay[SET !ID bwn]: //Sander's Superstition
-//ItemDisplay[SET !ID vgl]: //Sander's Taboo
+ItemDisplay[SET !ID vgl]: //Sander's Taboo
 ItemDisplay[SET !ID vbt]: //Sander's Riprap
 
 //ItemDisplay[SET !ID 7ls]: //Sazabi's Cobalt Redeemer
