@@ -124,7 +124,7 @@ ItemDisplay[SET !ID xtb]: //Aldur's Advance
 ItemDisplay[SET !ID sbr]: //Angelic Sickle
 
 ItemDisplay[SET !ID wst]: //Arcanna's Deathwand
-//ItemDisplay[SET !ID ltp]: //Arcanna's Flesh
+ItemDisplay[SET !ID ltp]: //Arcanna's Flesh
 ItemDisplay[SET !ID skp]: //Arcanna's Head
 
 ItemDisplay[SET !ID vbl]: //Arctic Binding
