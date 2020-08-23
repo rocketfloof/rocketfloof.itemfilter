@@ -232,7 +232,7 @@ ItemDisplay[SET !ID hbl]: //Sigon's Wrap
 
 //ItemDisplay[SET !ID mpi]: //Tancred's Crowbill
 //ItemDisplay[SET !ID lbt]: //Tancred's Hobnails
-//ItemDisplay[SET !ID bhm]: //Tancred's Skull
+ItemDisplay[SET !ID bhm]: //Tancred's Skull
 ItemDisplay[SET !ID ful]: //Tancred's Spine
 
 //ItemDisplay[SET !ID xul]: //Trang-Oul's Scales
