@@ -459,7 +459,7 @@ ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
 //ItemDisplay[UNI !ID sbw]: // 	Pluckeye Short Bow
 //ItemDisplay[UNI !ID hbw]: // 	Witherstring Hunter's Bow
 //ItemDisplay[UNI !ID lbw]: // 	Raven Claw Long Bow
-//ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
+ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
 ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
 //ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
 //ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
