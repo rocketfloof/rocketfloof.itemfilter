@@ -554,7 +554,7 @@ ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
 //ItemDisplay[UNI !ID qui]: // 	Greyform Quilted Armor
 //ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
 //ItemDisplay[UNI !ID hla]: // 	The Centurion Hard Leather Armor
-//ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
+ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
 ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
 ItemDisplay[UNI !ID scl]: // 	Hawkmail Scale Mail
 //ItemDisplay[UNI !ID chn]: // 	Sparking Mail Chain Mail
