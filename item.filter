@@ -230,7 +230,7 @@ ItemDisplay[SET !ID hbl]: //Sigon's Wrap
 //ItemDisplay[SET !ID zmb]: //Tal Rasha's Fine-Spun Cloth
 //ItemDisplay[SET !ID amu]: // Set Amulet
 
-//ItemDisplay[SET !ID mpi]: //Tancred's Crowbill
+ItemDisplay[SET !ID mpi]: //Tancred's Crowbill
 //ItemDisplay[SET !ID lbt]: //Tancred's Hobnails
 ItemDisplay[SET !ID bhm]: //Tancred's Skull
 ItemDisplay[SET !ID ful]: //Tancred's Spine
@@ -357,7 +357,7 @@ ItemDisplay[UNI !ID 9sb]: // 	Hexfire Shamshir
 ItemDisplay[UNI !ID 9fc]: // 	Blade of Ali Baba Tulwar
 //ItemDisplay[UNI !ID 9cr]: // 	Ginther's Rift Dimensional Blade
 //ItemDisplay[UNI !ID 9bs]: // 	Headstriker Battle Sword
-//ItemDisplay[UNI !ID 9ls]: // 	Plague Bearer Rune Sword
+ItemDisplay[UNI !ID 9ls]: // 	Plague Bearer Rune Sword
 //ItemDisplay[UNI !ID 9wd]: // 	The Atlantean Ancient Sword
 //ItemDisplay[UNI !ID 92h]: // 	Crainte Vomir Espadon
 ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
