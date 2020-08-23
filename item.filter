@@ -345,7 +345,7 @@ ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 //ItemDisplay[UNI !ID wsd]: // 	Culwen's Point War Sword
 //ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
-//ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
+ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
 //ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
 //ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
 //ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
