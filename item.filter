@@ -144,7 +144,7 @@ ItemDisplay[SET !ID chn]: //Cathan's Mesh
 //ItemDisplay[SET !ID msk]: //Cathan's Visage
 
 ItemDisplay[SET !ID gsc]: //Civerb's Cudgel
-//ItemDisplay[SET !ID lrg]: //Civerb's Ward
+ItemDisplay[SET !ID lrg]: //Civerb's Ward
 
 //ItemDisplay[SET !ID sml]: //Cleglaw's Claw
 //ItemDisplay[SET !ID mgl]: //Cleglaw's Pincers
