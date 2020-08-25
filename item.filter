@@ -148,7 +148,7 @@ ItemDisplay[SET !ID gsc]: //Civerb's Cudgel
 
 //ItemDisplay[SET !ID sml]: //Cleglaw's Claw
 //ItemDisplay[SET !ID mgl]: //Cleglaw's Pincers
-//ItemDisplay[SET !ID lsd]: //Cleglaw's Tooth
+ItemDisplay[SET !ID lsd]: //Cleglaw's Tooth
 
 //ItemDisplay[SET !ID vbt]: //Cow King's Hooves
 ItemDisplay[SET !ID xap]: //Cow King's Horns
@@ -427,7 +427,7 @@ ItemDisplay[UNI !ID 9p9]: // 	Spirit of Honor Lance
 ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
 //ItemDisplay[UNI !ID wsc]: // 	The Grim Reaper War Scythe
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9b7]: // The Meat Scraper Lochaber Axe
+ItemDisplay[UNI !ID 9b7]: // The Meat Scraper Lochaber Axe
 //ItemDisplay[UNI !ID 9vo]: // 	Blackleach Blade Bill
 //ItemDisplay[UNI !ID 9s8]: // 	Athena's Wrath Battle Scythe
 //ItemDisplay[UNI !ID 9pa]: // 	Pierre Tombale Couant Partizan
