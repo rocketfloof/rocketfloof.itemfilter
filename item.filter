@@ -567,7 +567,7 @@ ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
 //ItemDisplay[UNI !ID aar]: // 	Silks of the Victor Ancient Armor
 //ItemDisplay[UNI !ID ltp]: // 	Heavenly Garb Light Plate
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
+ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
 //ItemDisplay[UNI !ID xea]: // 	Skin of the Vipermagi Serpentskin Armor
 //ItemDisplay[UNI !ID xla]: // 	Skin of the Flayed One Demonhide Armor
 //ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
