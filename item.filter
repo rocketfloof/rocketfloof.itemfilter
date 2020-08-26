@@ -628,7 +628,7 @@ ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
 //ItemDisplay[UNI !ID xvg]: // 	Gravepalm Sharkskin Gloves
 //ItemDisplay[UNI !ID xmg]: // 	Ghoulhide Heavy Bracers
 //ItemDisplay[UNI !ID xtg]: // 	Lava Gout Battle Gauntlets
-//ItemDisplay[UNI !ID xhg]: // 	Hellmouth War Gauntlets
+ItemDisplay[UNI !ID xhg]: // 	Hellmouth War Gauntlets
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID uvg]: // 	Dracul's Grasp Vampirebone Gloves
 //ItemDisplay[UNI !ID umg]: // 	Soul Drainer Vambraces
