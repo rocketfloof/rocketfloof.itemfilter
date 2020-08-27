@@ -147,7 +147,7 @@ ItemDisplay[SET !ID gsc]: //Civerb's Cudgel
 ItemDisplay[SET !ID lrg]: //Civerb's Ward
 
 //ItemDisplay[SET !ID sml]: //Cleglaw's Claw
-//ItemDisplay[SET !ID mgl]: //Cleglaw's Pincers
+ItemDisplay[SET !ID mgl]: //Cleglaw's Pincers
 ItemDisplay[SET !ID lsd]: //Cleglaw's Tooth
 
 //ItemDisplay[SET !ID vbt]: //Cow King's Hooves
