@@ -130,7 +130,7 @@ ItemDisplay[SET !ID skp]: //Arcanna's Head
 ItemDisplay[SET !ID vbl]: //Arctic Binding
 //ItemDisplay[SET !ID qui]: //Arctic Furs
 //ItemDisplay[SET !ID swb]: //Arctic Horn
-//ItemDisplay[SET !ID tgl]: //Arctic Mitts and Iratha's Cuff
+ItemDisplay[SET !ID tgl]: //Arctic Mitts and Iratha's Cuff
 
 ItemDisplay[SET !ID 2ax]: //Berserker's Hatchet
 //ItemDisplay[SET !ID spl]: //Berserker's Hauberk
