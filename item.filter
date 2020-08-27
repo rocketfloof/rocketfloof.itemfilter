@@ -204,7 +204,7 @@ ItemDisplay[SET !ID wsp]: //Milabrega's Rod
 ItemDisplay[SET !ID ult]: //Naj's Light Plate
 ItemDisplay[SET !ID ci0]: //Naj's Circlet
 
-//ItemDisplay[SET !ID 7qr]: //Natalya's Mark
+ItemDisplay[SET !ID 7qr]: %NAME% %RED%*SLAM FOR 3OS* //Natalya's Mark
 //ItemDisplay[SET !ID ucl]: //Natalya's Shadow
 ItemDisplay[SET !ID xh9]: //Natalya's Totem
 //ItemDisplay[SET !ID xmb]: //Natalya's Soul
@@ -246,15 +246,16 @@ ItemDisplay[SET !ID lbb]: //Vidala's Barb
 ItemDisplay[SET !ID tbt]: //Vidala's Fetlock
 
 ItemDisplay[SET !ID uui]: //Dark Adherent
-//ItemDisplay[SET !ID ulg]: //Laying of Hands
-//ItemDisplay[SET !ID umc]: //Credendum
+ItemDisplay[SET !ID ulg]: %NAME% %RED%*SLAM FOR LIFE ON HIT* //Laying of Hands
+ItemDisplay[SET !ID umc]: //Credendum
 ItemDisplay[SET !ID xlb]: //Rite of Passage
+
 //ItemDisplay[SET !ID uhm]: //Ondal's Mighty
 ItemDisplay[SET !ID 7ma]: //Dangoon's Teaching
 ItemDisplay[SET !ID xrs]: //Haemosu's Adamant
 //ItemDisplay[SET !ID uts]: //Taebaek's Glory
 
-ItemDisplay[SET !ID xhm]: %NAME% %RED%*NEED FOR ASSASSIN* //Guillaume's Face
+ItemDisplay[SET !ID xhm]: %NAME% %RED%*SLAM FOR 3OS* //Guillaume's Face
 ItemDisplay[SET !ID xml]: //Whitstan's Guard
 ItemDisplay[SET !ID xvg]: //Magnus' Skin
 ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
