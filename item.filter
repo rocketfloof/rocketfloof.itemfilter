@@ -408,7 +408,7 @@ ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
 //ItemDisplay[UNI !ID tri]: // 	Razortine Trident
 //ItemDisplay[UNI !ID brn]: // 	Bloodthief Brandistock
 ItemDisplay[UNI !ID spt]: // 	Lance of Yaggai Spetum
-//ItemDisplay[UNI !ID pik]: // 	The Tannr Gorerod Pike
+ItemDisplay[UNI !ID pik]: // 	The Tannr Gorerod Pike
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 9sr]: // 	The Impaler War Spear
 //ItemDisplay[UNI !ID 9tr]: // 	Kelpie Snare Fuscina
