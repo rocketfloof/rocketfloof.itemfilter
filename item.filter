@@ -371,7 +371,7 @@ ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
 ItemDisplay[UNI !ID 7sb]: // 	Bloodmoon Elegant Blade
 //ItemDisplay[UNI !ID 7cr]: // 	Lightsabre OR Azurewrath Phase Blade
 //ItemDisplay[UNI !ID 7ls]: // 	Frostwind Cryptic Sword
-//ItemDisplay[UNI !ID 7gs]: // 	FlameBellow Balrog Blade
+ItemDisplay[UNI !ID 7gs]: // 	FlameBellow Balrog Blade
 //ItemDisplay[UNI !ID 7b7]: // 	Doombringer Champion Sword
 //ItemDisplay[UNI !ID 7gd]: // 	The Grandfather Colossus Blade
 //─────────────────────────────────────────────────────────────────────────────────────────────────
