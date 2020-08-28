@@ -431,7 +431,7 @@ ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
 ItemDisplay[UNI !ID 9b7]: // The Meat Scraper Lochaber Axe
 //ItemDisplay[UNI !ID 9vo]: // 	Blackleach Blade Bill
 //ItemDisplay[UNI !ID 9s8]: // 	Athena's Wrath Battle Scythe
-//ItemDisplay[UNI !ID 9pa]: // 	Pierre Tombale Couant Partizan
+ItemDisplay[UNI !ID 9pa]: // 	Pierre Tombale Couant Partizan
 //ItemDisplay[UNI !ID 9h9]: // 	Husoldal Evo Bec-de-Corbin
 //ItemDisplay[UNI !ID 9wc]: // 	Grim's Burning Dead Grim Scythe
 //─────────────────────────────────────────────────
@@ -470,7 +470,7 @@ ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
 //ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
 ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
 //ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
-//ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
+ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
 //ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
 //ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
 //ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
