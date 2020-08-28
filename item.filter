@@ -594,7 +594,7 @@ ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Shields  ███████ //
 //ItemDisplay[UNI !ID buc]: // 	Pelta Lunata Buckler
-//ItemDisplay[UNI !ID sml]: // 	Umbral Disk Small Shield
+ItemDisplay[UNI !ID sml]: // 	Umbral Disk Small Shield
 //ItemDisplay[UNI !ID lrg]: // 	Stormguild Large Shield
 ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
 ItemDisplay[UNI !ID tow]: // 	Bverrit Keep Tower Shield
