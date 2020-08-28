@@ -529,7 +529,7 @@ ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 //ItemDisplay[UNI !ID cap]: // 	Biggin's Bonnet Cap/hat
 ItemDisplay[UNI !ID skp]: // 	Tarnhelm Skull Cap
 ItemDisplay[UNI !ID hlm]: // 	Coif of Glory Helm
-//ItemDisplay[UNI !ID fhl]: // 	Duskdeep Full Helm
+ItemDisplay[UNI !ID fhl]: // 	Duskdeep Full Helm
 //ItemDisplay[UNI !ID ghm]: // 	Howltusk Great Helm
 ItemDisplay[UNI !ID crn]: // 	Undead Crown Crown
 ItemDisplay[UNI !ID msk]: // 	The Face of Horror Mask
