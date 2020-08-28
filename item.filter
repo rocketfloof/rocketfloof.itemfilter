@@ -156,7 +156,7 @@ ItemDisplay[SET !ID stu]: //Cow King's Hide
 
 //ItemDisplay[SET !ID lbl]: //Death's Guard
 //ItemDisplay[SET !ID lgl]: //Death's Hand
-//ItemDisplay[SET !ID wsd]: //Death's Touch
+ItemDisplay[SET !ID wsd]: //Death's Touch
 
 //ItemDisplay[SET !ID 7ws]: //Griswold's Redemption
 ItemDisplay[SET !ID xar]: //Griswold's Heart
@@ -190,7 +190,7 @@ ItemDisplay[SET !ID fhl]: //Isenhart's Horns
 ItemDisplay[SET !ID bsd]: //Isenhart's Lightbrand
 //ItemDisplay[SET !ID gts]: //Isenhart's Parry
 
-//ItemDisplay[SET !ID amc]: //M'avina's Caster
+ItemDisplay[SET !ID amc]: //M'avina's Caster
 //ItemDisplay[SET !ID uld]: //M'avina's Embrace
 //ItemDisplay[SET !ID ci3]: //M'avina's True Sight
 //ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
