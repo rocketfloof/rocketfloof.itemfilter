@@ -417,7 +417,7 @@ ItemDisplay[UNI !ID spt]: // 	Lance of Yaggai Spetum
 ItemDisplay[UNI !ID 9p9]: // 	Spirit of Honor Lance
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 7sr]: // 	Arioc's Needle Hyperion Spear
-//ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
+ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
 //ItemDisplay[UNI !ID 7p7]: // 	Steel Pillar War Pike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Polearms  ███████ //
