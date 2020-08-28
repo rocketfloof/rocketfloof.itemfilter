@@ -527,7 +527,7 @@ ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique helms  ███████ //
 //ItemDisplay[UNI !ID cap]: // 	Biggin's Bonnet Cap/hat
-//ItemDisplay[UNI !ID skp]: // 	Tarnhelm Skull Cap
+ItemDisplay[UNI !ID skp]: // 	Tarnhelm Skull Cap
 ItemDisplay[UNI !ID hlm]: // 	Coif of Glory Helm
 //ItemDisplay[UNI !ID fhl]: // 	Duskdeep Full Helm
 //ItemDisplay[UNI !ID ghm]: // 	Howltusk Great Helm
@@ -640,7 +640,7 @@ ItemDisplay[UNI !ID xhg]: // 	Hellmouth War Gauntlets
 ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
 //ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
 //ItemDisplay[UNI !ID tbt]: // 	Goblin Toe Light Plate Boots
-//ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
+ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
 ItemDisplay[UNI !ID xvb]: // 	Waterwalk Sharkskin Boots
