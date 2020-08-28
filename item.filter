@@ -469,15 +469,15 @@ ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
 //ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
 //ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
 ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
-//ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
+ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
 ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
-//ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
+ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
 //ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
 //ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
 //ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
-//ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
+ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Crossbows  ███████ //
 //ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
