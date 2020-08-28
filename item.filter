@@ -315,7 +315,7 @@ ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
 //ItemDisplay[UNI !ID spc]: // 	Stoutnail Spiked Club
 ItemDisplay[UNI !ID mac]: // 	Crushflange Mace
 ItemDisplay[UNI !ID mst]: // 	Bloodrise Morning Star
-//ItemDisplay[UNI !ID fla]: // 	The General's Tan Do Li Ga Flail
+ItemDisplay[UNI !ID fla]: // 	The General's Tan Do Li Ga Flail
 //ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
 //ItemDisplay[UNI !ID mau]: // 	Bonesnap Maul
 //ItemDisplay[UNI !ID gma]: // 	Steeldriver Great Maul
