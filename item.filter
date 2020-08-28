@@ -338,7 +338,7 @@ ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 //ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Swords  ███████ //
-//ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
+ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
 //ItemDisplay[UNI !ID scm]: // 	Blood Crescent Scimitar
 //ItemDisplay[UNI !ID sbr]: // 	Skewer of Krintiz Sabre
 //ItemDisplay[UNI !ID flc]: // 	Gleamscyche Falchion
