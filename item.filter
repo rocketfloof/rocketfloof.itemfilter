@@ -188,7 +188,7 @@ ItemDisplay[SET !ID crn]: //Iratha's Coil and Milabrega's Diadem
 ItemDisplay[SET !ID brs]: //Isenhart's Case
 ItemDisplay[SET !ID fhl]: //Isenhart's Horns
 ItemDisplay[SET !ID bsd]: //Isenhart's Lightbrand
-//ItemDisplay[SET !ID gts]: //Isenhart's Parry
+ItemDisplay[SET !ID gts]: //Isenhart's Parry
 
 ItemDisplay[SET !ID amc]: //M'avina's Caster
 //ItemDisplay[SET !ID uld]: //M'avina's Embrace
@@ -483,7 +483,7 @@ ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
 //ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
 ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
 //ItemDisplay[UNI !ID hxb]: // 	Hellcast Heavy Crossbow
-//ItemDisplay[UNI !ID rxb]: // 	Doomslinger Repeating Crossbow
+ItemDisplay[UNI !ID rxb]: // 	Doomslinger Repeating Crossbow
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 8lx]: // 	Langer Briser Arbalest
 //ItemDisplay[UNI !ID 8mx]: // 	Pus Spitter Siege Crossbow
