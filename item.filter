@@ -180,7 +180,7 @@ ItemDisplay[SET !ID xhg]: //Immortal King's Forge
 ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
 
 //ItemDisplay[SET !ID cap]: //Infernal Cranium and Sander's Paragon
-//ItemDisplay[SET !ID tbl]: //Infernal Sign and Iratha's Cord
+ItemDisplay[SET !ID tbl]: //Infernal Sign and Iratha's Cord
 ItemDisplay[SET !ID gwn]: //Infernal Torch
 
 ItemDisplay[SET !ID crn]: //Iratha's Coil and Milabrega's Diadem
