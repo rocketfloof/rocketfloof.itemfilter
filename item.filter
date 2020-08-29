@@ -277,7 +277,7 @@ ItemDisplay[UNI !ID btx]: // 	The Chieftain Battle Axe
 //ItemDisplay[UNI !ID gix]: // 	Humongous Giant Axe
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 9ha]: // 	Coldkill Hatchet
-//ItemDisplay[UNI !ID 9ax]: // 	Butcher's Pupil Cleaver
+ItemDisplay[UNI !ID 9ax]: // 	Butcher's Pupil Cleaver
 ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
 //ItemDisplay[UNI !ID 9mp]: // 	Pompeii's Wrath Crowbill
 //ItemDisplay[UNI !ID 9wa]: // 	Guardian Naga Naga
@@ -290,9 +290,9 @@ ItemDisplay[UNI !ID 9bt]: // 	Stormrider Tabar
 ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
 ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
 //ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
-//ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
+ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
 //ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
-//ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
+ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
 //ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
 //ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
