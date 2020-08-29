@@ -287,7 +287,7 @@ ItemDisplay[UNI !ID 9bt]: // 	Stormrider Tabar
 //ItemDisplay[UNI !ID 9ga]: // 	Boneslayer Blade Gothic Axe
 //ItemDisplay[UNI !ID 9gi]: // 	The Minotaur Ancient Axe
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
+ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
 ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
 //ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
 //ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
