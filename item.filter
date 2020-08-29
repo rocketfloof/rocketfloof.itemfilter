@@ -268,7 +268,7 @@ ItemDisplay[SET !ID ztb]: //Wilhelm's Pride
 //ItemDisplay[UNI !ID hax]: // 	The Gnasher Hand Axe
 //ItemDisplay[UNI !ID axe]: // 	Deathspade Axe
 ItemDisplay[UNI !ID 2ax]: // 	Bladebone Double Axe
-//ItemDisplay[UNI !ID mpi]: // 	Skull Splitter Military Pick
+ItemDisplay[UNI !ID mpi]: // 	Skull Splitter Military Pick
 ItemDisplay[UNI !ID wax]: // 	Rakescar War Axe
 //ItemDisplay[UNI !ID lax]: // 	Axe of Fechmar Large Axe
 ItemDisplay[UNI !ID bax]: // 	Goreshovel Broad Axe
@@ -424,7 +424,7 @@ ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
 //ItemDisplay[UNI !ID bar]: // 	Dimoak's Hew Bardiche
 //ItemDisplay[UNI !ID vou]: // 	Steelgoad Voulge
 //ItemDisplay[UNI !ID scy]: // 	Soul Harvest Scythe
-//ItemDisplay[UNI !ID pax]: // 	The Battlebranch Poleaxe
+ItemDisplay[UNI !ID pax]: // 	The Battlebranch Poleaxe
 ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
 //ItemDisplay[UNI !ID wsc]: // 	The Grim Reaper War Scythe
 //─────────────────────────────────────────────────
