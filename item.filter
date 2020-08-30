@@ -322,7 +322,7 @@ ItemDisplay[UNI !ID fla]: // 	The General's Tan Do Li Ga Flail
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
 ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
-//ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
+ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
 //ItemDisplay[UNI !ID 9mt]: // 	Moonfall Jagged Star
 //ItemDisplay[UNI !ID 9fl]: // 	Baezil's Vortex Knout
 ItemDisplay[UNI !ID 9wh]: // 	Earthshaker Battle Hammer
