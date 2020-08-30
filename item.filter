@@ -40,7 +40,7 @@ ItemDisplay[(gfv OR gfy OR gfb OR gfg OR gfr OR gfw OR skf) CLVL>19]: //	Flawed
 //─────────────────────────────────────────────────
 ItemDisplay[(gsv OR gsy OR gsb OR gsg OR gsr OR gsw OR sku) CLVL>29]: //	Normal
 //─────────────────────────────────────────────────
-ItemDisplay[(gzv OR gly OR glb OR glg OR glr OR glw OR skl)]: %YELLOW% $$%WHITE% %NAME% %YELLOW%$$ // Flawless
+ItemDisplay[(gzv OR gly OR glb OR glg OR glr OR glw OR skl)]: // Flawless
 //─────────────────────────────────────────────────
 //ItemDisplay[(gpv OR gpy OR gpb OR gpg OR gpr OR gpw OR skz)]: // Perfect
 //─────────────────────────────────────────────────────────────────────────────────────────────────
