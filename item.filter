@@ -129,7 +129,7 @@ ItemDisplay[SET !ID skp]: //Arcanna's Head
 
 ItemDisplay[SET !ID vbl]: //Arctic Binding
 //ItemDisplay[SET !ID qui]: //Arctic Furs
-//ItemDisplay[SET !ID swb]: //Arctic Horn
+ItemDisplay[SET !ID swb]: //Arctic Horn
 ItemDisplay[SET !ID tgl]: //Arctic Mitts and Iratha's Cuff
 
 ItemDisplay[SET !ID 2ax]: //Berserker's Hatchet
@@ -600,7 +600,7 @@ ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
 ItemDisplay[UNI !ID tow]: // 	Bverrit Keep Tower Shield
 //ItemDisplay[UNI !ID gts]: // 	The Ward Gothic Shield
 ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
-//ItemDisplay[UNI !ID spk]: // 	Swordback Hold Spiked Shield
+ItemDisplay[UNI !ID spk]: // 	Swordback Hold Spiked Shield
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xuc]: // 	Visceratuant Defender
 //ItemDisplay[UNI !ID xml]: // 	Moser's Blessed Circle Round Shield
