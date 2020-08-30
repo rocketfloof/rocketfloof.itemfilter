@@ -553,7 +553,7 @@ ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Body Armor  ███████ //
 //ItemDisplay[UNI !ID qui]: // 	Greyform Quilted Armor
-//ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
+ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
 //ItemDisplay[UNI !ID hla]: // 	The Centurion Hard Leather Armor
 ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
 ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
@@ -638,7 +638,7 @@ ItemDisplay[UNI !ID xhg]: // 	Hellmouth War Gauntlets
 // ███████  Unique Boots  ███████ //
 //ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
 ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
-//ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
+ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
 //ItemDisplay[UNI !ID tbt]: // 	Goblin Toe Light Plate Boots
 ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
