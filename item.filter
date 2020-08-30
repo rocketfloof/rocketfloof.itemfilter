@@ -293,7 +293,7 @@ ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
 ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
 ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
 ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
-//ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
+ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
 //ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Wands  ███████ //
@@ -577,7 +577,7 @@ ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
 //ItemDisplay[UNI !ID xhn]: // 	Shaftstop Mesh Armor
 //ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
 //ItemDisplay[UNI !ID xpl]: // 	Skullder's Ire Russet Armor
-//ItemDisplay[UNI !ID xlt]: // 	Guardian Angel Templar Coat
+ItemDisplay[UNI !ID xlt]: // 	Guardian Angel Templar Coat
 //ItemDisplay[UNI !ID xld]: // 	Toothrow Sharktooth Armor
 //ItemDisplay[UNI !ID xth]: // 	Atma's Wail Embossed Plate
 //ItemDisplay[UNI !ID xul]: // 	Black Hades Chaos Armor
