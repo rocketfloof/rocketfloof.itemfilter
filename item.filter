@@ -316,7 +316,7 @@ ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
 ItemDisplay[UNI !ID mac]: // 	Crushflange Mace
 ItemDisplay[UNI !ID mst]: // 	Bloodrise Morning Star
 ItemDisplay[UNI !ID fla]: // 	The General's Tan Do Li Ga Flail
-//ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
+ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
 //ItemDisplay[UNI !ID mau]: // 	Bonesnap Maul
 //ItemDisplay[UNI !ID gma]: // 	Steeldriver Great Maul
 //─────────────────────────────────────────────────
@@ -363,7 +363,7 @@ ItemDisplay[UNI !ID 9ls]: // 	Plague Bearer Rune Sword
 //ItemDisplay[UNI !ID 92h]: // 	Crainte Vomir Espadon
 ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
 //ItemDisplay[UNI !ID 9gs]: // 	The Vile Husk Tusk Sword
-//ItemDisplay[UNI !ID 9b9]: // 	Cloudcrack Gothic Sword
+ItemDisplay[UNI !ID 9b9]: // 	Cloudcrack Gothic Sword
 //ItemDisplay[UNI !ID 9fb]: // 	Todesfaelle Flamme Zweihander
 //ItemDisplay[UNI !ID 9gd]: // 	Swordguard Executioner Sword
 //─────────────────────────────────────────────────
@@ -541,7 +541,7 @@ ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
 //ItemDisplay[UNI !ID xhl]: // 	Darksight Helm Basinet
 //ItemDisplay[UNI !ID xhm]: // 	Valkyrie Wing Winged Helm
 //ItemDisplay[UNI !ID xrn]: // 	Crown of Thieves Grand Crown
-//ItemDisplay[UNI !ID xsk]: // 	Blackhorn's Face Death Mask
+ItemDisplay[UNI !ID xsk]: // 	Blackhorn's Face Death Mask
 //ItemDisplay[UNI !ID xh9]: // 	Vampire Gaze Grim Helm
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID uap]: // 	Harlequin Crest Shako
