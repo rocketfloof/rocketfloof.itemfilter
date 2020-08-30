@@ -193,7 +193,7 @@ ItemDisplay[SET !ID gts]: //Isenhart's Parry
 ItemDisplay[SET !ID amc]: //M'avina's Caster
 //ItemDisplay[SET !ID uld]: //M'avina's Embrace
 //ItemDisplay[SET !ID ci3]: //M'avina's True Sight
-//ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
+ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
 ItemDisplay[SET !ID zvb]: //M'avina's Tenet
 
 ItemDisplay[SET !ID kit]: //Milabrega's Orb
