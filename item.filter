@@ -291,7 +291,7 @@ ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
 ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
 //ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
 ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
-//ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
+ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
 ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
 //ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
 //ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
