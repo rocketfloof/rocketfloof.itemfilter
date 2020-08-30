@@ -422,7 +422,7 @@ ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Polearms  ███████ //
 //ItemDisplay[UNI !ID bar]: // 	Dimoak's Hew Bardiche
-//ItemDisplay[UNI !ID vou]: // 	Steelgoad Voulge
+ItemDisplay[UNI !ID vou]: // 	Steelgoad Voulge
 //ItemDisplay[UNI !ID scy]: // 	Soul Harvest Scythe
 ItemDisplay[UNI !ID pax]: // 	The Battlebranch Poleaxe
 ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
@@ -509,7 +509,7 @@ ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
 // ███████  Unique Assassin Weapons  ███████ //
 //ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
 ItemDisplay[UNI !ID 7wb]: %NAME% %RED%*NEED FOR ASSASSIN* // 	Jade Talon Wrist Sword
-//ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
+ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
 ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Sorc Orbs  ███████ //
