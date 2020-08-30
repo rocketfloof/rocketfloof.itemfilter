@@ -348,7 +348,7 @@ ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 //ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
 ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
 //ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
-//ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
+ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
 ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
 //ItemDisplay[UNI !ID gsd]: // 	The Patriarch Great Sword
 //─────────────────────────────────────────────────
@@ -572,7 +572,7 @@ ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
 //ItemDisplay[UNI !ID xea]: // 	Skin of the Vipermagi Serpentskin Armor
 //ItemDisplay[UNI !ID xla]: // 	Skin of the Flayed One Demonhide Armor
 //ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
-//ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
+ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
 //ItemDisplay[UNI !ID xcl]: // 	Crow Caw Tigulated Mail
 //ItemDisplay[UNI !ID xhn]: // 	Shaftstop Mesh Armor
 //ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
