@@ -558,7 +558,7 @@ ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
 ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
 ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
 ItemDisplay[UNI !ID scl]: // 	Hawkmail Scale Mail
-//ItemDisplay[UNI !ID chn]: // 	Sparking Mail Chain Mail
+ItemDisplay[UNI !ID chn]: // 	Sparking Mail Chain Mail
 //ItemDisplay[UNI !ID brs]: // 	Venom Ward Breast Plate
 ItemDisplay[UNI !ID spl]: // 	Iceblink Splint Mail
 //ItemDisplay[UNI !ID plt]: // 	Boneflesh Plate Mail
