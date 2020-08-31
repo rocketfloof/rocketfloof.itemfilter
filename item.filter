@@ -345,7 +345,7 @@ ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
 //ItemDisplay[UNI !ID bsd]: // 	Gridwold's Edge Broad Sword
 ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 //ItemDisplay[UNI !ID wsd]: // 	Culwen's Point War Sword
-//ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
+ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
 ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
 ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
 ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
