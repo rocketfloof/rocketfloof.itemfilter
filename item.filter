@@ -327,7 +327,7 @@ ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
 //ItemDisplay[UNI !ID 9fl]: // 	Baezil's Vortex Knout
 ItemDisplay[UNI !ID 9wh]: // 	Earthshaker Battle Hammer
 ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
-//ItemDisplay[UNI !ID 9gm]: // 	The Gavel of Pain Martel de Fer
+ItemDisplay[UNI !ID 9gm]: // 	The Gavel of Pain Martel de Fer
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
 ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
@@ -347,7 +347,7 @@ ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 //ItemDisplay[UNI !ID wsd]: // 	Culwen's Point War Sword
 //ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
 ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
-//ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
+ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
 ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
 ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
 //ItemDisplay[UNI !ID gsd]: // 	The Patriarch Great Sword
