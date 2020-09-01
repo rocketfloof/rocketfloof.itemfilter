@@ -17,8 +17,8 @@ ItemDisplay[GOLD<5000 CLVL>69]:
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Misc.  ███████ //
 //ItemDisplay[key]: // 	Keys
-ItemDisplay[tsc]: Town Portal // Town Portal Scroll
-ItemDisplay[isc]: Identify // 	Identify Scroll
+ItemDisplay[tsc]:-TP- // Town Portal Scroll
+ItemDisplay[isc]:-ID- // 	Identify Scroll
 //ItemDisplay[tbk]: // 	Town Portal Book
 //ItemDisplay[ibk]: // 	Identify Book
 //─────────────────────────────────────────────────────────────────────────────────────────────────
