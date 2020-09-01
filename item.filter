@@ -154,7 +154,7 @@ ItemDisplay[SET !ID lsd]: //Cleglaw's Tooth
 ItemDisplay[SET !ID xap]: //Cow King's Horns
 ItemDisplay[SET !ID stu]: //Cow King's Hide
 
-//ItemDisplay[SET !ID lbl]: //Death's Guard
+ItemDisplay[SET !ID lbl]: //Death's Guard
 //ItemDisplay[SET !ID lgl]: //Death's Hand
 ItemDisplay[SET !ID wsd]: //Death's Touch
 
@@ -192,7 +192,7 @@ ItemDisplay[SET !ID gts]: //Isenhart's Parry
 
 ItemDisplay[SET !ID amc]: //M'avina's Caster
 //ItemDisplay[SET !ID uld]: //M'avina's Embrace
-//ItemDisplay[SET !ID ci3]: //M'avina's True Sight
+ItemDisplay[SET !ID ci3]: //M'avina's True Sight
 ItemDisplay[SET !ID xtg]: //M'avina's Icy Clutch
 ItemDisplay[SET !ID zvb]: //M'avina's Tenet
 
@@ -215,13 +215,13 @@ ItemDisplay[SET !ID vbt]: //Sander's Riprap
 
 //ItemDisplay[SET !ID 7ls]: //Sazabi's Cobalt Redeemer
 ItemDisplay[SET !ID upl]: //Sazabi's Ghost Liberator
-//ItemDisplay[SET !ID xhl]: //Sazabi's Mental Sheath
+ItemDisplay[SET !ID xhl]: //Sazabi's Mental Sheath
 
 ItemDisplay[SET !ID hgl]: //Sigon's Gage
 ItemDisplay[SET !ID tow]: //Sigon's Guard
 ItemDisplay[SET !ID hbt]: //Sigon's Sabot
 ItemDisplay[SET !ID gth]: //Sigon's Shelter
-//ItemDisplay[SET !ID ghm]: //Sigon's Visor
+ItemDisplay[SET !ID ghm]: //Sigon's Visor
 ItemDisplay[SET !ID hbl]: //Sigon's Wrap
 
 //ItemDisplay[SET !ID oba]: //Tal Rasha's Lidless Eye
@@ -289,7 +289,7 @@ ItemDisplay[UNI !ID 9bt]: // 	Stormrider Tabar
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
 ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
-//ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
+ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
 ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
 ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
 ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
@@ -339,10 +339,10 @@ ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Swords  ███████ //
 ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
-//ItemDisplay[UNI !ID scm]: // 	Blood Crescent Scimitar
+ItemDisplay[UNI !ID scm]: // 	Blood Crescent Scimitar
 //ItemDisplay[UNI !ID sbr]: // 	Skewer of Krintiz Sabre
 //ItemDisplay[UNI !ID flc]: // 	Gleamscyche Falchion
-//ItemDisplay[UNI !ID bsd]: // 	Gridwold's Edge Broad Sword
+ItemDisplay[UNI !ID bsd]: // 	Gridwold's Edge Broad Sword
 ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
 //ItemDisplay[UNI !ID wsd]: // 	Culwen's Point War Sword
 ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
@@ -395,7 +395,7 @@ ItemDisplay[UNI !ID 9tk]: // 	Deathbit Battle Dart
 ItemDisplay[UNI !ID 9ta]: // 	The Scalper Francisca
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
-//ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
+ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
 //ItemDisplay[UNI !ID 7b8]: // 	Lacerator Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Javelins  ███████ //
@@ -476,7 +476,7 @@ ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
 //ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
 //─────────────────────────────────────────────────
 //ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
-//ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
+ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
 ItemDisplay[UNI !ID 6lw]: // 	Windforce Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Crossbows  ███████ //
@@ -598,7 +598,7 @@ ItemDisplay[UNI !ID sml]: // 	Umbral Disk Small Shield
 //ItemDisplay[UNI !ID lrg]: // 	Stormguild Large Shield
 ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
 ItemDisplay[UNI !ID tow]: // 	Bverrit Keep Tower Shield
-//ItemDisplay[UNI !ID gts]: // 	The Ward Gothic Shield
+ItemDisplay[UNI !ID gts]: // 	The Ward Gothic Shield
 ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
 ItemDisplay[UNI !ID spk]: // 	Swordback Hold Spiked Shield
 //─────────────────────────────────────────────────
