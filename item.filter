@@ -721,10 +721,10 @@ ItemDisplay[SET]: %NAME%
 //║ ////////////////////////////////////  ▬▬▬▬▬ BASES ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[fla NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*HOTO*
+//ItemDisplay[fla NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*HOTO*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[fla NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*CTA*
-ItemDisplay[crs NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*CTA*
+//ItemDisplay[fla NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*CTA*
+//ItemDisplay[crs NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*CTA*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(amb OR amc) NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*FAITH(ZON)*
 ItemDisplay[(6cb OR 6hb) NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*FAITH(MERC)*
@@ -745,7 +745,7 @@ ItemDisplay[(xtp OR uui OR utp) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*ENIG
 ItemDisplay[(uui OR utp) NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*COH&FORT*
 ItemDisplay[EQ2 ELT ETH NMAG SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*FORT(MERC)*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(uap OR ukp OR usk OR uh9) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*DREAM*
+//ItemDisplay[(uap OR ukp OR usk OR uh9) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*DREAM*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[uit NMAG !ETH SOCK=4]: %NAME% [%SOCKETS%] %RED%*SPIRIT&PHOENIX*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -1077,13 +1077,13 @@ ItemDisplay[9lw !CLVL<19]: // 	Greater Claws
 ItemDisplay[9tw !CLVL<19]: // 	Greater Talons
 ItemDisplay[9qr !CLVL<19]: // 	Scissors Quhab
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE 7ar !CLVL<59]: // 	Suwayyah
-ItemDisplay[!RARE 7wb !CLVL<59]: // 	Wrist Sword
-ItemDisplay[!RARE 7xf !CLVL<59]: // 	War Fist
-ItemDisplay[!RARE 7cs !CLVL<59]: // 	Battle Cestus
-ItemDisplay[!RARE 7lw !CLVL<59]: // 	Feral Claws
-ItemDisplay[!RARE 7tw !CLVL<59]: // 	Runic Talons
-ItemDisplay[!RARE 7qr !CLVL<59]: // 	Scissors Suwayyah
+ItemDisplay[7ar !CLVL<59]: // 	Suwayyah
+ItemDisplay[7wb !CLVL<59]: // 	Wrist Sword
+ItemDisplay[7xf !CLVL<59]: // 	War Fist
+ItemDisplay[7cs !CLVL<59]: // 	Battle Cestus
+ItemDisplay[7lw !CLVL<59]: // 	Feral Claws
+ItemDisplay[7tw !CLVL<59]: // 	Runic Talons
+ItemDisplay[7qr !CLVL<59]: // 	Scissors Suwayyah
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Sorc Orbs  ███████ //
 ItemDisplay[(CL6 AND ETH) !NORM]:
