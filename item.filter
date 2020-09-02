@@ -410,7 +410,7 @@ ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
 ItemDisplay[UNI !ID spt]: // 	Lance of Yaggai Spetum
 ItemDisplay[UNI !ID pik]: // 	The Tannr Gorerod Pike
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9sr]: // 	The Impaler War Spear
+ItemDisplay[UNI !ID 9sr]: // 	The Impaler War Spear
 //ItemDisplay[UNI !ID 9tr]: // 	Kelpie Snare Fuscina
 //ItemDisplay[UNI !ID 9br]: // 	Soulfeast Tine War Fork
 //ItemDisplay[UNI !ID 9st]: // 	Hone Sundan Yari
