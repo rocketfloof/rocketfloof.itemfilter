@@ -24,6 +24,7 @@ ItemDisplay[isc]:-ID- // 	Identify Scroll
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
 //ItemDisplay[amu]: // 	amulet
+ItemDisplay[rin CLVL<30]: %NAME%
 ItemDisplay[!UNI !RARE rin]: // rings
 //ItemDisplay[jew]: // 	Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
