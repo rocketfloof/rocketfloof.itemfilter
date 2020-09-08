@@ -754,6 +754,7 @@ ItemDisplay[(7wa OR 7fb OR 7gd) NMAG ETH SOCK=5]: ETH %NAME% [%SOCKETS%] %RED%*D
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(7wa OR 7p7 OR 7gd) NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*BOTD*
 ItemDisplay[7gd NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*BOTD*
+ItemDisplay[7gd NMAG ETH SOCK=0]: ETH %NAME% [%SOCKETS%] %RED%*BOTD*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(7wa OR 7cr) NMAG !ETH SOCK=6]: %NAME% [%SOCKETS%] %RED%*LAST WISH*
 ItemDisplay[(7wa OR 7cr) NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*LAST WISH(MERC)*
