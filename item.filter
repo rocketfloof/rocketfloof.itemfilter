@@ -567,7 +567,7 @@ ItemDisplay[UNI !ID fld]: // 	Rockfleece Field Plate
 ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
 ItemDisplay[UNI !ID ful]: // 	Goldskin Full Plate Mail
 //ItemDisplay[UNI !ID aar]: // 	Silks of the Victor Ancient Armor
-//ItemDisplay[UNI !ID ltp]: // 	Heavenly Garb Light Plate
+ItemDisplay[UNI !ID ltp]: // 	Heavenly Garb Light Plate
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
 //ItemDisplay[UNI !ID xea]: // 	Skin of the Vipermagi Serpentskin Armor
