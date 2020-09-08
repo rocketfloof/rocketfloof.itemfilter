@@ -737,18 +737,18 @@ ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*OBED
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //ItemDisplay[(2ax OR mpi OR wax OR 92a) NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST&GRIEF*
 //ItemDisplay[gsc NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*BEAST*
-ItemDisplay[7cr NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*GRIEF*
+//ItemDisplay[7cr NMAG SOCK=5]: %NAME% [%SOCKETS%] %RED%*GRIEF*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[CL5 NMAG !ETH ELT SOCK=3 SK274>2]: %NAME% [%SOCKETS%] %RED%*CHAOS*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(xtp OR uui OR utp) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*ENIGMA*
+ItemDisplay[(uui OR utp) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*ENIGMA*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(uui OR utp) NMAG SOCK=4]: %NAME% [%SOCKETS%] %RED%*COH&FORT*
 ItemDisplay[EQ2 ELT ETH NMAG SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*FORT(MERC)*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //ItemDisplay[(uap OR ukp OR usk OR uh9) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*DREAM*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[uit NMAG !ETH SOCK=4]: %NAME% [%SOCKETS%] %RED%*SPIRIT&PHOENIX*
+ItemDisplay[uit SUP NMAG !ETH SOCK=4]: %NAME% [%SOCKETS%] %RED%*SPIRIT&PHOENIX*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[(7wa OR 7fb OR 7gd) NMAG ETH SOCK=5]: ETH %NAME% [%SOCKETS%] %RED%*DEATH*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
