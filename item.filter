@@ -762,6 +762,8 @@ ItemDisplay[(7wa OR 7cr) NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*LAST WIS
 //ItemDisplay[WP3 !ETH ELT SOCK=3]: %NAME% [%SOCKETS%] %RED%*LAWBRINGER(MERC)*
 ItemDisplay[WP3 ETH ELT SOCK=3]: ETH %NAME% [%SOCKETS%] %RED%*LAWBRINGER(MERC)*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
+ItemDisplay[CL3 RES>29 ETH SOCK=0]: ETH %NAME% [%SOCKETS%] %RED%*EXILE*
+ItemDisplay[CL3 RES>29 ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*EXILE*
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ ////////////////////////////////  ▬▬▬▬▬ REGULAR ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
