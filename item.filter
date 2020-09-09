@@ -756,8 +756,8 @@ ItemDisplay[(7wa OR 7p7 OR 7gd) NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*B
 ItemDisplay[7gd NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*BOTD*
 ItemDisplay[7gd NMAG ETH SOCK=0]: ETH %NAME% [%SOCKETS%] %RED%*BOTD*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(7wa OR 7cr) NMAG !ETH SOCK=6]: %NAME% [%SOCKETS%] %RED%*LAST WISH*
-ItemDisplay[(7wa OR 7cr) NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*LAST WISH(MERC)*
+//ItemDisplay[(7wa OR 7cr) NMAG !ETH SOCK=6]: %NAME% [%SOCKETS%] %RED%*LAST WISH*
+//ItemDisplay[(7wa OR 7cr) NMAG ETH SOCK=6]: ETH %NAME% [%SOCKETS%] %RED%*LAST WISH(MERC)*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //ItemDisplay[WP3 !ETH ELT SOCK=3]: %NAME% [%SOCKETS%] %RED%*LAWBRINGER(MERC)*
 ItemDisplay[WP3 ETH ELT SOCK=3]: ETH %NAME% [%SOCKETS%] %RED%*LAWBRINGER(MERC)*
