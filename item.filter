@@ -29,9 +29,9 @@ ItemDisplay[!UNI !RARE rin]: // rings
 //ItemDisplay[jew]: // 	Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
-ItemDisplay[!UNI !CLVL<30 aqv]: //	Rusted Arrows
+ItemDisplay[!RARE !UNI !CLVL<30 aqv]: //	Rusted Arrows
 ItemDisplay[cqv]: // 	Rusted Bolts
-ItemDisplay[!UNI !CLVL<30 aq2]: // 	Arrows
+ItemDisplay[!RARE !UNI !CLVL<30 aq2]: // 	Arrows
 ItemDisplay[cq2]: // 	Bolts
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gems  ███████ //
