@@ -741,9 +741,9 @@ ItemDisplay[(WP7 OR WP8) NMAG ELT ETH SOCK=4]: ETH %NAME% [%SOCKETS%] %RED%*OBED
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 ItemDisplay[CL5 NMAG !ETH ELT SOCK=3 SK274>2]: %NAME% [%SOCKETS%] %RED%*CHAOS*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(uui OR utp) SUP !ETH NMAG (SOCK=3 OR SOCK=0)]: %NAME% [%SOCKETS%] %RED%*ENIGMA*
+ItemDisplay[(uui OR utp) DEF>499 !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*ENIGMA*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[(uui OR utp) SUP NMAG (SOCK=4 OR SOCK=0)]: %NAME% [%SOCKETS%] %RED%*COH&FORT*
+ItemDisplay[(uui OR utp) DEF>499 NMAG !ETH (SOCK=4 OR SOCK=0)]: %NAME% [%SOCKETS%] %RED%*COH&FORT*
 ItemDisplay[EQ2 ETH NMAG DEF>799 (SOCK=0 OR SOCK=4)]: ETH %NAME% [%SOCKETS%] %RED%*FORT(MERC)*
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //ItemDisplay[(uap OR ukp OR usk OR uh9) !ETH NMAG SOCK=3]: %NAME% [%SOCKETS%] %RED%*DREAM*
