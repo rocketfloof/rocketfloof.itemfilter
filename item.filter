@@ -21,6 +21,7 @@ ItemDisplay[tsc]:-TP- // Town Portal Scroll
 ItemDisplay[isc]:-ID- // 	Identify Scroll
 //ItemDisplay[tbk]: // 	Town Portal Book
 //ItemDisplay[ibk]: // 	Identify Book
+ItemDisplay[(ma1 OR ma2 OR ma3 OR ma4 OR ma5 OR ma6 OR ma7 OR ma8 OR ma9 OR ma10)]: %RED%000%YELLOW%%NAME%%RED%000
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
 //ItemDisplay[amu]: // 	amulet
