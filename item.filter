@@ -26,7 +26,7 @@ ItemDisplay[isc]:-ID- // 	Identify Scroll
 ItemDisplay[(ma1 OR ma2 OR ma3 OR ma4 OR ma5 OR ma6 OR ma7 OR ma8 OR ma9 OR ma10) !ID]: %RED%000%YELLOW%%NAME%%RED%000
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
-ItemDisplay[(amu OR rin) !ID UNI]: %RED%0000000000 %GOLD%%NAME% %0000000000%// 	amulet
+ItemDisplay[(amu OR rin) !ID UNI]: %RED%0000000000 %GOLD%%NAME% %RED%0000000000// 	amulet
 ItemDisplay[rin CLVL<30]: %NAME%
 ItemDisplay[!UNI !RARE rin]: // rings
 //ItemDisplay[jew]: // 	Jewel
