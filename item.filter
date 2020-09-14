@@ -97,19 +97,19 @@ ItemDisplay[r17]: %NAME% %GRAY%[17] // 	Lum Rune
 ItemDisplay[r18]: %NAME% %GRAY%[18] // 	Ko Rune
 ItemDisplay[r19]: %NAME% %GRAY%[19] // 	Fal Rune
 ItemDisplay[r20]: %NAME% %GRAY%[20] // 	Lem Rune
-ItemDisplay[r21]: %NAME% %GRAY%[21] // 	Pul Rune
-ItemDisplay[r22]: %NAME% %GRAY%[22] // 	Um Rune
-ItemDisplay[r23]: %NAME% %GRAY%[23] // 	Mal Rune
-ItemDisplay[r24]: %NAME% %GRAY%[24] // 	Ist Rune
-ItemDisplay[r25]: %NAME% %GRAY%[25] // 	Gul Rune
-ItemDisplay[r26]: %NAME% %GRAY%[26] // 	Vex Rune
-ItemDisplay[r27]: %NAME% %GRAY%[27] // 	Ohm Rune
-ItemDisplay[r28]: %NAME% %GRAY%[28] // 	Lo Rune
-ItemDisplay[r29]: %NAME% %GRAY%[29] // 	Sur Rune
-ItemDisplay[r30]: %NAME% %GRAY%[30] // 	Ber Rune
-ItemDisplay[r31]: %NAME% %GRAY%[31] // 	Jah Rune
-ItemDisplay[r32]: %NAME% %GRAY%[32] // 	Cham Rune
-ItemDisplay[r33]: %NAME% %GRAY%[33] // 	Zod Rune
+ItemDisplay[r21]: %RED%000%ORANGE%%NAME% %GRAY%[21]%RED%000 // 	Pul Rune
+ItemDisplay[r22]: %RED%000%ORANGE%%NAME% %GRAY%[22]%RED%000 // 	Um Rune
+ItemDisplay[r23]: %RED%0000000%ORANGE%%NAME% %GRAY%[23]%RED%0000000 // 	Mal Rune
+ItemDisplay[r24]: %RED%0000000%ORANGE%%NAME% %GRAY%[24]%RED%0000000 // 	Ist Rune
+ItemDisplay[r25]: %RED%0000000000%ORANGE%%NAME% %GRAY%[25]%RED%0000000000 // 	Gul Rune
+ItemDisplay[r26]: %RED%0000000000%ORANGE%%NAME% %GRAY%[26]%RED%0000000000 // 	Vex Rune
+ItemDisplay[r27]: %RED%0000000000%ORANGE%%NAME% %GRAY%[27]%RED%0000000000 // 	Ohm Rune
+ItemDisplay[r28]: %RED%0000000000%ORANGE%%NAME% %GRAY%[28]%RED%0000000000 // 	Lo Rune
+ItemDisplay[r29]: %RED%0000000000%ORANGE%%NAME% %GRAY%[29]%RED%0000000000 // 	Sur Rune
+ItemDisplay[r30]: %RED%0000000000%ORANGE%%NAME% %GRAY%[30]%RED%0000000000 // 	Ber Rune
+ItemDisplay[r31]: %RED%0000000000%ORANGE%%NAME% %GRAY%[31]%RED%0000000000 // 	Jah Rune
+ItemDisplay[r32]: %RED%0000000000%ORANGE%%NAME% %GRAY%[32]%RED%0000000000 // 	Cham Rune
+ItemDisplay[r33]: %RED%0000000000%ORANGE%%NAME% %GRAY%[33]%RED%0000000000 // 	Zod Rune
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wirt's Leg  ███████ //
 //ItemDisplay[leg]: Wirt's Leg
@@ -177,11 +177,11 @@ ItemDisplay[SET !ID xcl]: //Hwanin's Refuge Tigulated Mail
 ItemDisplay[SET !ID mbl]: //Hwanin's Blessing belt
 
 ItemDisplay[SET !ID 7m7]: //Immortal King's Stone Crusher
-//ItemDisplay[SET !ID uar]: //Immortal King's Soul Cage
+ItemDisplay[SET !ID uar]: //Immortal King's Soul Cage
 ItemDisplay[SET !ID ba5]: //Immortal King's Will
-//ItemDisplay[SET !ID xhg]: //Immortal King's Forge
-//ItemDisplay[SET !ID zhb]: //Immortal King's Detail
-//ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
+ItemDisplay[SET !ID xhg]: //Immortal King's Forge
+ItemDisplay[SET !ID zhb]: //Immortal King's Detail
+ItemDisplay[SET !ID xhb]: //Immortal King's Pillar
 
 ItemDisplay[SET !ID cap]: //Infernal Cranium and Sander's Paragon
 ItemDisplay[SET !ID tbl]: //Infernal Sign and Iratha's Cord
@@ -1000,17 +1000,17 @@ ItemDisplay[cst !CLVL<19]: // 	Gnarled Staff
 ItemDisplay[bst !CLVL<19]: // 	Battle Staff
 ItemDisplay[wst !CLVL<19]: // 	War Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[8ss]: // 	Jo Staff
-//ItemDisplay[8ls]: // 	Quarterstaff
-//ItemDisplay[8cs]: // 	Cedar Staff
-//ItemDisplay[8bs]: // 	Gothic Staff
-//ItemDisplay[8ws]: // 	Rune Staff
+ItemDisplay[8ss !CLVL<49]: // 	Jo Staff
+ItemDisplay[8ls !CLVL<49]: // 	Quarterstaff
+ItemDisplay[8cs !CLVL<49]: // 	Cedar Staff
+ItemDisplay[8bs !CLVL<49]: // 	Gothic Staff
+ItemDisplay[8ws !CLVL<49]: // 	Rune Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[6ss]: // 	Walking Stick
-//ItemDisplay[6ls]: // 	Stalagmite
-//ItemDisplay[6cs]: // 	Elder Staff
-//ItemDisplay[6bs]: // 	Shillelah
-//ItemDisplay[6ws]: // 	Archon Staff
+ItemDisplay[6ss !CLVL<49]: // 	Walking Stick
+ItemDisplay[6ls !CLVL<49]: // 	Stalagmite
+ItemDisplay[6cs !CLVL<49]: // 	Elder Staff
+ItemDisplay[6bs !CLVL<49]: // 	Shillelah
+ItemDisplay[6ws !CLVL<49]: // 	Archon Staff
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Bows  ███████ //
 ItemDisplay[sbw !CLVL<19]: // 	Short Bow
@@ -1063,13 +1063,13 @@ ItemDisplay[scp !CLVL<19]: // 	Scepter
 ItemDisplay[gsc !CLVL<19]: // 	Grand Scepter
 ItemDisplay[wsp !CLVL<19]: // 	War Scepter
 //─────────────────────────────────────────────────
-//ItemDisplay[9sc]: // 	Rune Scepter
-//ItemDisplay[9qs]: // 	Holy Water Sprinkler
-//ItemDisplay[9ws]: // 	Divine Scepter
+ItemDisplay[9sc !CLVL<49]: // 	Rune Scepter
+ItemDisplay[9qs !CLVL<49]: // 	Holy Water Sprinkler
+ItemDisplay[9ws !CLVL<49]: // 	Divine Scepter
 //─────────────────────────────────────────────────
-//ItemDisplay[7sc]: // 	Mighty Scepter
-//ItemDisplay[7qs]: // 	Seraph Rod
-//ItemDisplay[7ws]: //	Caduceus
+ItemDisplay[7sc !CLVL<49]: // 	Mighty Scepter
+ItemDisplay[7qs !CLVL<49]: // 	Seraph Rod
+ItemDisplay[7ws !CLVL<49]: //	Caduceus
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Assassin Weapons  ███████ //
 ItemDisplay[ktr !CLVL<19]: // 	Katar
@@ -1105,17 +1105,17 @@ ItemDisplay[ob3 !CLVL<19]: // 	Smoked Sphere
 ItemDisplay[ob4 !CLVL<19]: // 	Clasped Orb
 ItemDisplay[ob5 !CLVL<19]: // 	Jared's Stone
 //─────────────────────────────────────────────────
-//ItemDisplay[ob6]: // 	Glowing Orb
-//ItemDisplay[ob7]: // 	Crystalline Globe
-//ItemDisplay[ob8]: // 	Cloudy Sphere
-//ItemDisplay[ob9]: // 	Sparkling Ball
-//ItemDisplay[oba]: // 	Swirling Crystal
+ItemDisplay[ob6 !CLVL<49]: // 	Glowing Orb
+ItemDisplay[ob7 !CLVL<49]: // 	Crystalline Globe
+ItemDisplay[ob8 !CLVL<49]: // 	Cloudy Sphere
+ItemDisplay[ob9 !CLVL<49]: // 	Sparkling Ball
+ItemDisplay[oba !CLVL<49]: // 	Swirling Crystal
 //─────────────────────────────────────────────────
-//ItemDisplay[obb]: // 	Heavenly Stone
-//ItemDisplay[obc]: // 	Eldritch Orb
-//ItemDisplay[obd]: // 	Demon Heart
-//ItemDisplay[obe]: // 	Vortex Orb
-//ItemDisplay[obf]: // 	Dimensional Shard
+ItemDisplay[obb !CLVL<49]: // 	Heavenly Stone
+ItemDisplay[obc !CLVL<49]: // 	Eldritch Orb
+ItemDisplay[obd !CLVL<49]: // 	Demon Heart
+ItemDisplay[obe !CLVL<49]: // 	Vortex Orb
+ItemDisplay[obf !CLVL<49]: // 	Dimensional Shard
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Amazon Bows  ███████ //
 ItemDisplay[am1 !CLVL<19]: // 	Stag Bow
@@ -1184,10 +1184,10 @@ ItemDisplay[ltp !CLVL<19]: // 	Light Plate
 ItemDisplay[xui !CLVL<59]: // 	Ghost Armor
 ItemDisplay[xea !CLVL<59]: // 	Serpentskin Armor
 ItemDisplay[xla !CLVL<59]: // 	Demonhide Armor
-//ItemDisplay[xtu]: // 	Trellised Armor
-//ItemDisplay[xng]: // 	Linked Mail
-//ItemDisplay[xcl]: // 	Tigulated Mail
-//ItemDisplay[xhn]: // 	Mesh Armor
+ItemDisplay[xtu !CLVL<49]: // 	Trellised Armor
+ItemDisplay[xng !CLVL<49]: // 	Linked Mail
+ItemDisplay[xcl !CLVL<49]: // 	Tigulated Mail
+ItemDisplay[xhn !CLVL<49]: // 	Mesh Armor
 //ItemDisplay[xrs]: // 	Cuirass
 //ItemDisplay[xpl]: // 	Russet Armor
 //ItemDisplay[xlt]: // 	Templar Coat
@@ -1235,7 +1235,7 @@ ItemDisplay[xpk !CLVL<59]: // 	Barbed Shield
 ItemDisplay[uuc !CLVL<59]: // 	Heater
 ItemDisplay[uml !CLVL<59]: // 	Luna
 ItemDisplay[urg !CLVL<59]: // 	Hyperion
-//ItemDisplay[uit]: // 	Monarch
+ItemDisplay[uit !CLVL<49]: // 	Monarch
 ItemDisplay[uow !CLVL<59]: // 	Aegis
 ItemDisplay[uts !CLVL<59]: // 	Ward
 ItemDisplay[ush]: %YELLOW%$$ %NAME% $$ // 	Troll Nest
@@ -1249,36 +1249,36 @@ ItemDisplay[mgl !CLVL<19]: // 	Chain Gloves
 ItemDisplay[tgl !CLVL<19]: // 	Light Gauntlets
 ItemDisplay[hgl !CLVL<19]: // 	Gauntlets
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE !CLVL<59 xlg]: // 	Demonhide Gloves
-ItemDisplay[!RARE !CLVL<59 xvg]: // 	Sharkskin Gloves
-ItemDisplay[!RARE !CLVL<59 xmg]: // 	Heavy Bracers
-ItemDisplay[!RARE !CLVL<59 xtg]: // 	Battle Gauntlets
-ItemDisplay[!RARE !CLVL<59 xhg]: // 	War Gauntlets
+ItemDisplay[!CLVL<59 xlg]: // 	Demonhide Gloves
+ItemDisplay[!CLVL<59 xvg]: // 	Sharkskin Gloves
+ItemDisplay[!CLVL<59 xmg]: // 	Heavy Bracers
+ItemDisplay[!CLVL<59 xtg]: // 	Battle Gauntlets
+ItemDisplay[!CLVL<59 xhg]: // 	War Gauntlets
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE !CLVL<59 ulg]: // 	Bramble Mitts
-ItemDisplay[!RARE !CLVL<59 uvg]: // 	Vampirebone Gloves
-ItemDisplay[!RARE umg]: %YELLOW%$$ %NAME% $$  // 	Vambraces
-ItemDisplay[!RARE !CLVL<59 utg]: // 	Crusader Gauntlets
-ItemDisplay[!RARE !CLVL<59 uhg]: // 	Ogre Gauntlets
+ItemDisplay[!CLVL<59 ulg]: // 	Bramble Mitts
+ItemDisplay[!CLVL<59 uvg]: // 	Vampirebone Gloves
+ItemDisplay[umg]: %YELLOW%$$ %NAME% $$  // 	Vambraces
+ItemDisplay[!CLVL<59 utg]: // 	Crusader Gauntlets
+ItemDisplay[!CLVL<59 uhg]: // 	Ogre Gauntlets
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Boots  ███████ //
 ItemDisplay[lbt !CLVL<19]: // 	Leather Boots
 ItemDisplay[vbt !CLVL<19]: // 	Heavy Boots
 ItemDisplay[mbt !CLVL<19]: // 	Chain Boots
-ItemDisplay[!RARE !CLVL<59 tbt]: // 	Light Plate Boots
-ItemDisplay[!RARE !CLVL<59 hbt]: // 	Greaves
+ItemDisplay[!CLVL<59 tbt]: // 	Light Plate Boots
+ItemDisplay[!CLVL<59 hbt]: // 	Greaves
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE !CLVL<59 xlb]: // 	Demonhide Boots
-ItemDisplay[!RARE !CLVL<59 xvb]: // 	Sharkskin Boots
-ItemDisplay[!RARE !CLVL<59 xmb]: // 	Mesh Boots
-ItemDisplay[!RARE !CLVL<59 xtb]: // 	Battle Boots
-ItemDisplay[!RARE !CLVL<59 xhb]: // 	War Boots
+ItemDisplay[!CLVL<59 xlb]: // 	Demonhide Boots
+ItemDisplay[!CLVL<59 xvb]: // 	Sharkskin Boots
+ItemDisplay[!CLVL<59 xmb]: // 	Mesh Boots
+ItemDisplay[!CLVL<59 xtb]: // 	Battle Boots
+ItemDisplay[!CLVL<59 xhb]: // 	War Boots
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE !CLVL<59 ulb]: // 	Wyrmhide Boots
-ItemDisplay[!RARE !CLVL<59 uvb]: // 	Scarabshell Boots
-ItemDisplay[!RARE !CLVL<59 umb]: // 	Boneweave Boots
-ItemDisplay[!RARE !CLVL<59 utb]: // 	Mirrored Boots
-ItemDisplay[!RARE !CLVL<59 uhb]: // 	Myrmidon Greaves
+ItemDisplay[!CLVL<59 ulb]: // 	Wyrmhide Boots
+ItemDisplay[!CLVL<59 uvb]: // 	Scarabshell Boots
+ItemDisplay[!CLVL<59 umb]: // 	Boneweave Boots
+ItemDisplay[!CLVL<59 utb]: // 	Mirrored Boots
+ItemDisplay[!CLVL<59 uhb]: // 	Myrmidon Greaves
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Belts  ███████ //
 ItemDisplay[lbl !CLVL<19]: // 	Sash
@@ -1293,32 +1293,32 @@ ItemDisplay[zmb !CLVL<59]: // 	Mesh Belt
 ItemDisplay[ztb !CLVL<59]: // 	Battle Belt
 ItemDisplay[zhb !CLVL<59]: // 	War Belt
 //─────────────────────────────────────────────────
-ItemDisplay[!RARE !CLVL<59 ulc]: // 	Spiderweb Sash
-ItemDisplay[!RARE !CLVL<59 uvc]: // 	Vampirefang Belt
-ItemDisplay[!RARE !CLVL<59 umc]: // 	Mithril Coil
-ItemDisplay[!RARE !CLVL<59 utc]: // 	Troll Belt
-ItemDisplay[!RARE !CLVL<59 uhc]: // 	Colossus Girdle
+ItemDisplay[!CLVL<59 ulc]: // 	Spiderweb Sash
+ItemDisplay[!CLVL<59 uvc]: // 	Vampirefang Belt
+ItemDisplay[!CLVL<59 umc]: // 	Mithril Coil
+ItemDisplay[!CLVL<59 utc]: // 	Troll Belt
+ItemDisplay[!CLVL<59 uhc]: // 	Colossus Girdle
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Druid Pelts  ███████ //
 ItemDisplay[(CL1 AND ETH) !NORM]:
 ItemDisplay[(CL1 AND NMAG) !NORM]: %NAME% [%PRICE%]
-ItemDisplay[!RARE dr1]: // 	Wolf Head
-ItemDisplay[!RARE dr2]: // 	Hawk Helm
-ItemDisplay[!RARE dr3]: // 	Antlers
-ItemDisplay[!RARE dr4]: // 	Falcon Mask
-ItemDisplay[!RARE dr5]: // 	Spirit Mask
+ItemDisplay[dr1 !CLVL<49]: // 	Wolf Head
+ItemDisplay[dr2 !CLVL<49]: // 	Hawk Helm
+ItemDisplay[dr3 !CLVL<49]: // 	Antlers
+ItemDisplay[dr4 !CLVL<49]: // 	Falcon Mask
+ItemDisplay[dr5 !CLVL<49]: // 	Spirit Mask
 //─────────────────────────────────────────────────
-//ItemDisplay[dr6]: // 	Alpha Helm
-//ItemDisplay[dr7]: // 	Griffon Headress
-//ItemDisplay[dr8]: // 	Hunter's Guise
-//ItemDisplay[dr9]: // 	Sacred Feathers
-//ItemDisplay[dra]: // 	Totemic Mask
+ItemDisplay[dr6 !CLVL<49]: // 	Alpha Helm
+ItemDisplay[dr7 !CLVL<49]: // 	Griffon Headress
+ItemDisplay[dr8 !CLVL<49]: // 	Hunter's Guise
+ItemDisplay[dr9 !CLVL<49]: // 	Sacred Feathers
+ItemDisplay[dra !CLVL<49]: // 	Totemic Mask
 //─────────────────────────────────────────────────
-//ItemDisplay[drb]: // 	Blood Spirt
-//ItemDisplay[drc]: // 	Sun Spirit
-//ItemDisplay[drd]: // 	Earth Spirit
-//ItemDisplay[dre]: // 	Sky Spirit
-//ItemDisplay[drf]: // 	Dream Spirit
+ItemDisplay[drb !CLVL<49]: // 	Blood Spirt
+ItemDisplay[drc !CLVL<49]: // 	Sun Spirit
+ItemDisplay[drd !CLVL<49]: // 	Earth Spirit
+ItemDisplay[dre !CLVL<49]: // 	Sky Spirit
+ItemDisplay[drf !CLVL<49]: // 	Dream Spirit
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Barb Helms  ███████ //
 ItemDisplay[ba1 !CLVL<19]: // 	Jawbone Cap
@@ -1361,23 +1361,23 @@ ItemDisplay[!CLVL<59 paf]: // 	Vortex Shield
 // ███████  Necro Shields  ███████ //
 ItemDisplay[(CL4 AND ETH) !NORM]:
 ItemDisplay[(CL4 AND NMAG) !NORM]: %NAME% [%PRICE%]
-ItemDisplay[!RARE !CLVL<59 ne1]: // 	Preserved Head
-ItemDisplay[!RARE !CLVL<59 ne2]: // 	Zombie Head
-ItemDisplay[!RARE !CLVL<59 ne3]: // 	Unraveller Head
-ItemDisplay[!RARE !CLVL<59 ne4]: // 	Gargoyle Head
-ItemDisplay[!RARE !CLVL<59 ne5]: // 	Demon Head
+ItemDisplay[!CLVL<59 ne1]: // 	Preserved Head
+ItemDisplay[!CLVL<59 ne2]: // 	Zombie Head
+ItemDisplay[!CLVL<59 ne3]: // 	Unraveller Head
+ItemDisplay[!CLVL<59 ne4]: // 	Gargoyle Head
+ItemDisplay[!CLVL<59 ne5]: // 	Demon Head
 //─────────────────────────────────────────────────
-//ItemDisplay[ne6]: // 	Mummified Trophy
-//ItemDisplay[ne7]: // 	Fetish Trophy
-//ItemDisplay[ne8]: // 	Sexton Trophy
-//ItemDisplay[ne9]: // 	Cantor Trophy
-//ItemDisplay[nea]: // 	Hierophant Trophy
+ItemDisplay[ne6 !CLVL<49]: // 	Mummified Trophy
+ItemDisplay[ne7 !CLVL<49]: // 	Fetish Trophy
+ItemDisplay[ne8 !CLVL<49]: // 	Sexton Trophy
+ItemDisplay[ne9 !CLVL<49]: // 	Cantor Trophy
+ItemDisplay[nea !CLVL<49]: // 	Hierophant Trophy
 //─────────────────────────────────────────────────
-//ItemDisplay[neb]: // 	Minion Skull
-//ItemDisplay[neg]: // 	Hellspawn Skull
-//ItemDisplay[ned]: // 	Overseer Skull
-//ItemDisplay[nee]: // 	Succubae Skull
-//ItemDisplay[nef]: // 	Bloodlord Skull
+ItemDisplay[neb !CLVL<49]: // 	Minion Skull
+ItemDisplay[neg !CLVL<49]: // 	Hellspawn Skull
+ItemDisplay[ned !CLVL<49]: // 	Overseer Skull
+ItemDisplay[nee !CLVL<49]: // 	Succubae Skull
+ItemDisplay[nef !CLVL<49]: // 	Bloodlord Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Other Headgear  ███████ //
 ItemDisplay[!(RARE OR MAG) !CLVL<19 ci0]: // 	Circlet
