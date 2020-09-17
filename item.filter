@@ -16,7 +16,7 @@ ItemDisplay[GOLD<3000 CLVL>59]:
 ItemDisplay[GOLD<5000 CLVL>69]:
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Misc.  ███████ //
-//ItemDisplay[key]: // 	Keys
+ItemDisplay[key]: // 	Keys
 ItemDisplay[tsc]: // Town Portal Scroll
 ItemDisplay[isc]: // 	Identify Scroll
 //ItemDisplay[tbk]: // 	Town Portal Book
@@ -814,15 +814,15 @@ ItemDisplay[ywn !CLVL<19]: // 	Yew Wand
 ItemDisplay[bwn !CLVL<19]: // 	Bone Wand
 ItemDisplay[gwn !CLVL<19]: // 	Grim Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[9wn]: // 	Burnt Wand
-//ItemDisplay[9yw]: // 	Petrified Wand
-//ItemDisplay[9bw]: // 	Tomb Wand
-//ItemDisplay[9gw]: // 	Grave Wand
+ItemDisplay[9wn !CLVL<49]: // 	Burnt Wand
+ItemDisplay[9yw !CLVL<49]: // 	Petrified Wand
+ItemDisplay[9bw !CLVL<49]: // 	Tomb Wand
+ItemDisplay[9gw !CLVL<49]: // 	Grave Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[7wn]: // 	Polished Wand
-//ItemDisplay[7yw]: // 	Ghost Wand
-//ItemDisplay[7bw]: // 	Lich Wand
-//ItemDisplay[7gw]: // 	Unearthed Wand
+ItemDisplay[7wn !CLVL<49]: // 	Polished Wand
+ItemDisplay[7yw !CLVL<49]: // 	Ghost Wand
+ItemDisplay[7bw !CLVL<49]: // 	Lich Wand
+ItemDisplay[7gw !CLVL<49]: // 	Unearthed Wand
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Maces  ███████ //
 ItemDisplay[clb !CLVL<19]: // 	Club
