@@ -27,9 +27,10 @@ ItemDisplay[(ma1 OR ma2 OR ma3 OR ma4 OR ma5 OR ma6 OR ma7 OR ma8 OR ma9 OR ma10
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
 ItemDisplay[(amu OR rin OR jew) !ID UNI]: %RED%0000000000 %GOLD%%NAME% %RED%0000000000
-//ItemDisplay[rin CLVL<30]: %NAME%
-//ItemDisplay[!UNI !RARE rin]: // rings
-//ItemDisplay[jew]: // 	Jewel
+ItemDisplay[rin CLVL<30]: %NAME%
+ItemDisplay[amu MAG !ID ILVL<60]:
+ItemDisplay[amu RARE !ID ILVL<40]:
+ItemDisplay[jew ILVL<35]: // 	Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
 ItemDisplay[!RARE !UNI !CLVL<30 aqv]: //	Rusted Arrows
