@@ -56,7 +56,7 @@ ItemDisplay[(hp2 OR mp2) !CLVL<24]: // 	Light Healing/Mana Potion
 ItemDisplay[(hp3 OR mp3) !CLVL<39]: // 	Healing/Mana Potion
 ItemDisplay[hp4]: Greater Healing // 	Greater Healing Potion
 ItemDisplay[mp4]: Greater Mana // 	Greater Mana Potion
-ItemDisplay[hp5 OR mp5 OR yps]:
+//ItemDisplay[hp5 OR mp5 OR yps]:
 ItemDisplay[hp5]: %RED%**%WHITE%Super Healing // 	Super Healing Potion
 ItemDisplay[mp5]: %BLUE%**%WHITE%Super Mana // 	Super Mana Potion
 ItemDisplay[rvs]: Rejuvenation // 	Rejuv Potion
