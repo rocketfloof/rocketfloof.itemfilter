@@ -64,7 +64,7 @@ ItemDisplay[rvs]: Rejuvenation // 	Rejuv Potion
 ItemDisplay[rvl]: %PURPLE%**%WHITE%Full Rejuvenation // 	Full Rejuv Potion
 ItemDisplay[wms]: // 	Thawing Potion
 ItemDisplay[vps]: // 	Stamina Potion
-ItemDisplay[yps]: Antidote // 	Antidote Potion
+ItemDisplay[yps]:  // 	Antidote Potion
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Throw Potions  ███████ //
 ItemDisplay[gps CLVL>15]: // 	Rancid Gas Potion
@@ -932,7 +932,7 @@ ItemDisplay[bal !CLVL<19]: // 	Balanced Axe
 ItemDisplay[9tk]: %YELLOW%$$ %NAME% $$ // 	Battle Dart
 ItemDisplay[9ta]: %YELLOW%$$ %NAME% $$ // 	Francisca
 ItemDisplay[9bk]: %YELLOW%$$ %NAME% $$ // 	War Dart
-ItemDisplay[9b8]: %YELLOW%$$ %NAME% $$ // 	Hurlbat
+ItemDisplay[9b8]:  // 	Hurlbat
 //─────────────────────────────────────────────────
 ItemDisplay[7tk]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
 ItemDisplay[7ta]: // 	Flying Axe
