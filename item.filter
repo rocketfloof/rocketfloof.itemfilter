@@ -77,10 +77,12 @@ ItemDisplay[opl CLVL>15]: // 	Fulminating Potion
 // ███████  Charms  ███████ //
 ItemDisplay[(cm1 OR cm2 OR cm3) UNI]: %NAME% //ANNI,TORCH, GHEEDS
 ItemDisplay[cm1 !ID ILVL<27]: // 	hide Small Charm below ilvl 27
+ItemDisplay[cm1 ILVL>89]: %NAME%%RED%[%ILVL%] // 	Small Charm
 ItemDisplay[cm1]: %NAME%%GRAY%[%ILVL%] // 	Small Charm
 ItemDisplay[cm2 !ID ILVL<17]: // 	hide large charm below ilvl 17
 ItemDisplay[cm2]: %NAME%%GRAY%[%ILVL%] // 	large charm
 ItemDisplay[cm3 !ID ILVL<22]: // 	hide grand charm below ilvl 22
+ItemDisplay[cm3 ILVL>90]: %NAME%%RED%[%ILVL%] // 	grand charm
 ItemDisplay[cm3]: %NAME%%GRAY%[%ILVL%] // 	grand charm
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Runes  ███████ //
@@ -216,9 +218,9 @@ ItemDisplay[SET !ID ult]: //Naj's Light Plate
 ItemDisplay[SET !ID ci0]: //Naj's Circlet
 
 ItemDisplay[SET !ID 7qr]: %NAME% %RED%*SLAM FOR 3OS* //Natalya's Mark
-//ItemDisplay[SET !ID ucl]: //Natalya's Shadow
-//ItemDisplay[SET !ID xh9]: //Natalya's Totem
-//ItemDisplay[SET !ID xmb]: //Natalya's Soul
+ItemDisplay[SET !ID ucl]: //Natalya's Shadow
+ItemDisplay[SET !ID xh9]: //Natalya's Totem
+ItemDisplay[SET !ID xmb]: //Natalya's Soul
 
 ItemDisplay[SET !ID bwn]: //Sander's Superstition
 ItemDisplay[SET !ID vgl]: //Sander's Taboo
@@ -238,7 +240,7 @@ ItemDisplay[SET !ID hbl]: //Sigon's Wrap
 //ItemDisplay[SET !ID oba]: //Tal Rasha's Lidless Eye
 //ItemDisplay[SET !ID uth]: //Tal Rasha's Guardianship
 //ItemDisplay[SET !ID xsk]: //Tal Rasha's Horadric Crest
-//ItemDisplay[SET !ID zmb]: //Tal Rasha's Fine-Spun Cloth
+ItemDisplay[SET !ID zmb]: //Tal Rasha's Fine-Spun Cloth
 //ItemDisplay[SET !ID amu]: // Set Amulet
 
 ItemDisplay[SET !ID mpi]: //Tancred's Crowbill
@@ -682,7 +684,7 @@ ItemDisplay[UNI !ID ztb]: // 	Snowclash Battle Belt
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Druid Pelts  ███████ //
 //ItemDisplay[UNI !ID dra]: // 	Jalal's Mane Totemic Mask
-//ItemDisplay[UNI !ID drb]: // 	Cerebus' Bite Blood Spirt
+ItemDisplay[UNI !ID drb]: // 	Cerebus' Bite Blood Spirt
 //ItemDisplay[UNI !ID drd]: // 	Spirit Keeper Earth Spirit
 //ItemDisplay[UNI !ID dre]: // 	Ravenlore Sky Spirit
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -690,12 +692,12 @@ ItemDisplay[UNI !ID ztb]: // 	Snowclash Battle Belt
 //ItemDisplay[UNI !ID baa]: // 	Arreat's Face Slayer Guard
 //ItemDisplay[UNI !ID bac]: // 	Wolfhowl Fury Visor
 //ItemDisplay[UNI !ID bad]: // 	Demonhorn's Edge Destroyer Helm
-//ItemDisplay[UNI !ID bae]: // 	Halaberd's Reign Conquerer Crown
+ItemDisplay[UNI !ID bae]: // 	Halaberd's Reign Conquerer Crown
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Paladin Shields  ███████ //
 //ItemDisplay[UNI !ID pa9]: //	Herald Of Zakarum Gilded Shield
 //ItemDisplay[UNI !ID pac]: // 	Alma Negra Sacred Rondache
-//ItemDisplay[UNI !ID pae]: // 	Dragonscale Zakarum Shield
+ItemDisplay[UNI !ID pae]: // 	Dragonscale Zakarum Shield
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Necro Heads  ███████ //
 //ItemDisplay[UNI !ID nea]: // 	Homunculus Hierophant Trophy
@@ -814,7 +816,7 @@ ItemDisplay[7gi !CLVL<59]: // 	Glorious Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wands  ███████ //
 ItemDisplay[(WP12 AND ETH) !NORM]:
-ItemDisplay[(WP12 AND NMAG) !NORM]: %NAME% [%PRICE%]
+ItemDisplay[(WP12 AND NMAG) !NORM]: %NAME% %WHITE%[%PRICE%]
 ItemDisplay[wnd !CLVL<19]: // 	Wand
 ItemDisplay[ywn !CLVL<19]: // 	Yew Wand
 ItemDisplay[bwn !CLVL<19]: // 	Bone Wand
@@ -933,9 +935,9 @@ ItemDisplay[9bk]: %YELLOW%$$ %NAME% $$ // 	War Dart
 ItemDisplay[9b8]: %YELLOW%$$ %NAME% $$ // 	Hurlbat
 //─────────────────────────────────────────────────
 ItemDisplay[7tk]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
-ItemDisplay[7ta]: %YELLOW%$$ %NAME% $$ // 	Flying Axe
+ItemDisplay[7ta]: // 	Flying Axe
 ItemDisplay[7bk]: %YELLOW%$$ %NAME% $$ // 	Winged Knife
-ItemDisplay[7b8]: %YELLOW%$$ %NAME% $$ // 	Winged Axe
+ItemDisplay[7b8]:$ // 	Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Javelins  ███████ //
 ItemDisplay[WP6 AND ETH]:
@@ -1000,7 +1002,7 @@ ItemDisplay[7wc !CLVL<59]: // 	Giant Thresher
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Staves  ███████ //
 ItemDisplay[(WP11 AND ETH) !NORM]:
-ItemDisplay[(WP11 AND NMAG) !NORM]: %NAME% [%PRICE%]
+//ItemDisplay[(WP11 AND NMAG) !NORM]: %NAME% %WHITE%[%PRICE%]
 ItemDisplay[sst !CLVL<19]: // 	Short Staff
 ItemDisplay[lst !CLVL<19]: // 	Long Staff
 ItemDisplay[cst !CLVL<19]: // 	Gnarled Staff
@@ -1065,7 +1067,7 @@ ItemDisplay[6rx !CLVL<59]: // 	Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Scepters  ███████ //
 ItemDisplay[(WP13 AND ETH) !NORM]:
-ItemDisplay[(WP13 AND NMAG) !NORM]: %NAME% [%PRICE%]
+//ItemDisplay[(WP13 AND NMAG) !NORM]: %NAME% %WHITE%[%PRICE%]
 ItemDisplay[scp !CLVL<19]: // 	Scepter
 ItemDisplay[gsc !CLVL<19]: // 	Grand Scepter
 ItemDisplay[wsp !CLVL<19]: // 	War Scepter
@@ -1105,7 +1107,7 @@ ItemDisplay[7qr !CLVL<59]: // 	Scissors Suwayyah
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Sorc Orbs  ███████ //
 ItemDisplay[(CL6 AND ETH) !NORM]:
-ItemDisplay[(CL6 AND NMAG) !NORM]: %NAME% [%PRICE%]
+ItemDisplay[(CL6 AND NMAG) !NORM]: %NAME% %WHITE%[%PRICE%]
 ItemDisplay[ob1 !CLVL<19]: // 	Eagle Orb
 ItemDisplay[ob2 !CLVL<19]: // 	Sacred Globe
 ItemDisplay[ob3 !CLVL<19]: // 	Smoked Sphere
@@ -1166,7 +1168,7 @@ ItemDisplay[uap !CLVL<59]: // 	Shako
 ItemDisplay[ukp !CLVL<59]: // 	Hydraskull
 ItemDisplay[ulm !CLVL<59]: // 	Armet
 ItemDisplay[uhl !CLVL<59]: // 	Giant Conch
-ItemDisplay[uhm]: %YELLOW%$$ %NAME% $$ // 	Spired Helm
+ItemDisplay[uhm !CLVL<59]:  // 	Spired Helm
 ItemDisplay[urn !CLVL<59]: // 	Corona
 ItemDisplay[usk !CLVL<59]: // 	Demonhead
 ItemDisplay[uh9 !CLVL<59]: // 	Bone Visage
@@ -1195,14 +1197,14 @@ ItemDisplay[xtu !CLVL<49]: // 	Trellised Armor
 ItemDisplay[xng !CLVL<49]: // 	Linked Mail
 ItemDisplay[xcl !CLVL<49]: // 	Tigulated Mail
 ItemDisplay[xhn !CLVL<49]: // 	Mesh Armor
-//ItemDisplay[xrs]: // 	Cuirass
-//ItemDisplay[xpl]: // 	Russet Armor
-//ItemDisplay[xlt]: // 	Templar Coat
-//ItemDisplay[xld]: // 	Sharktooth Armor
-//ItemDisplay[xth]: // 	Embossed Plate
-//ItemDisplay[xul]: // 	Chaos Armor
-//ItemDisplay[xar]: // 	Ornate Armor
-//ItemDisplay[xtp]: // 	Mage Plate
+ItemDisplay[xrs !CLVL<49]: // 	Cuirass
+ItemDisplay[xpl !CLVL<49]: // 	Russet Armor
+ItemDisplay[xlt !CLVL<49]: // 	Templar Coat
+ItemDisplay[xld !CLVL<49]: // 	Sharktooth Armor
+ItemDisplay[xth !CLVL<49]: // 	Embossed Plate
+ItemDisplay[xul !CLVL<49]: // 	Chaos Armor
+ItemDisplay[xar !CLVL<49]: // 	Ornate Armor
+ItemDisplay[xtp !CLVL<49]: // 	Mage Plate
 //─────────────────────────────────────────────────
 //ItemDisplay[uui]: // 	Dusk Shroud
 //ItemDisplay[uea]: // 	Wyrmhide
@@ -1245,8 +1247,8 @@ ItemDisplay[urg !CLVL<59]: // 	Hyperion
 ItemDisplay[uit !CLVL<49]: // 	Monarch
 ItemDisplay[uow !CLVL<59]: // 	Aegis
 ItemDisplay[uts !CLVL<59]: // 	Ward
-ItemDisplay[ush]: %YELLOW%$$ %NAME% $$ // 	Troll Nest
-ItemDisplay[upk]: %YELLOW%$$ %NAME% $$ // 	Blade Barrier
+ItemDisplay[ush !CLVL<59]: // 	Troll Nest
+ItemDisplay[upk !CLVL<59]: // 	Blade Barrier
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gloves  ███████ //
 ItemDisplay[EQ4 AND ETH]:
@@ -1264,7 +1266,7 @@ ItemDisplay[!CLVL<59 xhg]: // 	War Gauntlets
 //─────────────────────────────────────────────────
 ItemDisplay[!CLVL<59 ulg]: // 	Bramble Mitts
 ItemDisplay[!CLVL<59 uvg]: // 	Vampirebone Gloves
-ItemDisplay[umg]: %YELLOW%$$ %NAME% $$  // 	Vambraces
+ItemDisplay[umg !CLVL<59]:   // 	Vambraces
 ItemDisplay[!CLVL<59 utg]: // 	Crusader Gauntlets
 ItemDisplay[!CLVL<59 uhg]: // 	Ogre Gauntlets
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -1308,7 +1310,7 @@ ItemDisplay[!CLVL<59 uhc]: // 	Colossus Girdle
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Druid Pelts  ███████ //
 ItemDisplay[(CL1 AND ETH) !NORM]:
-ItemDisplay[(CL1 AND NMAG) !NORM]: %NAME% [%PRICE%]
+ItemDisplay[(CL1 AND NMAG) !NORM]: %NAME% %WHITE%[%PRICE%]
 ItemDisplay[dr1 !CLVL<49]: // 	Wolf Head
 ItemDisplay[dr2 !CLVL<49]: // 	Hawk Helm
 ItemDisplay[dr3 !CLVL<49]: // 	Antlers
@@ -1367,7 +1369,7 @@ ItemDisplay[!CLVL<59 paf]: // 	Vortex Shield
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Necro Shields  ███████ //
 ItemDisplay[(CL4 AND ETH) !NORM]:
-ItemDisplay[(CL4 AND NMAG) !NORM]: %NAME% [%PRICE%]
+ItemDisplay[(CL4 AND NMAG) !NORM]: %NAME% %WHITE%[%PRICE%]
 ItemDisplay[!CLVL<59 ne1]: // 	Preserved Head
 ItemDisplay[!CLVL<59 ne2]: // 	Zombie Head
 ItemDisplay[!CLVL<59 ne3]: // 	Unraveller Head
