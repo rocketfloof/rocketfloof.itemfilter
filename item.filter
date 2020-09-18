@@ -24,18 +24,19 @@ ItemDisplay[isc]: // 	Identify Scroll
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Relics  ███████ //
 ItemDisplay[(ma1 OR ma2 OR ma3 OR ma4 OR ma5 OR ma6 OR ma7 OR ma8 OR ma9 OR ma10) !ID]: %RED%000%YELLOW% %NAME% %RED%000
+ItemDisplay[(ma1 OR ma2 OR ma3 OR ma4 OR ma5 OR ma6 OR ma7 OR ma8 OR ma9 OR ma10) ID]: %YELLOW%%NAME%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
 ItemDisplay[(amu OR rin OR jew) !ID UNI]: %RED%0000000000 %GOLD%%NAME% %RED%0000000000
 ItemDisplay[rin MAG CLVL>40]:
 ItemDisplay[amu MAG !ID ILVL<60]:
 ItemDisplay[amu RARE !ID ILVL<40]:
-ItemDisplay[jew ILVL<35]: // 	Jewel
+ItemDisplay[jew !ID ILVL<35]: // 	Jewel 
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
 ItemDisplay[!RARE !UNI !CLVL<30 aqv]: //	Rusted Arrows
-ItemDisplay[cqv]: // 	Rusted Bolts
 ItemDisplay[!RARE !UNI !CLVL<30 aq2]: // 	Arrows
+ItemDisplay[cqv]: // 	Rusted Bolts
 ItemDisplay[cq2]: // 	Bolts
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gems  ███████ //
@@ -57,8 +58,8 @@ ItemDisplay[(hp3 OR mp3) !CLVL<39]: // 	Healing/Mana Potion
 ItemDisplay[hp4]: Greater Healing // 	Greater Healing Potion
 ItemDisplay[mp4]: Greater Mana // 	Greater Mana Potion
 //ItemDisplay[hp5 OR mp5 OR yps]:
-ItemDisplay[hp5]: %RED%**%WHITE%Super Healing // 	Super Healing Potion
-ItemDisplay[mp5]: %BLUE%**%WHITE%Super Mana // 	Super Mana Potion
+ItemDisplay[hp5]: %RED%**%WHITE%Super // 	Super Healing Potion
+ItemDisplay[mp5]: %BLUE%**%WHITE%Super // 	Super Mana Potion
 ItemDisplay[rvs]: Rejuvenation // 	Rejuv Potion
 ItemDisplay[rvl]: %PURPLE%**%WHITE%Full Rejuvenation // 	Full Rejuv Potion
 ItemDisplay[wms]: // 	Thawing Potion
@@ -74,9 +75,13 @@ ItemDisplay[gpl CLVL>15]: // 	Strangling Gas Potion
 ItemDisplay[opl CLVL>15]: // 	Fulminating Potion
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Charms  ███████ //
-//ItemDisplay[cm1]: // 	Small Charm
-//ItemDisplay[cm2]: // 	Large Charm
-//ItemDisplay[cm3]: // 	Grand Charm
+ItemDisplay[(cm1 OR cm2 OR cm3) UNI]: %NAME% //ANNI,TORCH, GHEEDS
+ItemDisplay[cm1 !ID ILVL<27]: // 	hide Small Charm below ilvl 27
+ItemDisplay[cm1]: %NAME%%GRAY%[%ILVL%] // 	Small Charm
+ItemDisplay[cm2 !ID ILVL<17]: // 	hide large charm below ilvl 17
+ItemDisplay[cm2]: %NAME%%GRAY%[%ILVL%] // 	large charm
+ItemDisplay[cm3 !ID ILVL<22]: // 	hide grand charm below ilvl 22
+ItemDisplay[cm3]: %NAME%%GRAY%[%ILVL%] // 	grand charm
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Runes  ███████ //
 ItemDisplay[r01]: %NAME% %GRAY%[1] // 	El Rune
@@ -101,15 +106,15 @@ ItemDisplay[r19]: %NAME% %GRAY%[19] // 	Fal Rune
 ItemDisplay[r20]: %NAME% %GRAY%[20] // 	Lem Rune
 ItemDisplay[r21]: %RED%000%ORANGE%%NAME% %GRAY%[21]%RED%000 // 	Pul Rune
 ItemDisplay[r22]: %RED%000%ORANGE%%NAME% %GRAY%[22]%RED%000 // 	Um Rune
-ItemDisplay[r23]: %RED%0000000%ORANGE%%NAME% %GRAY%[23]%RED%0000000 // 	Mal Rune
+ItemDisplay[r23]: %RED%00000%ORANGE%%NAME% %GRAY%[23]%RED%00000 // 	Mal Rune
 ItemDisplay[r24]: %RED%0000000%ORANGE%%NAME% %GRAY%[24]%RED%0000000 // 	Ist Rune
-ItemDisplay[r25]: %RED%0000000000%ORANGE%%NAME% %GRAY%[25]%RED%0000000000 // 	Gul Rune
-ItemDisplay[r26]: %RED%0000000000%ORANGE%%NAME% %GRAY%[26]%RED%0000000000 // 	Vex Rune
+ItemDisplay[r25]: %RED%00000000%ORANGE%%NAME% %GRAY%[25]%RED%00000000 // 	Gul Rune
+ItemDisplay[r26]: %RED%00000000%ORANGE%%NAME% %GRAY%[26]%RED%00000000 // 	Vex Rune
 ItemDisplay[r27]: %RED%0000000000%ORANGE%%NAME% %GRAY%[27]%RED%0000000000 // 	Ohm Rune
-ItemDisplay[r28]: %RED%0000000000%ORANGE%%NAME% %GRAY%[28]%RED%0000000000 // 	Lo Rune
+ItemDisplay[r28]: %RED%000000000000%ORANGE%%NAME% %GRAY%[28]%RED%000000000000 // 	Lo Rune
 ItemDisplay[r29]: %RED%0000000000%ORANGE%%NAME% %GRAY%[29]%RED%0000000000 // 	Sur Rune
-ItemDisplay[r30]: %RED%0000000000%ORANGE%%NAME% %GRAY%[30]%RED%0000000000 // 	Ber Rune
-ItemDisplay[r31]: %RED%0000000000%ORANGE%%NAME% %GRAY%[31]%RED%0000000000 // 	Jah Rune
+ItemDisplay[r30]: %RED%000000000000%ORANGE%%NAME% %GRAY%[30]%RED%000000000000 // 	Ber Rune
+ItemDisplay[r31]: %RED%00000000000000%ORANGE%%NAME% %GRAY%[31]%RED%00000000000000 // 	Jah Rune
 ItemDisplay[r32]: %RED%0000000000%ORANGE%%NAME% %GRAY%[32]%RED%0000000000 // 	Cham Rune
 ItemDisplay[r33]: %RED%0000000000%ORANGE%%NAME% %GRAY%[33]%RED%0000000000 // 	Zod Rune
 //─────────────────────────────────────────────────────────────────────────────────────────────────
