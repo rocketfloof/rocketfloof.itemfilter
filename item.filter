@@ -1206,21 +1206,21 @@ ItemDisplay[xul !CLVL<49]: // 	Chaos Armor
 ItemDisplay[xar !CLVL<49]: // 	Ornate Armor
 ItemDisplay[xtp !CLVL<49]: // 	Mage Plate
 //─────────────────────────────────────────────────
-//ItemDisplay[uui]: // 	Dusk Shroud
-//ItemDisplay[uea]: // 	Wyrmhide
-//ItemDisplay[ula]: // 	Scarab Husk
-//ItemDisplay[utu]: // 	Wire Fleece
-//ItemDisplay[ung]: // 	Diamond Mail
-//ItemDisplay[ucl]: // 	Loricated Mail
-//ItemDisplay[uhn]: // 	Boneweave
-//ItemDisplay[urs]: // 	Great Hauberk
-//ItemDisplay[upl]: // 	Balrog Skin
-//ItemDisplay[uld]: // 	Kraken Shell
-//ItemDisplay[ult]: // 	Hellforged Plate
-//ItemDisplay[uth]: // 	Lacquered Plate
-//ItemDisplay[uul]: // 	Shadow Plate
-//ItemDisplay[uar]: // 	Sacred Armor
-//ItemDisplay[utp]: // 	Archon Plate
+ItemDisplay[uui]: // 	Dusk Shroud
+ItemDisplay[uea]: // 	Wyrmhide
+ItemDisplay[ula]: // 	Scarab Husk
+ItemDisplay[utu]: // 	Wire Fleece
+ItemDisplay[ung]: // 	Diamond Mail
+ItemDisplay[ucl]: // 	Loricated Mail
+ItemDisplay[uhn]: // 	Boneweave
+ItemDisplay[urs]: // 	Great Hauberk
+ItemDisplay[upl]: // 	Balrog Skin
+ItemDisplay[uld]: // 	Kraken Shell
+ItemDisplay[ult]: // 	Hellforged Plate
+ItemDisplay[uth]: // 	Lacquered Plate
+ItemDisplay[uul]: // 	Shadow Plate
+ItemDisplay[uar]: // 	Sacred Armor
+ItemDisplay[utp]: // 	Archon Plate
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Shields  ███████ //
 ItemDisplay[buc !CLVL<19]: // 	Buckler
