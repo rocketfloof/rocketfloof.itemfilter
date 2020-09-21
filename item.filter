@@ -132,7 +132,7 @@ ItemDisplay[SET !ID uul]: //Aldur's Deception
 ItemDisplay[SET !ID dr8]: //Aldur's Stony Gaze
 ItemDisplay[SET !ID xtb]: //Aldur's Advance
 
-ItemDisplay[SET !ID rin]: //Angelic Halo and Cathan's Seal
+//ItemDisplay[SET !ID rin]: //Angelic Halo and Cathan's Seal
 ItemDisplay[SET !ID rng]: //Angelic Mantle
 ItemDisplay[SET !ID sbr]: //Angelic Sickle
 
