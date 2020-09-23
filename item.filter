@@ -76,12 +76,12 @@ ItemDisplay[opl CLVL>15]: // 	Fulminating Potion
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Charms  ███████ //
 ItemDisplay[(cm1 OR cm2 OR cm3) UNI]: %NAME% //ANNI,TORCH, GHEEDS
-ItemDisplay[cm1 !ID ILVL<27]: // 	hide Small Charm below ilvl 27
+//ItemDisplay[cm1 !ID ILVL<27]: // 	hide Small Charm below ilvl 27
 ItemDisplay[cm1 ILVL>89]: %NAME%%RED%[%ILVL%] // 	Small Charm
 ItemDisplay[cm1]: %NAME%%GRAY%[%ILVL%] // 	Small Charm
-ItemDisplay[cm2 !ID ILVL<17]: // 	hide large charm below ilvl 17
+//ItemDisplay[cm2 !ID ILVL<17]: // 	hide large charm below ilvl 17
 ItemDisplay[cm2]: %NAME%%GRAY%[%ILVL%] // 	large charm
-ItemDisplay[cm3 !ID ILVL<22]: // 	hide grand charm below ilvl 22
+//ItemDisplay[cm3 !ID ILVL<22]: // 	hide grand charm below ilvl 22
 ItemDisplay[cm3 ILVL>90]: %NAME%%RED%[%ILVL%] // 	grand charm
 ItemDisplay[cm3]: %NAME%%GRAY%[%ILVL%] // 	grand charm
 //─────────────────────────────────────────────────────────────────────────────────────────────────
